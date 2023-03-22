@@ -16,9 +16,6 @@ resources:
     url: >-
       https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Air_Monitoring_Stations/FeatureServer/0/query
     format: api
-  - name: Download Request doc
-    url: resources/download_request.pdf
-    format: html
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Digital University
