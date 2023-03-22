@@ -16,25 +16,25 @@ resources:
     url: >-
       https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
     format: pdf
-license: ''
-technical_report: ''
-codebook: ''
-additional_material: ''
-dataset_name: ''
-location: ''
-start_date: ''
-end_date: ''
-dataset_type: ''
-sensor_type: ''
-size: ''
-dataset_format: ''
-other_format: ''
-number_participants: ''
-language: ''
-collection_name: ''
-project_url: ''
-5_stars: ''
-publication_date: ''
-identifier: ''
-request_contact: ''
+license: >-
+  https://www.google.com/webhp?hl=it&sa=X&ved=0ahUKEwjJkLu1-u_9AhVMQ_EDHbhWCloQPAgI
+dataset_name: Bluetooth Low Energy Event
+location: Trento (Italy)
+start_date: 01/03/2020
+end_date: 01/01/2021
+dataset_type: Sensor
+sensor_type: Motion
+size: 120MB
+dataset_format: parquet
+other_format: csv
+number_participants: '158'
+language: English
+collection_name: SmartUnitn2
+project_url: ' <a href="http://www.smart-society-project.eu/">KGE course website</a>'
+category:
+  - Digital University
+5_stars: '3'
+publication_date: 07/04/2023
+identifier: 000-AAAA-AAA-AA
+request_contact: datadistribution.knowdive@unitn.it
 ---
