@@ -16,15 +16,6 @@ dataset_fields:
     label: License
     form_template: form/license.html
     datajson: license
-  - field_name: technical_report
-    label: Technical Report
-    datajson: technical_report
-  - field_name: codebook
-    label: Codebook
-    datajson: codebook
-  - field_name: additional_material
-    label: Additional Material
-    datajson: additional_material  
   - field_name: dataset_name
     label: Dataset_name
     datajson: dataset_name
