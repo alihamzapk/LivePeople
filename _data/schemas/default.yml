@@ -17,7 +17,7 @@ dataset_fields:
     form_template: form/license.html
     datajson: license
   - field_name: dataset_name
-    label: Dataset_name
+    label: Dataset Name
     datajson: dataset_name
   - field_name: location
     label: Location
