@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Time Diaries
+title: 2018-SU2-Questionnaire
 organization: Unitn
 notes: my desc
 resources:
@@ -8,7 +8,7 @@ resources:
     url: >-
       https://drive.google.com/file/d/1mSIBHgKJBw07crEjMTYEi3ylpPL-62fB/view?usp=sharing
     format: PDF
-  - name: 2019-SmartUnitn2-codebook(a)
+  - name: 2018-SmartUnitn2-codebook(a)
     url: >-
       https://drive.google.com/file/d/1WMWGQ_gQuAUWZOf6RrHWBTN2k4wW8-tX/view?usp=sharing
     format: PDF
@@ -26,16 +26,16 @@ resources:
     format: pdf
 license: >-
   https://www.google.com/webhp?hl=it&sa=X&ved=0ahUKEwjJkLu1-u_9AhVMQ_EDHbhWCloQPAgI
-dataset_name: Time Diaries
+dataset_name: Questionnaire
 location: Trento (Italy)
 start_date: 01/03/20
 end_date: 01/01/21
-dataset_type: Diachronic-Interactions
-sensor_type:  Device usage
-size: 151MB
+dataset_type: Synchronic-Interactions
+sensor_type: Motion
+size: 150MB
 dataset_format: parquet
 other_format: csv
-number_participants: 153
+number_participants: 158
 language: English
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
