@@ -23,16 +23,16 @@ for index, row in df.iterrows():
 	dataset_md = dataset_md+"      "+row['technical_report-URL']+"\n"
 	dataset_md = dataset_md+"    format: "+row['technical_report-format']+"\n"
 
-	codebook_name_array = str(row['codebook-name']).split(';')
-	codebook_url_array = str(row['codebook-URL']).split(';')
+	codebook_name_array = str(row['codebook-name']).split(', ')
+	codebook_url_array = str(row['codebook-URL']).split(', ')
 	for c in range(len(codebook_name_array)):
 		dataset_md = dataset_md+"  - name: "+codebook_name_array[c]+"\n"
 		dataset_md = dataset_md+"    url: >-\n"
 		dataset_md = dataset_md+"      "+codebook_url_array[c]+"\n"
 		dataset_md = dataset_md+"    format: "+row['codebook-format']+"\n"
 
-	material_name_array = str(row['additional_material-name']).split(';')
-	material_url_array = str(row['additional_material-URL']).split(';')
+	material_name_array = str(row['additional_material-name']).split(', ')
+	material_url_array = str(row['additional_material-URL']).split(', ')
 	for m in range(len(material_name_array)):
 		dataset_md = dataset_md+"  - name: "+material_name_array[m]+"\n"
 		dataset_md = dataset_md+"    url: >-\n"
@@ -44,6 +44,8 @@ for index, row in df.iterrows():
 
 	dataset_md = dataset_md+"dataset_name: "+row['dataset_name']+"\n"
 	dataset_md = dataset_md+"location: "+row['location']+"\n"
+	dataset_md = dataset_md+"latitude_map: "+str(row['latitude'])+"\n"
+	dataset_md = dataset_md+"longitude_map: "+str(row['longitude'])+"\n"
 	dataset_md = dataset_md+"start_date: "+row['start_date']+"\n"
 	dataset_md = dataset_md+"end_date: "+row['end_date']+"\n"
 	dataset_md = dataset_md+"dataset_type: "+row['dataset_type']+"\n"
