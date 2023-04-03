@@ -25,7 +25,7 @@ resources:
       https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
     format: pdf
 license: >-
-  ./../../resources/2023-LivePeople_License_Webpage-v1.html
+  ./../../resources/2023LivePeopleLicense.html
 dataset_name: Bluetooth Low Energy Event
 location: Trento (Italy)
 start_date: 01/03/20
