@@ -3,7 +3,7 @@
 import pandas as pd
  
 # read by default 1st sheet of an excel file
-df = pd.read_csv('testLP.csv')
+df = pd.read_csv('../uploaded-datasets/LP2023SmartUnitn2.csv')
 
 # print(df['notes'])
 dataset_md = ""
@@ -40,7 +40,7 @@ for index, row in df.iterrows():
 		dataset_md = dataset_md+"    format: "+row['additional_material-format']+"\n"
 
 	dataset_md = dataset_md+"license: >-\n"
-	dataset_md = dataset_md+"  "+row['licence-URL']+"\n"
+	dataset_md = dataset_md+"  "+row['license']+"\n"
 
 	dataset_md = dataset_md+"dataset_name: "+row['dataset_name']+"\n"
 	dataset_md = dataset_md+"location: "+row['location']+"\n"

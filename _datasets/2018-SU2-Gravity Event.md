@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Questionnaire
+title: 2018-SU2-Gravity Event
 organization: Unitn
 notes: The dataset is part of SmartUnitn2 data collection, which contains diachronic data about the everyday life of 158 university students over a period of four weeks, and also additional synchronic data about profile, e.g., demographics, routines, personality. The diachronic data are collected from 27 sensors associated to around 100+ thousand self-reported annotations. The data collection is based on an ontological representation of the situational context and follows various reference standards, e.g., HETUS and the Big Five. These datasets offer unique opportunities to investigate the daily routines of university students in a multi-layered perspective.
 resources:
@@ -18,23 +18,23 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Questionnaire
+dataset_name: Gravity Event
 location: Trento (Italy)
 start_date: 2018-05-07
-end_date: 2018-05-07
-dataset_type: Synchronic-Interactions
-sensor_type: unknown
-size: 1MB
+end_date: 2018-06-07
+dataset_type: Sensor
+sensor_type:  Motion
+size: 18789MB
 dataset_format: parquet
 other_format: csv
-number_participants: 158
-language: English
+number_participants: 104
+language: unknown
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
   - Digital University
 5_stars: 3
 publication_date: 7/4/2023
-identifier: 002.AAAB.AAA.AA
+identifier: 002.AAAB.AAA.BA
 request_contact: datadistribution.knowdive@unitn.it
 ---
