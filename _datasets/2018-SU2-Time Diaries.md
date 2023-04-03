@@ -24,7 +24,8 @@ resources:
     url: >-
       https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
     format: pdf
-license: ./../../resources/2023LivePeopleLicense.html>
+license: >-
+  ./../../resources/2023LivePeopleLicense.html
 dataset_name: Time Diaries
 location: Trento (Italy)
 start_date: 01/03/20
@@ -37,7 +38,7 @@ other_format: csv
 number_participants: '153'
 language: English
 collection_name: SmartUnitn2
-project_url: <a href=
+project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
   - Digital University
 5_stars: '3'
