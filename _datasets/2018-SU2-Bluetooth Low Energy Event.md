@@ -45,4 +45,6 @@ category:
 publication_date: 7/4/2023
 identifier: 000-AAAA-AAA-AA
 request_contact: datadistribution.knowdive@unitn.it
+latitude_map: 46.07
+longitude_map: 11.13
 ---

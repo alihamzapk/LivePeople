@@ -72,6 +72,12 @@ dataset_fields:
   - field_name: request_contact
     label: Download Request Contact
     datajson: request_contact
+  - field_name: latitude_map
+    label: latitude
+    datajson: latitude_map
+  - field_name: longitude_map
+    label: longitude
+    datajson: longitude_map
 
 resource_fields:
   - field_name: name
