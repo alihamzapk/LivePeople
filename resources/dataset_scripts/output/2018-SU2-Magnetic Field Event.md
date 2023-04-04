@@ -2,7 +2,7 @@
 schema: default
 title: 2018-SU2-Magnetic Field Event
 organization: Unitn
-notes: The dataset is part of SmartUnitn2 data collection, which contains diachronic data about the everyday life of 158 university students over a period of four weeks, and also additional synchronic data about profile, e.g., demographics, routines, personality. The diachronic data are collected from 27 sensors associated to around 100+ thousand self-reported annotations. The data collection is based on an ontological representation of the situational context and follows various reference standards, e.g., HETUS and the Big Five. These datasets offer unique opportunities to investigate the daily routines of university students in a multi-layered perspective.
+notes: The dataset contains 3D vector of the magnetic field. It is part of SmartUnitn2 data collection, which contains data from 27 sensors associated to around 100+ thousand self-reported annotations about the everyday life of 158 university students over a period of 4 weeks, and also additional data about profile.
 resources:
   - name: 2018-SmartUnitn2-technical_report
     url: >-
@@ -34,17 +34,17 @@ start_date: 2018-05-07
 end_date: 2018-06-07
 dataset_type: Sensor
 sensor_type:  Position
-size: 40583MB
+size: 40583 MB
 dataset_format: parquet
 other_format: csv
-number_participants: 133
+number_participants: 133 MB
 language: unknown
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
   - Digital University
 5_stars: 3
-publication_date: 7/4/2023
+publication_date: 2023-04-07
 identifier: 002.AAAB.AAA.BP
 request_contact: datadistribution.knowdive@unitn.it
 ---
