@@ -26,6 +26,7 @@ layout: default
       {% if category.logo and category.logo != empty %}
         <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
       {% endif %}
+      <br>
       {{ category.name }}
     </a>
   {% endif %}
@@ -39,8 +40,9 @@ layout: default
   {% capture logo_alt %}{{ service.name }}{% if service.logo_credit and service.logo_credit != empty %} logo by {{ service.logo_credit }}{% endif %}{% endcapture %}
   <a href="{{service.url}}" class="thumbnail" title="{{ logo_alt }}">
     {% if service.logo and service.logo != empty %}
-    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" width="50" height="50">
+    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" width="75" height="50">
     {% endif %}
+    <br>
     {{ service.name }}
   </a>
   {% endif %}

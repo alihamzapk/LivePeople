@@ -1,4 +1,25 @@
-- name: TestService
-  logo: /img/categories/arts-culture-history.svg
+
+- name: Experiment<br>Designer
+  logo: /img/services-logo/designer-nobg.png
   featured: true
-  url:
+  url: exp_designer
+- name: iLog<br>App
+  logo: /img/services-logo/ilog-nobg.png
+  featured: true
+  url: http://datascientia.disi.unitn.it/ilog/
+- name: iLog<br>Configuration
+  logo: /img/services-logo/config.png
+  featured: true
+  url: ilog_conf
+- name: Participants<br>Engagement
+  logo: /img/services-logo/Participants-engagement.png
+  featured: true
+  url: particpant_engage
+- name: Data<br>Preparation
+  logo: /img/services-logo/data-prep.png
+  featured: true
+  url: data_preparation
+- name: Compositional<br>Download
+  logo: /img/services-logo/comp.png
+  featured: true
+  url: compositional_download
