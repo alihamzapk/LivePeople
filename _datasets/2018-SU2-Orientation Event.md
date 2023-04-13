@@ -37,7 +37,7 @@ sensor_type:  Position
 size: 31484 MB
 dataset_format: parquet
 other_format: csv
-number_participants: 133 MB
+number_participants: 133
 language: unknown
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>

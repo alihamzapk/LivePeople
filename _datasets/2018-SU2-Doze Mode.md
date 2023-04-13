@@ -37,7 +37,7 @@ sensor_type:  Device usage
 size: 1 MB
 dataset_format: parquet
 other_format: csv
-number_participants: 105 MB
+number_participants: 105
 language: unknown
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
