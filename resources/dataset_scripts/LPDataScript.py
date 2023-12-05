@@ -3,7 +3,7 @@
 import pandas as pd
  
 # read by default 1st sheet of an excel file
-df = pd.read_csv('../uploaded-datasets/LP2023Chatbot1.csv')
+df = pd.read_csv('../uploaded-datasets/LP2023Diversity1.csv')
 
 # print(df['notes'])
 dataset_md = ""
@@ -50,10 +50,10 @@ for index, row in df.iterrows():
 	dataset_md = dataset_md+"location: "+row['location']+"\n"
 	dataset_md = dataset_md+"latitude_map: "+str(row['latitude'])+"\n"
 	dataset_md = dataset_md+"longitude_map: "+str(row['longitude'])+"\n"
-	dataset_md = dataset_md+"start_date: "+row['start_date']+"\n"
-	dataset_md = dataset_md+"end_date: "+row['end_date']+"\n"
+	dataset_md = dataset_md+"start_date: "+str(row['start_date'])+"\n"
+	dataset_md = dataset_md+"end_date: "+str(row['end_date'])+"\n"
 	dataset_md = dataset_md+"dataset_type: "+row['dataset_type']+"\n"
-	dataset_md = dataset_md+"sensor_type: "+row['sensor_type']+"\n"
+	dataset_md = dataset_md+"sensor_type: "+str(row['sensor_type'])+"\n"
 	dataset_md = dataset_md+"size: "+str(row['size'])+"\n"
 	dataset_md = dataset_md+"dataset_format: "+row['dataset_format']+"\n"
 	dataset_md = dataset_md+"other_format: "+row['other_format']+"\n"
