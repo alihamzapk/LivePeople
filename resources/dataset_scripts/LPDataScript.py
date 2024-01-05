@@ -3,7 +3,7 @@
 import pandas as pd
  
 # read by default 1st sheet of an excel file
-df = pd.read_csv('../uploaded-datasets/LP2023Diversity1.csv')
+df = pd.read_csv('../uploaded-datasets/LP2023QROWD.csv')
 
 # print(df['notes'])
 dataset_md = ""
@@ -20,7 +20,7 @@ for index, row in df.iterrows():
 	dataset_md = dataset_md+"resources:\n"
 
 	if (row['technical_report-name'] != ""):
-		dataset_md = dataset_md+"  - name: "+row['technical_report-name']+"\n"
+		dataset_md = dataset_md+"  - name: "+str(row['technical_report-name'])+"\n"
 		dataset_md = dataset_md+"    url: >-\n"
 		dataset_md = dataset_md+"      "+row['technical_report-URL']+"\n"
 		dataset_md = dataset_md+"    format: "+row['technical_report-format']+"\n"
@@ -58,9 +58,9 @@ for index, row in df.iterrows():
 	dataset_md = dataset_md+"dataset_format: "+row['dataset_format']+"\n"
 	dataset_md = dataset_md+"other_format: "+row['other_format']+"\n"
 	dataset_md = dataset_md+"number_participants: "+str(row['number_participants'])+"\n"
-	dataset_md = dataset_md+"language: "+row['language']+"\n"
+	dataset_md = dataset_md+"language: "+str(row['language'])+"\n"
 	dataset_md = dataset_md+"collection_name: "+row['collection_name']+"\n"
-	dataset_md = dataset_md+"project_url: <a href=\""+row['project_url']+"\">"+row['project_url']+"</a>\n"
+	dataset_md = dataset_md+"project_url: <a href=\""+str(row['project_url'])+"\">"+str(row['project_url'])+"</a>\n"
 
 	dataset_md = dataset_md+"category:\n"
 	dataset_md = dataset_md+"  - "+row['domain']+"\n"
