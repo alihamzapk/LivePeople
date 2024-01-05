@@ -3,7 +3,7 @@
 import pandas as pd
  
 # read by default 1st sheet of an excel file
-df = pd.read_csv('../uploaded-datasets/LP2023Chatbot2.csv')
+df = pd.read_csv('../uploaded-datasets/LP2023OC_FPT.csv')
 
 # print(df['notes'])
 dataset_md = ""
@@ -22,8 +22,8 @@ for index, row in df.iterrows():
 	if (row['technical_report-name'] != ""):
 		dataset_md = dataset_md+"  - name: "+str(row['technical_report-name'])+"\n"
 		dataset_md = dataset_md+"    url: >-\n"
-		dataset_md = dataset_md+"      "+row['technical_report-URL']+"\n"
-		dataset_md = dataset_md+"    format: "+row['technical_report-format']+"\n"
+		dataset_md = dataset_md+"      "+str(row['technical_report-URL'])+"\n"
+		dataset_md = dataset_md+"    format: "+str(row['technical_report-format'])+"\n"
 
 	if (str(row['codebook-name']) != "nan"):
 		codebook_name_array = str(row['codebook-name']).split(', ')
