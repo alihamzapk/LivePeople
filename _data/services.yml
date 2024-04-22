@@ -7,10 +7,10 @@
   logo: /img/services-logo/ilog-nobg.png
   featured: true
   url: http://datascientia.disi.unitn.it/ilog/
-- name: iLog<br>Configuration
-  logo: /img/services-logo/config.png
+- name: Dashboard
+  logo: /img/services-logo/dashboard.png
   featured: true
-  url: ilog_conf
+  url: dashboard
 - name: Participants<br>Engagement
   logo: /img/services-logo/Participants-engagement.png
   featured: true
