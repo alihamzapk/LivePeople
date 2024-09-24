@@ -8,7 +8,7 @@ resources:
     url: >-
       nan
     format: nan
-  - name: timediaries
+  - name: Codebook
     url: >-
       https://github.com/datascientiafoundation/LivePeople-Documentation/blob/main/codebooks/2024-OSM-Trento-timediaries.html
     format: html
@@ -17,8 +17,8 @@ resources:
       https://arxiv.org/abs/2409.05883
     format: PDF
 license: >-
-  ./../../resources/2024LivePeopleLicense.html
-dataset_name: Time Diaries
+  ./../../resources/2023LivePeopleLicense.html
+dataset_name: Time Diaries 
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
@@ -29,13 +29,13 @@ sensor_type: unknown
 size: 19,9 MB
 dataset_format: csv
 other_format: unknown
-number_participants: 158.0
+number_participants: 158
 language: English
 collection_name: SmartUnitn2OSM
 project_url: <a href="https://datascientia.disi.unitn.it/projects/su2osm/">https://datascientia.disi.unitn.it/projects/su2osm/</a>
 category:
   - Digital University
-5_stars: 3.0
+5_stars: 3
 publication_date: 9/16/2024
 identifier: 007.AAAP.AAA.AC
 request_contact: datadistribution.knowdive@unitn.it
