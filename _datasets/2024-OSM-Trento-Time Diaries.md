@@ -6,7 +6,7 @@ notes: The SU2OSM big-thick data integrates the part of SmartUnitn2 (SU2) datase
 resources: 
   - name: Codebook
     url: >-
-      https://github.com/datascientiafoundation/LivePeople-Documentation/codebooks/2024-OSM-Trento-timediaries.html
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-OSM-Trento-timediaries.html
     format: html
   - name: Big-Thick Data generation via reference and personal context unification
     url: >-
