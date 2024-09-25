@@ -42,7 +42,7 @@ language: unknown
 collection_name: SmartUnitn2
 project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
-  - Digital University
+  - Dataset
 5_stars: 3
 publication_date: 2023-04-07
 identifier: 002.AAAB.AAA.AN

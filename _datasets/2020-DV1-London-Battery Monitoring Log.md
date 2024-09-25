@@ -26,7 +26,7 @@ language: unknown
 collection_name: Diversity1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Digital University
+  - Dataset
 5_stars: 3
 publication_date: 2023-11-30 00:00:00
 identifier: 004.AAAD.AAE.BT

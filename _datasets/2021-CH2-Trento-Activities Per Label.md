@@ -30,7 +30,7 @@ language: unknown
 collection_name: ChatApplication2
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Digital University
+  - Dataset
 5_stars: 3
 publication_date: 18/04/2023
 identifier: 005.AAAG.AAA.BE
