@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Cellular Network
 organization: Unitn
 notes: The dataset returns a sensor that periodically collects information about the cellular networks (name, id, type) the smartphone is connected to.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-cellularnetwork.html
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Cellular Network

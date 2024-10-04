@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Battery Monitoring Log
 organization: Unitn
 notes: This dataset returns the phone's battery level.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-batterylevel.html
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Battery Monitoring Log

@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Application Event
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that is currently running in the foreground of the phone.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-applications.html
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Application Event

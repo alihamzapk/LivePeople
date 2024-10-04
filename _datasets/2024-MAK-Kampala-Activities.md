@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Activities
 organization: Unitn
 notes: The dataset returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google's Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking.   It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-activities.html 
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Activities

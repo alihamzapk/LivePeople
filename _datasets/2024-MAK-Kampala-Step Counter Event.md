@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Step Counter Event
 organization: Unitn
 notes: This dataset exploits the Android API that generates an event when a step is detected. The step counter sensor is used to get the total number of steps taken by the user since the last reboot (power on) of the phone.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-stepcounter.html
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Step Counter Event

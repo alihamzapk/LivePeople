@@ -4,10 +4,10 @@ title: 2024-MAK-Kampala-Headset Plug Event
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of the headphones is plugged in/out.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
-  - name: nan
+  - name: Codebook
     url: >-
-      nan
-    format: nan
+      https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-headsetplug.html
+    format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Headset Plug Event
