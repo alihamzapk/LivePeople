@@ -26,7 +26,7 @@ language: unknown
 collection_name: Diversity1
 project_url: <a href="https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a">https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a</a>
 category:
-  - Dataset
+  - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
 identifier: 004.AAAD.AAB.**

@@ -26,7 +26,7 @@ language: unknown
 collection_name: ChatApplication2
 project_url: <a href="https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f">https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f</a>
 category:
-  - Dataset
+  - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
 identifier: 005.AAAG.AAD.**

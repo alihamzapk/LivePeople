@@ -26,7 +26,7 @@ language: unknown
 collection_name: MAK
 project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16</a>
 category:
-  - Dataset
+  - Dataset Bundle
 5_stars: 3
 publication_date: 2024-Oct-03
 identifier: 007.AAAN.AAN.**
