@@ -1,50 +1,42 @@
 ---
 schema: default
-title: 2018-Smart Unitn 2-Trento 
+title: 2019-QROWD-Trento 
 organization: Unitn
-notes: SmartUnitn 2 (SU2) dataset collected personal data about the everyday life of 158 university students at University of Trento by i-Log application installed on their smartphones. The SU2 data contains (1) participants’ synchronic data about profile, e.g., demographics, routines, personality; (2) participants’ diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, associated to around 100+ thousand self-reported annotations from participants.
+notes: The QROWD project was an initiative by the Municipality of Trento to collect information about traffic, usage of parking for cars, motorcycles, and yellow-line parking spots in a fairly cost-effective manner. It involved sensor data collection with the i-Log application from respondents within the municipality of Trento in 2019. This data was used in the validation of other data sources, such as the data collected from the street cameras and other municipality sensors. This was a data fusion experiment, combining data from municipal sensors, other sources, such as google street view, and citizen data collected from respondents using the i-Log app. The main participants in this study were students from the University of Trento. In addition to the smart phone sensor data, demographic data, pictures, and questionnaire data was collected from the respondents.
 resources:
-  - name: 2018-SmartUnitn2-technical_report
+  - name:  
     url: >-
-      https://drive.google.com/file/d/1mSIBHgKJBw07crEjMTYEi3ylpPL-62fB/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(a)
+       
+    format:  
+  - name:  
     url: >-
-      https://drive.google.com/file/d/1WMWGQ_gQuAUWZOf6RrHWBTN2k4wW8-tX/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(b)
+       
+    format:  
+  - name:  
     url: >-
-      https://drive.google.com/file/d/1WGYy8DdDO2C81GXRJ2OOPB80QNgbowq_/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(c)
-    url: >-
-      https://drive.google.com/file/d/1WIcaWAjYeKEfW5_1oFoXNU0qaiwwfFC7/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-additional_material-questionnaire
-    url: >-
-      https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
-    format: PDF
+       
+    format:  
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Smart Unitn 2 
+dataset_name: QROWD
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07 
+start_date: 09/07/2020
+end_date: 09/07/2020
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
 sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
-size: 125 GB  
+size: 277 GB  
 dataset_format: parquet
 other_format: csv
-number_participants: 158
-language: English 
-collection_name: SmartUnitn2
-project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+number_participants: 157
+language: unknown 
+collection_name: QROWD
+project_url: <a href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
 category:
   - Project
 5_stars: 3
-publication_date: 2023-04-07
-identifier: 002.AAAB.AAA.**
+publication_date: 20/12/2023
+identifier: 003.AAAC.AAA.**
 request_contact: datadistribution.knowdive@unitn.it
 --- 

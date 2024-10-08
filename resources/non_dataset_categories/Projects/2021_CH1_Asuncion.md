@@ -1,50 +1,34 @@
 ---
 schema: default
-title: 2018-Smart Unitn 2-Trento 
+title: 2021-Chat Application 1-Asunción
 organization: Unitn
-notes: SmartUnitn 2 (SU2) dataset collected personal data about the everyday life of 158 university students at University of Trento by i-Log application installed on their smartphones. The SU2 data contains (1) participants’ synchronic data about profile, e.g., demographics, routines, personality; (2) participants’ diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, associated to around 100+ thousand self-reported annotations from participants.
+notes: The Wenet Chat Application 1 project was based on a chatbot that collected questions and answers from university students in Italy, Denmark, Paraguay, the United Kingdom, and Mongolia. It was conducted in March and June 2021 to improve the knowledge about students' lives to promote the design of better and more targeted technology and support tools for students. It was a European Union WeNet Horizon 2020-funded project with the overall goal of developing a diversity-aware, machine-mediated paradigm for social interactions. Data was collected with a Telegram App and the i-Log Application. Some of the data collected included the respondent’s career information (department, study course, study year,) and demographics (age, gender…). Questions were sent on the Telegram App and user answers were recorded, the i-Log App recorded sensor data (such as location, accelerometer…) from the user device. This data was collected in three phases, the first phase entailed interacting with the Telegram App Ask4Help, and sensor data was also collected during this phase. The second phase involved respondents answering a questionnaire, and in the third phase, they participated in a focus group to provide feedback.
 resources:
-  - name: 2018-SmartUnitn2-technical_report
+  - name: 2021-Chatbot1-technical_report
     url: >-
-      https://drive.google.com/file/d/1mSIBHgKJBw07crEjMTYEi3ylpPL-62fB/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(a)
-    url: >-
-      https://drive.google.com/file/d/1WMWGQ_gQuAUWZOf6RrHWBTN2k4wW8-tX/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(b)
-    url: >-
-      https://drive.google.com/file/d/1WGYy8DdDO2C81GXRJ2OOPB80QNgbowq_/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(c)
-    url: >-
-      https://drive.google.com/file/d/1WIcaWAjYeKEfW5_1oFoXNU0qaiwwfFC7/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-additional_material-questionnaire
-    url: >-
-      https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
+      https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Smart Unitn 2 
-location: Trento (Italy)
-latitude_map: 46.07
-longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07 
+dataset_name: Chat Application 1
+location: Asunción (Paraguay)
+latitude_map: 25.26
+longitude_map: 57.57
+start_date: 2021-03-15
+end_date: 2021-03-29
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
 sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
-size: 125 GB  
+size: 4.9 MB  
 dataset_format: parquet
 other_format: csv
-number_participants: 158
+number_participants: 21
 language: English 
-collection_name: SmartUnitn2
-project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+collection_name: Chatbot1
+project_url: <a href="https://ds.datascientia.eu/community/public/projects/dcfa089a-1394-4536-abce-0dc44d6aeebd">https://ds.datascientia.eu/community/public/projects/dcfa089a-1394-4536-abce-0dc44d6aeebd</a>
 category:
   - Project
 5_stars: 3
-publication_date: 2023-04-07
-identifier: 002.AAAB.AAA.**
+publication_date: 2023-04-18
+identifier: 005.AAAE.AAD.** 
 request_contact: datadistribution.knowdive@unitn.it
 --- 

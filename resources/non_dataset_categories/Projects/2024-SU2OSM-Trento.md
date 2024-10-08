@@ -21,8 +21,8 @@ longitude_map: 11.13
 start_date: 2024.05.24
 end_date: 2024.08.24
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-OSM-Trento-Time%20Diaries/">Diachronic-Interactions </a>
-size: 19,9 MB
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-SU2OSM-Trento-Diachronic-Interactions/">Diachronic-Interactions </a>
+size: 19,9 MB 
 dataset_format: csv
 other_format: unknown
 number_participants: 158
@@ -36,3 +36,4 @@ publication_date: 9/16/2024
 identifier: 007.AAAP.AAA.**
 request_contact: datadistribution.knowdive@unitn.it
 ---
+

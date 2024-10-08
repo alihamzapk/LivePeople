@@ -40,7 +40,7 @@ other_format: csv
 number_participants: 158
 language: English 
 collection_name: SmartUnitn2
-project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+project_url: <a href="https://ds.datascientia.eu/community/public/projects/01f1f074-a636-4bbe-98f9-53c12a66288f">https://ds.datascientia.eu/community/public/projects/01f1f074-a636-4bbe-98f9-53c12a66288f</a>
 category:
   - Project
 5_stars: 3

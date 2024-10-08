@@ -3,13 +3,13 @@
 import pandas as pd
  
 # read by default 1st sheet of an excel file
-df = pd.read_excel('../uploaded-datasets/LP2024Mak.xlsx')
+df = pd.read_excel('../uploaded-datasets/LP2024Categories.xlsx')
 
 # print(df['notes'])
 dataset_md = ""
 
 for index, row in df.iterrows():
-	f = open("./output/"+str(row['title'])+".md", "a")
+	f = open("./output/categories/"+str(row['title'])+".md", "a")
 	
 	dataset_md = "---\n"
 	dataset_md = dataset_md+"schema: default\n"

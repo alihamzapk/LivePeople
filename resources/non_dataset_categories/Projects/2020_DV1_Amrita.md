@@ -1,50 +1,34 @@
 ---
 schema: default
-title: 2018-Smart Unitn 2-Trento 
+title: 2020-Wenet Diversity 1-Amrita
 organization: Unitn
-notes: SmartUnitn 2 (SU2) dataset collected personal data about the everyday life of 158 university students at University of Trento by i-Log application installed on their smartphones. The SU2 data contains (1) participants’ synchronic data about profile, e.g., demographics, routines, personality; (2) participants’ diachronic data over a period of four weeks, including data from 34 sensors, both hardware and software, associated to around 100+ thousand self-reported annotations from participants.
+notes: The study aimed to assess diversity through the social practices and daily behaviors of university students from eight different countries. The research was carried out in two phases. Initially, a large sample of students from Denmark, Italy, Mongolia, Paraguay, the United Kingdom, China, Mexico, and India, completed a survey on their social practices, as well as their socio-demographic, cultural, and psychological elements. In the second phase, a sub-sample of the respondents engaged in a four-week data collection by using an innovative smartphone application called iLog. This app collected data from thirty-four smartphone sensors around the clock, allowing for an in-depth investigation into the diversity and daily routines of university students across countries, both synchronically and diachronically.
 resources:
-  - name: 2018-SmartUnitn2-technical_report
+  - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
     url: >-
-      https://drive.google.com/file/d/1mSIBHgKJBw07crEjMTYEi3ylpPL-62fB/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(a)
-    url: >-
-      https://drive.google.com/file/d/1WMWGQ_gQuAUWZOf6RrHWBTN2k4wW8-tX/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(b)
-    url: >-
-      https://drive.google.com/file/d/1WGYy8DdDO2C81GXRJ2OOPB80QNgbowq_/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-codebook(c)
-    url: >-
-      https://drive.google.com/file/d/1WIcaWAjYeKEfW5_1oFoXNU0qaiwwfFC7/view?usp=sharing
-    format: PDF
-  - name: 2018-SmartUnitn2-additional_material-questionnaire
-    url: >-
-      https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
+      https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Smart Unitn 2 
-location: Trento (Italy)
-latitude_map: 46.07
-longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07 
+dataset_name: Wenet Diversity 1
+location: Amrita (India)
+latitude_map: 10.9
+longitude_map: 76.9
+start_date: 2021.05.26
+end_date: nan  
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
 sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
-size: 125 GB  
+size: 2.1 GB  
 dataset_format: parquet
 other_format: csv
-number_participants: 158
-language: English 
-collection_name: SmartUnitn2
-project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+number_participants: 20
+language: unknown 
+collection_name: Diversity1
+project_url: <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
 category:
   - Project
 5_stars: 3
-publication_date: 2023-04-07
-identifier: 002.AAAB.AAA.**
+publication_date: 2023-11-30 00:00:00
+identifier: 004.AAAD.AAG.**
 request_contact: datadistribution.knowdive@unitn.it
 --- 
