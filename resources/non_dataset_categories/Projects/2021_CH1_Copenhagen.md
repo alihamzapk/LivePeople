@@ -11,13 +11,13 @@ resources:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 1
-location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
-start_date: 2021-03-15
-end_date: 2021-03-29
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+location: Copenhagen (Denmark)
+latitude_map: 55.67
+longitude_map: 12.56
+start_date: 2021-03-12
+end_date: 2021-03-28
+dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-App-usage/"> App-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Synchronic-Interactions/"> 
 size: 9.2 MB   
 dataset_format: parquet
 other_format: csv

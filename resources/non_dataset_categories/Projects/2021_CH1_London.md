@@ -11,13 +11,13 @@ resources:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 1
-location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
-start_date: 2021-03-15
-end_date: 2021-03-29
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+location: London (United Kingdom)
+latitude_map: 51.5
+longitude_map: 0.12
+start_date: 2021-03-12
+end_date: 2021-03-28
+dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-App-usage/"> App-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/"> 
 size: 8.1 MB
 dataset_format: parquet
 other_format: csv

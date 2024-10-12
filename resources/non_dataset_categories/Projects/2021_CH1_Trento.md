@@ -11,13 +11,13 @@ resources:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 1
-location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
-start_date: 2021-03-15
-end_date: 2021-03-29
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+location: Trento (Italy)
+latitude_map: 46.07
+longitude_map: 11.13
+start_date: 2021-06-04
+end_date: 2021-06-18
+dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-App-usage/"> App-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Synchronic-Interactions/"> 
 size: 49 MB 
 dataset_format: parquet
 other_format: csv

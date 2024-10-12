@@ -11,13 +11,13 @@ resources:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wenet Diversity 1
-location: Amrita (India)
-latitude_map: 10.9
-longitude_map: 76.9
-start_date: 2021.05.26
-end_date: nan  
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+location: Asunción (Paraguay)
+latitude_map: 25.26
+longitude_map: 57.57
+start_date: 2021.09.28
+end_date: 2021.12.11
+dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Synchronic-Interactions/"> Synchronic-Interactions</a> 
 size: 3.3 GB  
 dataset_format: parquet
 other_format: csv

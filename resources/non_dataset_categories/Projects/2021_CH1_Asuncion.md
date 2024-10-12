@@ -14,10 +14,10 @@ dataset_name: Chat Application 1
 location: Asunción (Paraguay)
 latitude_map: 25.26
 longitude_map: 57.57
-start_date: 2021-03-15
-end_date: 2021-03-29
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+start_date: 2021-03-16
+end_date: 2021-03-31
+dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-App-usage/"> App-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asuncion-Synchronic-Interactions/"> Synchronic-Interactions</a> 
 size: 4.9 MB  
 dataset_format: parquet
 other_format: csv

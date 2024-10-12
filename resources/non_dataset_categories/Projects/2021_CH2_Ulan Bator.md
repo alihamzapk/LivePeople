@@ -11,13 +11,13 @@ resources:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 2 
-location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
-start_date: 2022-09-18
-end_date: 2022-09-22
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+location: Ulan-Bator (Mongolia)
+latitude_map: 47.92
+longitude_map: 106.9
+start_date: 2021-11-22
+end_date: 2021-12-06
+dataset_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Synchronic-Interactions/"> Synchronic-Interactions</a>
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Synchronic-Interactions/"> Synchronic-Interactions</a> 
 size: 348 KB
 dataset_format: parquet
 other_format: csv

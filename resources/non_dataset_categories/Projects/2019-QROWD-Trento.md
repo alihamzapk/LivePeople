@@ -8,14 +8,7 @@ resources:
     url: >-
        
     format:  
-  - name:  
-    url: >-
-       
-    format:  
-  - name:  
-    url: >-
-       
-    format:  
+ 
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: QROWD
@@ -23,9 +16,9 @@ location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
 start_date: 09/07/2020
-end_date: 09/07/2020
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a>
-sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Diachronic-Interactions/"> Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Synchronic-Interactions/"> Synchronic-Interactions</a> 
+end_date: 14/07/2020
+dataset_type: Sensors
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Position/"> Position</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Motion/"> Motion</a> 
 size: 277 GB  
 dataset_format: parquet
 other_format: csv
