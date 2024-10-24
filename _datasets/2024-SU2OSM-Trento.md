@@ -20,7 +20,7 @@ latitude_map: 46.07
 longitude_map: 11.13
 start_date: 2024.05.24
 end_date: 2024.08.24
-dataset_type: Diachronic-Interactions
+dataset_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-SU2OSM-Trento-Diachronic-Interactions/">Diachronic-Interactions </a>
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-SU2OSM-Trento-Diachronic-Interactions/">Diachronic-Interactions </a>
 size: 19,9 MB 
 dataset_format: csv

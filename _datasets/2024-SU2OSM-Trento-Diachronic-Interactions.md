@@ -21,14 +21,14 @@ longitude_map: 11.13
 start_date: 2018-05-07
 end_date: 2018-06-07
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Time%20Diaries/"> Timediaries answers </a>
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-OSM-Trento-Time%20Diaries/"> Timediaries answers </a>
 size: 3 MB 
 dataset_format: parquet
 other_format: csv
 number_participants: 158
 language: English 
 collection_name: SmartUnitn2
-project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+project_url: <a href="https://datascientia.disi.unitn.it/projects/su2osm/">https://datascientia.disi.unitn.it/projects/su2osm/</a>
 category:
   - Dataset Bundle
 5_stars: 3
