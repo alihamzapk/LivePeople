@@ -16,7 +16,7 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat
 location: Ulan Bator (Mongolia)
-latitude_map: 47.92
+latitude_map: 47.88
 longitude_map: 106.9
 start_date: 2022-09-18
 end_date: 2022-09-22

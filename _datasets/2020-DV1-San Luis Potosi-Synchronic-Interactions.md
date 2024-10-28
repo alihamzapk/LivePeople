@@ -12,8 +12,8 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Synchronic-Interactions
 location: San Luis Potosi (Mexico)
-latitude_map: 47.88
-longitude_map: 106.9
+latitude_map: 22.15
+longitude_map: 100.9
 start_date: 2020.07.25
 end_date: 2021.08.21
 dataset_type: Synchronic-Interactions

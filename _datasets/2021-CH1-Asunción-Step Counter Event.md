@@ -16,8 +16,8 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Step Counter Event
 location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
+latitude_map: -25.26
+longitude_map: -57.57
 start_date: 2021-03-15
 end_date: 2021-03-29
 dataset_type: Sensor

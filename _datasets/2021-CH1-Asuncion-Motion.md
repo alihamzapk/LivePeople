@@ -13,8 +13,8 @@ license: >-
 dataset_name: Motion 
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asunci%C3%B3n-Activities%20Per%20Label/">activities per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asunci%C3%B3n-Activities%20Per%20Time/"> activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asunci%C3%B3n-Step%20Counter%20Event/">step counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asunci%C3%B3n-Step%20Detector%20Event/">step detector</a> 
 location: Asuncion (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
+latitude_map: -25.26
+longitude_map: -57.57
 start_date: 2021.03.16
 end_date: 2021.03.31
 dataset_type: Sensors

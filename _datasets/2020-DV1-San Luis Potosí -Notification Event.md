@@ -12,8 +12,8 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Notification Event
 location: San Luis Potosí (Mexico)
-latitude_map: 47.88
-longitude_map: 106.9
+latitude_map: 22.15
+longitude_map: 100.9
 start_date: 2020.09.28
 end_date: 2021.08.15
 dataset_type: Sensors

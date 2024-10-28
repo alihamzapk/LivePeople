@@ -12,8 +12,8 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Notification Event
 location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
+latitude_map: -25.26
+longitude_map: -57.57
 start_date: 2020.09.28
 end_date: 2020.12.11
 dataset_type: Sensors

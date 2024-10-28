@@ -12,8 +12,8 @@ license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Synchronic-Interactions
 location: Asuncion (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
+latitude_map: -25.26
+longitude_map: -57.57
 start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Synchronic-Interactions
