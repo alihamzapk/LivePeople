@@ -18,8 +18,8 @@ dataset_name: Location Event
 location: London (UK)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2021-03-15
-end_date: 2021-03-29
+start_date: 2021-03-12
+end_date: 2021-03-28
 dataset_type: Sensor
 sensor_type:  Position
 size: nan

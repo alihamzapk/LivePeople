@@ -14,8 +14,8 @@ dataset_name: Synchronic-Interactions
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: 2021.05.24
-end_date: 2021.06.25
+start_date: 2021.05.17
+end_date: 2021.06.18
 dataset_type: Synchronic-Interactions
 sensor_type: <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Questionnaire%20Diversity%20A/">Questionnaire A</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Questionnaire%20Diversity%20B/">Questionnaire B</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Questionnaire%20Diversity%20C/">Questionnaire C</a>
 size: 1.8 MB

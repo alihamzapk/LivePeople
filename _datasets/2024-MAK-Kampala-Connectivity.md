@@ -14,8 +14,8 @@ dataset_name: Connectivity
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Bluetooth%20Event/">bluetooth event</a>
 size: 65 MB

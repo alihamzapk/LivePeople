@@ -30,8 +30,8 @@ dataset_name: Smart Unitn 2
 location: Trento (Italy)
 latitude_map: 46.07 
 longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07
+start_date: 2018-05-11
+end_date: 2018-06-06
 dataset_type: Sensors 
 sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Airplane%20Mode%20Event/">airplane mode</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Doze%20Mode/">doze</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Ringmode%20Event/">ring mode</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Screen%20Event/">screen</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Touch%20Event/">touch</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Battery%20Charge%20Event/">battery charge</a> 
 size: 123 MB 

@@ -30,8 +30,8 @@ dataset_name: Time Diaries
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07
+start_date: 2018-05-11
+end_date: 2018-06-06
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 3 MB

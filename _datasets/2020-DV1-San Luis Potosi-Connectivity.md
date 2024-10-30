@@ -14,8 +14,8 @@ dataset_name: Connectivity
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: 100.9
-start_date: 2020.07.19
-end_date: 2021.08.15
+start_date: 2020.07.18 
+end_date: 2021.08.14 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Bluetooth%20Normal%20Event/">bluetooth normal event</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Bluetooth%20Low%20Energy%20Event/">bluetooth low energy event</a>
 size: 34 MB

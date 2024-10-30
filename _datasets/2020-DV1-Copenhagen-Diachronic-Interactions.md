@@ -14,8 +14,8 @@ dataset_name: Diachronic-Interactions
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2020.11.22
-end_date: 2020.12.17
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Diachronic-Interactions
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Contribution%20Answers/"> Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Contribution%20Questions/"> Timediaries questions </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Contribution%20Confirmation/"> Timediaries confirmation </a>
 size: 420 KB

@@ -14,8 +14,8 @@ dataset_name: Open Calls Hanoi
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.07
-end_date: 2022.07.05
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/"> Diachronic-Interactions</a>
 sensor_type:  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-App-usage/"> App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Device-usage/"> Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Position/"> Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Connectivity/"> Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Motion/"> Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Environment/"> Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/"> Diachronic-Interactions</a>
 size: 11 GB  

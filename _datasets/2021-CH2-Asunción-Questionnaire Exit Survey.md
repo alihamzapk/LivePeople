@@ -18,8 +18,8 @@ dataset_name: Questionnaire Exit Survey
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2022-09-18
-end_date: 2022-09-22
+start_date: 2021-01-17
+end_date: 2022-02-07
 dataset_type: Synchronic-Interactions
 sensor_type: unknown
 size: 0,03 MB

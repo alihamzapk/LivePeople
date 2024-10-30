@@ -14,8 +14,8 @@ dataset_name: Motion
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2020.11.21
-end_date: 2020.12.16
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Accelerometer%20Event/">accelerometer</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Activities%20Per%20Label/">activities per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Activities%20Per%20Time/"> activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Counter%20Event/">step counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Detector%20Event/">step detector</a> 
 size: 1936.16 MB 

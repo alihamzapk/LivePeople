@@ -14,8 +14,8 @@ dataset_name: Connectivity
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
-start_date: 2022.06.08
-end_date: 2022.07.07
+start_date: 2022.06.07
+end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Bluetooth%20Normal%20Event/">bluetooth normal event</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Bluetooth%20Low%20Energy%20Event/">bluetooth low energy event</a>
 size: 54 MB

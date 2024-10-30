@@ -14,8 +14,8 @@ dataset_name: Questionnaire Diversity A
 location: Amrita (India)
 latitude_map: 10.9
 longitude_map: 76.9
-start_date: 2020.09.28
-end_date: nan
+start_date: 2021.07.12
+end_date: 2021.08.12
 dataset_type: Synchronic-Interactions
 sensor_type: nan
 size: 1,76 MB

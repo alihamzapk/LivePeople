@@ -18,8 +18,8 @@ dataset_name: Chat
 location: Ulan Bator (Mongolia)
 latitude_map: 47.88
 longitude_map: 106.9
-start_date: 2021-03-15
-end_date: 2021-03-29
+start_date: 2021-03-12
+end_date: 2021-03-28
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: nan

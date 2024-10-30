@@ -14,8 +14,8 @@ dataset_name: Diachronic-Interactions
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: 2021.05.23
-end_date: 2021.06.24
+start_date: 2021.05.17
+end_date: 2021.06.18
 dataset_type: Diachronic-Interactions
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Contribution%20Answers/"> Timediaries answers </a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Contribution%20Confirmation/"> Timediaries confirmation </a>
 size: 836 KB

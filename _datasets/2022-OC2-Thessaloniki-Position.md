@@ -14,8 +14,8 @@ dataset_name: Position
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
-start_date: 2022.06.12
-end_date: 2022.07.11
+start_date: 2022.06.07
+end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Proximity%20Event/">proximity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Magnetic%20Field%20Event/">magnetic field</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Location%20Event%20Per%20Time%20RD/">location event per time RD</a> 
 size: 3.7 GB

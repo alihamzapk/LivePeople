@@ -14,8 +14,8 @@ dataset_name: App-usage
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Application%20Event/">application</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Headset%20Plug%20Event/">headsetplug</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Music%20Event/">music</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Notification%20Event/">notification</a> 
 size: 13 MB

@@ -14,8 +14,8 @@ dataset_name: Motion
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
-start_date: 2022.06.11
-end_date: 2022.07.10
+start_date: 2022.06.07
+end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Accelerometer%20Event/">accelerometer</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Label/">activities per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/"> activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Counter%20Event/">step counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Detector%20Event/">step detector</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Gyroscope%20Event/"> gyroscope </a> 
 size: 16 GB

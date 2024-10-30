@@ -14,8 +14,8 @@ dataset_name: Connectivity
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.14
-end_date: 2022.07.12
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Bluetooth%20Normal%20Event/">bluetooth normal event</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Bluetooth%20Low%20Energy%20Event/">bluetooth low energy event</a>
 size: 41 MB

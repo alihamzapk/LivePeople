@@ -18,8 +18,8 @@ dataset_name: Notification Event
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2021-03-15
-end_date: 2021-03-29
+start_date: 2021.06.04
+end_date: 2021.06.18
 dataset_type: Sensor
 sensor_type:  App usage
 size: nan

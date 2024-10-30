@@ -14,8 +14,8 @@ dataset_name: Headset Plug Event
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Sensors
 sensor_type: Device-Usage
 size: 0,02 MB

@@ -18,8 +18,8 @@ dataset_name: Questionnaire Exit Survey
 location: Ulan Bator (Mongolia)
 latitude_map: 47.88
 longitude_map: 106.9
-start_date: 2022-09-18
-end_date: 2022-09-22
+start_date: 2021.11.22
+end_date: 2021.12.06
 dataset_type: Synchronic-Interactions
 sensor_type: unknown
 size: 0,03 MB

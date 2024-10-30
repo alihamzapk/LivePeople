@@ -30,8 +30,8 @@ dataset_name: Smart Unitn 2
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2018-05-07
-end_date: 2018-06-07
+start_date: 2018-05-11
+end_date: 2018-06-06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-WIFI%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-WIFI%20Event/">wifi</a> 
 size: 44 MB  

@@ -14,8 +14,8 @@ dataset_name: Diachronic-Interactions
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.19
-end_date: 2022.07.17
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Diachronic-Interactions
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Contribution%20Answers/"> Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Contribution%20Questions/"> Timediaries questions </a>
 size: 544 KB

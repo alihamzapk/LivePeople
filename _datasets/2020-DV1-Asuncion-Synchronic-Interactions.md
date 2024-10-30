@@ -14,8 +14,8 @@ dataset_name: Synchronic-Interactions
 location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2020.11.23
-end_date: 2020.12.18
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Synchronic-Interactions
 sensor_type: <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Questionnaire%20Diversity%20A/">Questionnaire A</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Questionnaire%20Diversity%20B/">Questionnaire B</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Questionnaire%20Diversity%20C/">Questionnaire C</a>
 size: 2.1 MB 

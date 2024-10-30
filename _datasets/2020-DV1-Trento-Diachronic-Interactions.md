@@ -14,8 +14,8 @@ dataset_name: Diachronic-Interactions
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2020.11.22
-end_date: 2020.12.17
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Diachronic-Interactions
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Contribution%20Answers/"> Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Contribution%20Questions/"> Timediaries questions </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Contribution%20Confirmation/"> Timediaries confirmation </a>
 size: 4.1 MB

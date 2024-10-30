@@ -14,8 +14,8 @@ dataset_name: Accelerometer Event
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.07
-end_date: 2022.07.05
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: Motion
 size: 5934,70 MB

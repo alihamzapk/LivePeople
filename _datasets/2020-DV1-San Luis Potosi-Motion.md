@@ -14,8 +14,8 @@ dataset_name: Motion
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: 100.9
-start_date: 2020.07.22
-end_date: 2021.08.18
+start_date: 2020.07.18 
+end_date: 2021.08.14 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Accelerometer%20Event/">accelerometer</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Activities%20Per%20Label/">activities per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Activities%20Per%20Time/"> activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Step%20Counter%20Event/">step counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Step%20Detector%20Event/">step detector</a>  
 size: 4.1 GB

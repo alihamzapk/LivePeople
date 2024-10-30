@@ -14,8 +14,8 @@ dataset_name: Environment
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.16
-end_date: 2022.07.14
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Light%20Event/">light</a>  
 size: 1.4 GB

@@ -14,8 +14,8 @@ dataset_name: Environment
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
-start_date: 2022.06.10
-end_date: 2022.07.09
+start_date: 2022.06.07
+end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Light%20Event/">light</a>  
 size: 1.7 GB

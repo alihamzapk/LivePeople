@@ -14,8 +14,8 @@ dataset_name: Environment
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: 2021.05.20
-end_date: 2021.06.21
+start_date: 2021.05.17
+end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Light%20Event/">light</a>  
 size: 609 MB

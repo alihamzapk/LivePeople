@@ -14,7 +14,7 @@ dataset_name: Contribution Questions
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2020.10.19
+start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Diachronic-Interactions
 sensor_type: nan

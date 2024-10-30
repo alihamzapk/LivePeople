@@ -14,8 +14,8 @@ dataset_name: Music Event
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: nan
-end_date: nan
+start_date: 2021.05.17
+end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: App-usage
 size: 0,01 MB

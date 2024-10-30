@@ -18,8 +18,8 @@ dataset_name: Activities Per Label
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2021-03-15
-end_date: 2021-03-29
+start_date: 2021-03-16
+end_date: 2021-03-31
 dataset_type: Sensor
 sensor_type:  Motion
 size: nan

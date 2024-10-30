@@ -14,7 +14,7 @@ dataset_name: Contribution Questions
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2020.09.28
+start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Diachronic-Interactions
 sensor_type: nan

@@ -14,8 +14,8 @@ dataset_name: Environment
 location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2020.11.19
-end_date: 2020.12.14 
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Light%20Event/">light</a>  
 size: 542 MB

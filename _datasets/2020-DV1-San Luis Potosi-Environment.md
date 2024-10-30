@@ -14,8 +14,8 @@ dataset_name: Environment
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: 100.9
-start_date: 2020.07.21
-end_date: 2021.08.17
+start_date: 2020.07.18 
+end_date: 2021.08.14 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Light%20Event/">light</a>  
 size: 645 MB

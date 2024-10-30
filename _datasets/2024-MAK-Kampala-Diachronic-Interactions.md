@@ -14,8 +14,8 @@ dataset_name: Diachronic-Interactions
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Diachronic-Interactions
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Contribution%20Answers/"> Timediaries answers </a>
 size: 1.5 MB

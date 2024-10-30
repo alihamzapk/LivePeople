@@ -14,8 +14,8 @@ dataset_name: Contribution Answers
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: nan
-end_date: nan
+start_date: 2021.05.17
+end_date: 2021.06.18
 dataset_type: Diachronic-Interactions
 sensor_type: nan
 size: 2,00 MB

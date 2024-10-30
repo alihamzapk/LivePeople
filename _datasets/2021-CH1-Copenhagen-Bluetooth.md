@@ -18,8 +18,8 @@ dataset_name: Bluetooth
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2021-03-15
-end_date: 2021-03-29
+start_date: 2021-03-12
+end_date: 2021-03-28
 dataset_type: Sensor
 sensor_type: Connectivity
 size: nan

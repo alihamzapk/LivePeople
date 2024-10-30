@@ -14,8 +14,8 @@ dataset_name: Contribution Answers
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 1,38 MB

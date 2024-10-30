@@ -14,8 +14,8 @@ dataset_name: Environment
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2020.11.19
-end_date: 2020.12.14
+start_date: 2020.11.16
+end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Light%20Event/">light</a>  
 size: 5.3 GB

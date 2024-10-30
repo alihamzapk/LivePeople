@@ -14,8 +14,8 @@ dataset_name: Contribution Questions
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.07
-end_date: 2022.07.05
+start_date: 2022.06.13
+end_date: 2022.07.11
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 0,07 MB

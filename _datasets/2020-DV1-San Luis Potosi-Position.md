@@ -14,8 +14,8 @@ dataset_name: Position
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: 100.9
-start_date: 2020.07.23
-end_date: 2021.08.19
+start_date: 2020.07.18 
+end_date: 2021.08.14 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Proximity%20Event/">proximity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Magnetic%20Field%20Event/">magnetic field</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Location%20Event%20Per%20Time%20POI/">location event per time POI</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Location%20Event%20Per%20Time%20RD/">location event per time RD</a>
 size: 1.3 GB

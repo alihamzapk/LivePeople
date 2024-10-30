@@ -14,8 +14,8 @@ dataset_name: Position
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Proximity%20Event/">proximity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Magnetic%20Field%20Event/">magnetic field</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Magnetic%20Field%20Uncalibrated/">magnetic field uncalibrated</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Location%20Event%20Per%20Time/">location event per time</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Orientation%20Event/">orientation</a>
 size: 7.7 GB

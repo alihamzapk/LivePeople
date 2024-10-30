@@ -18,8 +18,8 @@ dataset_name: Chat
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2022-09-18
-end_date: 2022-09-22
+start_date: 2021.12.20
+end_date: 2021.12.08
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 0,18 MB

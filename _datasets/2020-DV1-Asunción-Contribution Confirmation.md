@@ -14,7 +14,7 @@ dataset_name: Contribution Confirmation
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2020.09.28
+start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Diachronic-Interactions
 sensor_type: nan

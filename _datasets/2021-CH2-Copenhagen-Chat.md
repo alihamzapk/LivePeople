@@ -18,8 +18,8 @@ dataset_name: Chat
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2022-09-18
-end_date: 2022-09-22
+start_date: 2021.11.22
+end_date: 2021.12.21
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 0,57 MB

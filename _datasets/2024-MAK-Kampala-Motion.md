@@ -14,8 +14,8 @@ dataset_name: Motion
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56
-start_date: 2024-03-18 00:00:00
-end_date: 2024-05-13 00:00:00
+start_date: 2024-03-18 
+end_date: 2024-05-13 
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Event/">accelerometer</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Uncalibrated/">accelerometer uncalibrated</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Activities/">activities</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Step%20Counter%20Event/">step counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Step%20Detector%20Event/">step detector</a> ,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Event/"> gyroscope </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Uncalibrated/"> gyroscope uncalibrated</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Rotationvector/"> rotation </a>
 size: 12 GB
