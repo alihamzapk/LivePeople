@@ -107,16 +107,20 @@ layout: default
                         {% if lon %}
 
                         <h2>Map</h2>
-                        <div id='map' style='height: 300px; allowfullscreen:"";mozallowfullscreen:"true";'></div>
+                        <div id="map" style="height: 300px;"></div>
                         <script>
+                            var lon = {{ lon | jsonify }};
+                            var lat = {{ lat | jsonify }};
+                          
                             var map = new maplibregl.Map({
-                                container: 'map',
-                                style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
-                                center: [{{ lon }},{{ lat }}], // starting position [lng, lat]
-                                zoom: 4// starting zoom
+                              container: 'map',
+                              style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
+                              center: [lon, lat], // starting position [lng, lat]
+                              zoom: 4 // starting zoom
                             });
-                            var marker = new maplibregl.Marker().setLngLat([{{ lon }},{{ lat }}]).addTo(map);
-                        </script>
+                            var marker = new maplibregl.Marker().setLngLat([lon, lat]).addTo(map);
+                          </script>
+                          
                         <br/>
 
                         {% endif %}
