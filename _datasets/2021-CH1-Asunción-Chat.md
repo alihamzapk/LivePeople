@@ -22,7 +22,7 @@ start_date: 2021-03-16
 end_date: 2021-03-31
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
-size: nan
+size: 0.11 MB 
 dataset_format: parquet
 other_format: csv
 number_participants: 53

@@ -22,7 +22,7 @@ start_date: 2021.06.04
 end_date: 2021.06.18
 dataset_type: Sensor
 sensor_type: Connectivity
-size: nan
+size: 9.78 MB 
 dataset_format: parquet
 other_format: csv
 number_participants: 24

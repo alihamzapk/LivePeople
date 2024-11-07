@@ -34,7 +34,7 @@ start_date: 2018-05-11
 end_date: 2018-06-06
 dataset_type: Sensors
 sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Pressure%20Event/">pressure</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Relative%20Humidity%20Event/">relative humidity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2018-SU2-Trento-Light%20Event/">light</a>  
-size: 93 GB 
+size: 95232 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 158

@@ -22,7 +22,7 @@ start_date: 2021-03-12
 end_date: 2021-03-28
 dataset_type: Sensor
 sensor_type:  Position
-size: nan
+size: 0.12 MB 
 dataset_format: parquet
 other_format: csv
 number_participants: 54
