@@ -13,7 +13,7 @@ license: >-
 dataset_name: Doze Event
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
-longitude_map: 100.9
+longitude_map: -100.9
 start_date: 2020.07.18 
 end_date: 2021.08.14 
 dataset_type: Sensors

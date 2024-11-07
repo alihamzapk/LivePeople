@@ -20,7 +20,7 @@ license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Social Science
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
-longitude_map: 100.9
+longitude_map: -100.9
 start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potosi-Diachronic-Interactions/">Diachronic-Interactions</a>,<a

@@ -20,7 +20,7 @@ license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Diachronic-Interactions
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
-longitude_map: 100.9
+longitude_map: -100.9
 start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Diachronic-Interactions
