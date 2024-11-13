@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Battery Charge
 organization: Unitn
 notes: The dataset returns the phone's battery level. It is part of SmartUnitn2 data

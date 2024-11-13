@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Music
 organization: Unitn
 notes: This dataset returns whether music is being played on the phone (yes or no)

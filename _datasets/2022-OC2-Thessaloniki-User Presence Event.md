@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-User Presence
 organization: Unitn
 notes: This dataset is from a sensor that detects when the user is present. An example

@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Copenhagen-Gyroscope
 organization: Unitn
 notes: The dataset contains 3D vector of the gyroscope showing the rate of rotation

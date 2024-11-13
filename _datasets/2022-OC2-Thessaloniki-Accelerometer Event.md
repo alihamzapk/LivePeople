@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Accelerometer
 organization: Unitn
 notes: The dataset contains the 3D vector of the acceleration.The dataset was collected

@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Headset Plug
 organization: Unitn
 notes: This dataset contanis the headset status (true/false), triggered when the jack

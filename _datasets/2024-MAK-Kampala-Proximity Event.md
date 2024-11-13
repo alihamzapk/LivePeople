@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between

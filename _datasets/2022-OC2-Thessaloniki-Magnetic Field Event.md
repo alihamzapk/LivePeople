@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Magnetic Field
 organization: Unitn
 notes: This dataset contains the 3D vector of the magnetic field. The dataset was

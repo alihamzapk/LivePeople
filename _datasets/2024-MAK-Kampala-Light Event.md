@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux).  It is part of the

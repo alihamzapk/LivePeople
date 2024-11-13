@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux). It is part of SmartUnitn2

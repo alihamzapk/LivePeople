@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2021-CH2-Trento-Step Detector
 organization: Unitn
 notes: This dataset pertains to a sensor that returns a label identifying the activity

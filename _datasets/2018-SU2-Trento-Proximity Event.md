@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between

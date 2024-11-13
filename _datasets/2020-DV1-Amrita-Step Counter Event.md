@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Amrita-Step Counter
 organization: Unitn
 notes: This dataset exploits the Android API that generates an event when a step is

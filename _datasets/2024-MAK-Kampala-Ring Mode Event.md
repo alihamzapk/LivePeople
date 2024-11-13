@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).  It

@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Copenhagen-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part

@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of

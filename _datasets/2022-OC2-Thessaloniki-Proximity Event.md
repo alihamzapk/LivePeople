@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Proximity
 organization: Unitn
 notes: This dataset measures the distance between the user's head and the phone, depending

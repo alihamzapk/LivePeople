@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Ulan Bator-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone’s Airplane mode is ON/OFF. It is part

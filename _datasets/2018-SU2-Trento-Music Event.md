@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)

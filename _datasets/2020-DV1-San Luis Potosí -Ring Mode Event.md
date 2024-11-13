@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-San Luis Potosí -Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).

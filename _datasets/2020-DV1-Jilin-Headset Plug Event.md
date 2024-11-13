@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Jilin-Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of

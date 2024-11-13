@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Gravity
 organization: Unitn
 notes: The dataset contains 3D vector of the gravity force. It is part of SmartUnitn2

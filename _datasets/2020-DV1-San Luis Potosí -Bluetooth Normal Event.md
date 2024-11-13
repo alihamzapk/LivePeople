@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-San Luis Potosí -Bluetooth Normal
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other

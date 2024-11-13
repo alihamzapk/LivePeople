@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2021-CH1-Asunción-Step Detector
 organization: Unitn
 notes: Sensor that returns a label identifying the activity performed by the user,

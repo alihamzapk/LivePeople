@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-London-Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between

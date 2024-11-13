@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Accelerometer
 organization: Unitn
 notes: The dataset contains 3D vector of the acceleration. It is part of the Makerere

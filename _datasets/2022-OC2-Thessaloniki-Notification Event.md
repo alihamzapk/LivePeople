@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is

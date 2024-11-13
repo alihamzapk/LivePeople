@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Light
 organization: Unitn
 notes: This dataset contains the ambient Illuminance (lux). The dataset was collected

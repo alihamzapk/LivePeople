@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Doze
 organization: Unitn
 notes: This dataset contains the doze status on (true/false). The dataset was collected

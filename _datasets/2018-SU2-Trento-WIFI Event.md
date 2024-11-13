@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-WIFI
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part

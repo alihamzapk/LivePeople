@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-London-Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number

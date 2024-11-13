@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Wifi
 organization: Unitn
 notes: This dataset returns information related to the WIFI network to which the phone

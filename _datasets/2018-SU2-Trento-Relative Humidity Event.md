@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Relative Humidity
 organization: Unitn
 notes: The dataset returns ambient relative humidity (%). It is part of SmartUnitn2

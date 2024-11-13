@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC2-Thessaloniki-Gyroscope
 organization: Unitn
 notes: The datasets contains the 3D vector of the gyroscope showing the rate of rotation

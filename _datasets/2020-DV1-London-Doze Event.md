@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-London-Doze
 organization: Unitn
 notes: This dataset returns the device doze status on (true/false). It is part of

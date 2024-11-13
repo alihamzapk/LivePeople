@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Gyroscope
 organization: Unitn
 notes: The dataset contains 3D vector of the gyroscope showing the rate of rotation

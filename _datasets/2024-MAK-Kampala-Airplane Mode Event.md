@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone's Airplane mode is ON/OFF.  It is part

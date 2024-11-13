@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Orientation
 organization: Unitn
 notes: The dataset contains 3D vector of the cellphone orientation. It is part of

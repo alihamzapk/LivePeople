@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Magnetic Field
 organization: Unitn
 notes: The dataset contains 3D vector of the magnetic field.  It is part of the Makerere

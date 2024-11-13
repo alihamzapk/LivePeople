@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Location
 organization: Unitn
 notes: The dataset contains location information using GPS connections. It is part

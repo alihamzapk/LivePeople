@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone’s Airplane mode is ON/OFF. It is part

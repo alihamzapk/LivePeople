@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-San Luis Potosí -Accelerometer
 organization: Unitn
 notes: The dataset contains 3D vector of the acceleration. It is part of Wenet Diversity

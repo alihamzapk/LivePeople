@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2020-DV1-Asunción-Bluetooth Low Energy
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other

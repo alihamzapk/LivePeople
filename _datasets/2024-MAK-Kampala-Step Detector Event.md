@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2024-MAK-Kampala-Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number

@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2018-SU2-Trento-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that

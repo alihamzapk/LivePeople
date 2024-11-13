@@ -1,4 +1,5 @@
----schema: default
+---
+schema: default
 title: 2022-OC1-Hanoi-Step Counter
 organization: Unitn
 notes: This dataset is from a sensor that returns a label identifying the activity
