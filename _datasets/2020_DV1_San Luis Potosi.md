@@ -19,8 +19,8 @@ resources:
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wenet Diversity 1
 location: San Luis Potosí (Mexico)
-latitude_map: 47.88
-longitude_map: 106.9
+latitude_map: 22.15
+longitude_map: -100.9
 start_date: 2019.08.30
 end_date: 2021.08.14
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potosi-Diachronic-Interactions/">

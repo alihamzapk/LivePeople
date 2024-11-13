@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-Asunción-Activities Per Time
+title: 2021-CH1-Asunción-Activities 
 organization: Unitn
 notes: The dataset returns a label identifying the activity performed by the user,
   accurately detected using low power signals from multiple sensors in the device.
@@ -16,7 +16,7 @@ resources:
   url: https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_activitiespertime.html
   format: html
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Activities Per Time
+dataset_name: Activities 
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57

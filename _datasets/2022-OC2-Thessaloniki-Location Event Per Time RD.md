@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2022-OC2-Thessaloniki-Location Event Per Time RD
+title: 2022-OC2-Thessaloniki-Location RD
 organization: Unitn
 notes: This dataset returns the geocoordinates of where the phone is located. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
 resources:
@@ -10,7 +10,7 @@ resources:
     format: nan
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time RD
+dataset_name: Location RD
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94

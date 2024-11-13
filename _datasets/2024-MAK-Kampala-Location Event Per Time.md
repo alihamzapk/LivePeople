@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Location Event Per Time
+title: 2024-MAK-Kampala-Location 
 organization: Unitn
 notes: This dataset returns the geocoordinates of where the phone is located.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
@@ -10,7 +10,7 @@ resources:
     format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time
+dataset_name: Location s
 location: Kampala (Uganda)
 latitude_map: 0.335
 longitude_map: 32.56

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Location Event Per Time POI
+title: 2021-CH2-Trento-Location POI
 organization: Unitn
 notes: This dataset contains the Point Of Interests surrounding the geocoordinates of where the phone is located. POI extracted every 5 minutes. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
@@ -14,7 +14,7 @@ resources:
     format: html
 license: >-
   ./././resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time POI
+dataset_name: Location POI
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13

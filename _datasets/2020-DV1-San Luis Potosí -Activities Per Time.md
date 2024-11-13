@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Activities Per Time
+title: 2020-DV1-San Luis Potosí -Activities
 organization: Unitn
 notes: The dataset returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
@@ -10,7 +10,7 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Activities Per Time
+dataset_name: Activities 
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
 longitude_map: -100.9

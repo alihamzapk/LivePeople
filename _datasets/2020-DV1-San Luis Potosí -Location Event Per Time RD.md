@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Location Event Per Time RD
+title: 2020-DV1-San Luis Potosí -Location RD
 organization: Unitn
 notes: This dataset returns the geocoordinates of where the phone is located. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
@@ -10,7 +10,7 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time RD
+dataset_name: Location RD
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
 longitude_map: -100.9

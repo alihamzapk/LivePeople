@@ -19,8 +19,8 @@ resources:
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wenet Diversity 1
 location: Asunción (Paraguay)
-latitude_map: 25.26
-longitude_map: 57.57
+latitude_map: -25.26
+longitude_map: -57.57
 start_date: 2021.09.28
 end_date: 2021.12.11
 dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Diachronic-Interactions/">

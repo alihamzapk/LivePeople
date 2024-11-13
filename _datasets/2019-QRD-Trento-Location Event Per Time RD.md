@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2019-QRD-Trento-Location Event Per Time RD
+title: 2019-QRD-Trento-Location RD
 organization: Unitn
 notes: This dataset returns the geocoordinates of where the phone is located.
 resources:
@@ -18,7 +18,7 @@ resources:
     format:  
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time RD
+dataset_name: Location RD
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13

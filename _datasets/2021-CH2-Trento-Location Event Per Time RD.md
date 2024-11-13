@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Location Event Per Time RD
+title: 2021-CH2-Trento-Location RD
 organization: Unitn
 notes: The dataset contains location information using GPS connections. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
@@ -14,7 +14,7 @@ resources:
     format: html
 license: >-
   ./././resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time RD
+dataset_name: Location RD
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13

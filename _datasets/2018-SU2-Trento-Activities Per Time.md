@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Activities Per Time
+title: 2018-SU2-Trento-Activities
 organization: Unitn
 notes: The dataset returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking.. It is part of SmartUnitn2 data collection, which contains data from 27 sensors associated to around 100+ thousand self-reported annotations about the everyday life of 158 university students over a period of 4 weeks, and also additional data about profile.
 resources:
@@ -26,7 +26,7 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Activities Per Time
+dataset_name: Activities 
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13

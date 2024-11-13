@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2019-QRD-Trento-Location Event Per Time POI
+title: 2019-QRD-Trento-Location POI
 organization: Unitn
 notes: This dataset returns the Point Of Interests surrounding the geocoordinates of where the phone is located. POI extracted every 5 minutes.
 resources:
@@ -18,7 +18,7 @@ resources:
     format:  
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Location Event Per Time POI
+dataset_name: Location POI
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
