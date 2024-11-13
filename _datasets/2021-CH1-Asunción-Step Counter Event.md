@@ -1,6 +1,5 @@
----
-schema: default
-title: 2021-CH1-Asunción-Step Counter Event
+---schema: default
+title: 2021-CH1-Asunción-Step Counter
 organization: Unitn
 notes: Sensor that returns a label identifying the activity performed by the user,
   accurately detected using low power signals from multiple sensors in the device.
@@ -10,13 +9,15 @@ notes: Sensor that returns a label identifying the activity performed by the use
   at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 - name: 2021-Chatbot1-Step Counter Event-codebook
-  url: https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_stepcounterevent.html
+  url: 
+    https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_stepcounterevent.html
   format: html
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Step Counter Event
+dataset_name: Step Counter
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57

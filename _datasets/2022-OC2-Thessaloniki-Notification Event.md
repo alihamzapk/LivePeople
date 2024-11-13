@@ -1,16 +1,19 @@
----
-schema: default
-title: 2022-OC2-Thessaloniki-Notification Event
+---schema: default
+title: 2022-OC2-Thessaloniki-Notification
 organization: Unitn
-notes: The dataset measures when the phone receives a notification and when it is dismissed by the user. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
+notes: The dataset measures when the phone receives a notification and when it is
+  dismissed by the user. The dataset was collected as part of the WeNet project, a
+  Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated
+  paradigm for social interactions. It collected information on the eating/drinking
+  activities of the students of the UTH University.
 resources:
-  - name: nan
-    url: >-
-      nan
-    format: nan
+- name: nan
+  url: >-
+    nan
+  format: nan
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Notification Event
+dataset_name: Notification
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
@@ -26,7 +29,7 @@ language: unknown
 collection_name: OC-UTH
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Dataset
+- Dataset
 5_stars: 3
 publication_date: 2023-12-20 00:00:00
 identifier: 006.AAAI.AAK.AJ

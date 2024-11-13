@@ -1,6 +1,5 @@
----
-schema: default
-title: 2021-CH1-Copenhagen-Application Event
+---schema: default
+title: 2021-CH1-Copenhagen-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. The dataset was collected as
@@ -8,13 +7,15 @@ notes: The dataset returns the name of the application (or application package) 
   a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 - name: 2021-Chatbot1-Application Event-codebook
-  url: https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_applicationevent.html
+  url: 
+    https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_applicationevent.html
   format: html
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Application Event
+dataset_name: Application
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56

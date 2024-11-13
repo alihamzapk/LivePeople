@@ -1,6 +1,5 @@
----
-schema: default
-title: 2021-CH1-Ulan Bator-Notification Event
+---schema: default
+title: 2021-CH1-Ulan Bator-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user. The dataset was collected as part of the WeNet project, a
@@ -8,13 +7,15 @@ notes: The dataset measures when the phone receives a notification and when it i
   paradigm for social interactions.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 - name: 2021-Chatbot1-Notification Event-codebook
-  url: https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_notificationevent.html
+  url: 
+    https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_notificationevent.html
   format: html
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Notification Event
+dataset_name: Notification
 location: Ulan Bator (Mongolia)
 latitude_map: 47.88
 longitude_map: 106.9

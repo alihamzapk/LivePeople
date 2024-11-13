@@ -1,16 +1,22 @@
----
-schema: default
-title: 2022-OC2-Thessaloniki-Step Counter Event
+---schema: default
+title: 2022-OC2-Thessaloniki-Step Counter
 organization: Unitn
-notes: This dataset is from a sensor that returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
+notes: This dataset is from a sensor that returns a label identifying the activity
+  performed by the user, accurately detected using low power signals from multiple
+  sensors in the device. This is achieved using Google’s Activity Recognition API.
+  Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting,
+  walking. The dataset was collected as part of the WeNet project, a Horizon 2020
+  funded project that aims at developing a diversity-aware, machine-mediated paradigm
+  for social interactions. It collected information on the eating/drinking activities
+  of the students of the UTH University.
 resources:
-  - name: nan
-    url: >-
-      nan
-    format: nan
+- name: nan
+  url: >-
+    nan
+  format: nan
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Step Counter Event
+dataset_name: Step Counter
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
@@ -26,7 +32,7 @@ language: unknown
 collection_name: OC-UTH
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Dataset
+- Dataset
 5_stars: 3
 publication_date: 2023-12-20 00:00:00
 identifier: 006.AAAI.AAK.BH
