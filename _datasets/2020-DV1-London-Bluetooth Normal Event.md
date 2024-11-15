@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Bluetooth Normal
+title: 2020-DV1-London-Bluetooth 
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth Normal
+dataset_name: Bluetooth 
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
@@ -23,7 +23,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 237,46 MB
+size: 259 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 49

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Bluetooth Normal
+title: 2020-DV1-Amrita-Bluetooth 
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth Normal
+dataset_name: Bluetooth 
 location: Amrita (India)
 latitude_map: 10.9
 longitude_map: 76.9
@@ -23,7 +23,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 0,52 MB
+size: 1.20 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 12

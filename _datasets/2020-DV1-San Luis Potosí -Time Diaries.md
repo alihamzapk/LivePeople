@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Contribution Answers
+title: 2020-DV1-San Luis Potosí -Time Diaries
 organization: Unitn
 notes: The dataset contains a table for storing received answers from the user to the different types of contributions such as tasks for random time questions and time diaries for fixed frequency questions. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
@@ -10,18 +10,18 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Contribution Answers
-location: Jilin (China)
-latitude_map: 43.83
-longitude_map: 126.5
-start_date: 2021.05.17
-end_date: 2021.06.18
+dataset_name: Time Diaries
+location: San Luis Potosí (Mexico)
+latitude_map: 22.15
+longitude_map: -100.9
+start_date: 2020.07.18 
+end_date: 2021.08.14 
 dataset_type: Diachronic-Interactions
 sensor_type: nan
-size: 2,00 MB
+size: 0.62 MB
 dataset_format: parquet
 other_format: csv
-number_participants: 44
+number_participants: 21
 language: unknown
 collection_name: Diversity1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
@@ -29,6 +29,6 @@ category:
   - Dataset
 5_stars: 3
 publication_date: 2023-11-30 00:00:00
-identifier: 004.AAAD.AAF.AB
+identifier: 004.AAAD.AAH.AB
 request_contact: datadistribution.knowdive@unitn.it
 ---

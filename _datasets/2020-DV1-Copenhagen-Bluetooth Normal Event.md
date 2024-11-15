@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Bluetooth Normal
+title: 2020-DV1-Copenhagen-Bluetooth 
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth Normal
+dataset_name: Bluetooth 
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 55,58 MB
+size: 93 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 15

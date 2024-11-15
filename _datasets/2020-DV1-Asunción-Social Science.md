@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Social Science
+title: 2020-DV1-Asunción-Daily annotations & Location
 organization: Unitn
 notes: The study aimed to assess diversity through the social practices and daily
   behaviors of university students from eight different countries. The research was
@@ -17,7 +17,7 @@ resources:
   url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Social Science
+dataset_name: Daily annotations & Location
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57

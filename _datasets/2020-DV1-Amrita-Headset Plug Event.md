@@ -24,7 +24,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: App-usage
-size: 0,03 MB
+size: 0.03 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 9

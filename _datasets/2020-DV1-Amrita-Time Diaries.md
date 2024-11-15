@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Contribution Answers
+title: 2020-DV1-Amrita-Time Diaries 
 organization: Unitn
 notes: The dataset contains a table for storing received answers from the user to the different types of contributions such as tasks for random time questions and time diaries for fixed frequency questions. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
@@ -10,18 +10,18 @@ resources:
     format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Contribution Answers
-location: Asunción (Paraguay)
-latitude_map: -25.26
-longitude_map: -57.57
-start_date: 2020.11.16
-end_date: 2020.12.11
+dataset_name: Time Diaries 
+location: Amrita (India)
+latitude_map: 10.9
+longitude_map: 76.9
+start_date: 2021.07.12
+end_date: 2021.08.12
 dataset_type: Diachronic-Interactions
 sensor_type: nan
-size: 0,56 MB
+size: 0.49 MB 
 dataset_format: parquet
 other_format: csv
-number_participants: 28
+number_participants: 45
 language: unknown
 collection_name: Diversity1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
@@ -29,6 +29,6 @@ category:
   - Dataset
 5_stars: 3
 publication_date: 2023-11-30 00:00:00
-identifier: 004.AAAD.AAD.AB
+identifier: 004.AAAD.AAG.AB
 request_contact: datadistribution.knowdive@unitn.it
 ---

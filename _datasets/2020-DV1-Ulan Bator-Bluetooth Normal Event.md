@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Ulan Bator-Bluetooth Normal
+title: 2020-DV1-Ulan Bator-Bluetooth 
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth Normal
+dataset_name: Bluetooth 
 location: Ulan Bator (Mongolia)
 latitude_map: 47.92
 longitude_map: 106.9
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 9,13 MB
+size: 12 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 64
