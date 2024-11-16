@@ -24,9 +24,8 @@ longitude_map: 126.5
 start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Contribution%20Answers/">
-  Timediaries answers </a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Contribution%20Confirmation/">
-  Timediaries confirmation </a>
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Time%20Diaries/">
+  Time Diaries </a>
 size: 0.82 MB
 dataset_format: parquet
 other_format: csv

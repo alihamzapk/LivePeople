@@ -28,8 +28,7 @@ sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datase
   cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Wifi%20Networks%20Event/">wifi
   networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Wifi%20Event/">wifi</a>,  <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Bluetooth%20Normal%20Event/">bluetooth
-  normal event</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Bluetooth%20Low%20Energy%20Event/">bluetooth
-  low energy event</a>
+  </a>
 size: 7.30 MB
 dataset_format: parquet
 other_format: csv

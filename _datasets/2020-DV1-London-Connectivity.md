@@ -17,7 +17,7 @@ longitude_map: 0.12
 start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Bluetooth%20Normal%20Event/">bluetooth normal event</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Bluetooth%20Low%20Energy%20Event/">bluetooth low energy event</a>
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Cellular%20Network/"> cellular network</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Wifi%20Networks%20Event/">wifi networks</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Wifi%20Event/">wifi</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Bluetooth%20Normal%20Event/">bluetooth</a>
 size: 389 MB
 dataset_format: parquet
 other_format: csv

@@ -24,10 +24,8 @@ longitude_map: 0.12
 start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Contribution%20Answers/">
-  Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Contribution%20Questions/">
-  Timediaries questions </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Contribution%20Confirmation/">
-  Timediaries confirmation </a>
+sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Time%20Diaries/">
+  Time Diaries </a>
 size: 1.10 MB
 dataset_format: parquet
 other_format: csv
