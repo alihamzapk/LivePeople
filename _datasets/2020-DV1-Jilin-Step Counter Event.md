@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Step Counter
+title: 2020-DiversityOne-Jilin-Step Counter
 organization: Unitn
 notes: This dataset exploits the Android API that generates an event when a step is
   detected. The step counter sensor is used to get the total number of steps taken
@@ -25,7 +25,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Motion
-size: 9,47 MB
+size: 9.47 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

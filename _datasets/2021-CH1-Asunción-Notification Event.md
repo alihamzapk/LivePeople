@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-Asunción-Notification
+title: 2021-ChatApplicationOne-Asunción-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user. The dataset was collected as part of the WeNet project, a

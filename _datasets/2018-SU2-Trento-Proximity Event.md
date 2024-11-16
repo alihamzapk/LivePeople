@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Proximity
+title: 2018-SmartUnitnTwo-Trento-Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between
   the user's head and the phone, depending on the phone it may be measured in centimeters

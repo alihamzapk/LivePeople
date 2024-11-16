@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Bluetooth Low Energy
+title: 2021-ChatApplicationTwo-Trento-Bluetooth Low Energy
 organization: Unitn
 notes: The dataset returns whether the device to wirelessly exchange data with other
   Bluetooth Low Energy devices. The dataset was collected as part of the WeNet project,
@@ -25,7 +25,7 @@ start_date: 2021.12.20
 end_date: 2021.12.08
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 11,61 MB
+size: 11.61 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 6

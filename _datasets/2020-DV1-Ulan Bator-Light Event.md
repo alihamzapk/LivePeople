@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Ulan Bator-Light
+title: 2020-DiversityOne-Ulan Bator-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux). It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Environment
-size: 24426,08 MB
+size: 24426.08 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 161

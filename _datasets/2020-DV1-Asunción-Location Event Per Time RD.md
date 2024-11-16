@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Location  Per Time RD
+title: 2020-DiversityOne-Asunción-Location  Per Time RD
 organization: Unitn
 notes: This dataset returns the geocoordinates of where the phone is located. It is
   part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Position
-size: 889,11 MB
+size: 889.11 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 27

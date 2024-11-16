@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Wifi
+title: 2020-DiversityOne-London-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life
@@ -23,7 +23,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 4,01 MB
+size: 4.01 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 66

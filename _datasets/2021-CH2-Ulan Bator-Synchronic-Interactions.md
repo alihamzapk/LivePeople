@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Ulan Bator-Synchronic-Interactions
+title: 2021-ChatApplicationTwo-Ulan Bator-Synchronic-Interactions
 organization: Unitn
 notes: The Wenet Chat Application 2 project was based on a chatbot that interacted
   with university students in Italy, Denmark, Paraguay, the United Kingdom, and Mongolia.
@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 2 project was based on a chatbot that interact
   phase, they participated in a focus group to provide feedback.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
-  url: https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Synchronic-Interactions
@@ -29,7 +30,8 @@ longitude_map: 106.9
 start_date: 2021.11.22
 end_date: 2021.12.06
 dataset_type: Synchronic-Interactions
-sensor_type: <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Questionnaire%20Exit%20Survey/">Exit
+sensor_type: <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Ulan%20Bator-Questionnaire%20Exit%20Survey/">Exit
   survey </a>
 size: 0.19 MB
 dataset_format: parquet
@@ -37,7 +39,8 @@ other_format: csv
 number_participants: 28
 language: unknown
 collection_name: ChatApplication2
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/4e384637-2aa1-455a-b1c4-e0d927e9306b">https://ds.datascientia.eu/community/public/projects/4e384637-2aa1-455a-b1c4-e0d927e9306b</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/4e384637-2aa1-455a-b1c4-e0d927e9306b">https://ds.datascientia.eu/community/public/projects/4e384637-2aa1-455a-b1c4-e0d927e9306b</a>
 category:
 - Dataset Bundle
 5_stars: 3

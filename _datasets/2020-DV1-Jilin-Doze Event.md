@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Doze
+title: 2020-DiversityOne-Jilin-Doze
 organization: Unitn
 notes: This dataset returns the device doze status on (true/false). It is part of
   Wenet Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 0,88 MB
+size: 0.88 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 30

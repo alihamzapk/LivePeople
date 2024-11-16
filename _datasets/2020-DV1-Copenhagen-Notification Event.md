@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Notification
+title: 2020-DiversityOne-Copenhagen-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user. It is part of Wenet Diversity 1 data collection, which contains
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: App-usage
-size: 3,16 MB
+size: 3.16 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 16

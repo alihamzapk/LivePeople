@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Application
+title: 2018-SmartUnitnTwo-Trento-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. It is part of SmartUnitn2 data

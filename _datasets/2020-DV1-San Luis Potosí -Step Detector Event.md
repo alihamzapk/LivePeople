@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Step Detector
+title: 2020-DiversityOne-San Luis Potosí -Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number
   of steps since the devices booted. The step detector sensor collects an event each
@@ -27,7 +27,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Motion
-size: 2,61 MB
+size: 2.61 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 18

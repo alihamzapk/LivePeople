@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2019-QRD-Trento-Accelerometer
+title: 2019-QROWD-Trento-Accelerometer
 organization: Unitn
 notes: This dataset returns the 3D vector of the acceleration.
 resources:

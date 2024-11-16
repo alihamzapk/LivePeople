@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-London-Application
+title: 2021-ChatApplicationOne-London-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. The dataset was collected as

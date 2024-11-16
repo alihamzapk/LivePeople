@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Diachronic-Interactions
+title: 2024-Makerere-Kampala-Diachronic-Interactions
 organization: Unitn
 notes: The survey is based on a cutting edge data collection application called iLog1,
   developed by the University of Trento (Italy). Once installed on your smartphone
@@ -27,7 +27,8 @@ longitude_map: 32.56
 start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Contribution%20Answers/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Contribution%20Answers/">
   Timediaries answers </a>
 size: 1.50 MB
 dataset_format: parquet
@@ -35,7 +36,8 @@ other_format: csv
 number_participants: 73
 language: unknown
 collection_name: MAK
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec14">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec14</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec14">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec14</a>
 category:
 - Dataset Bundle
 5_stars: 3

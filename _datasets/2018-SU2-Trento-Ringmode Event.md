@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Ringmode
+title: 2018-SmartUnitnTwo-Trento-Ringmode
 organization: Unitn
 notes: The dataset returns the current ring status of the phone (normal/silent/vibrate).
   It is part of SmartUnitn2 data collection, which contains data from 27 sensors associated

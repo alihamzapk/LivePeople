@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Wifi
+title: 2020-DiversityOne-Jilin-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life
@@ -23,7 +23,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 3,52 MB
+size: 3.52 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 36

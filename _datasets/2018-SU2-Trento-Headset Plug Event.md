@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Headset Plug
+title: 2018-SmartUnitnTwo-Trento-Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of
   the headphones is plugged in/out. It is part of SmartUnitn2 data collection, which

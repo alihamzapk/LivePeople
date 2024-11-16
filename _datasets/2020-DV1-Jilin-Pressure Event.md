@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Pressure
+title: 2020-DiversityOne-Jilin-Pressure
 organization: Unitn
 notes: The dataset returns ambient air pressure (hPa or mbar). It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Environment
-size: 3086,45 MB
+size: 3086.45 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 9

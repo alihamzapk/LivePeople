@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Light
+title: 2024-Makerere-Kampala-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux).  It is part of the
   Makerere data collection, which contains data about the everyday life activities
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Environment
-size: 246,29 MB
+size: 246.29 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 50

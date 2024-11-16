@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Headset Plug
+title: 2020-DiversityOne-Asunción-Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of
   the headphones is plugged in/out. It is part of Wenet Diversity 1 data collection,
@@ -24,7 +24,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: App-usage
-size: 0,15 MB
+size: 0.15 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 16

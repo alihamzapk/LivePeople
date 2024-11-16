@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Motion
+title: 2020-DiversityOne-Amrita-Motion
 organization: Unitn
 notes: The study aimed to assess diversity through the social practices and daily
   behaviors of university students from eight different countries. The research was
@@ -14,7 +14,8 @@ notes: The study aimed to assess diversity through the social practices and dail
   students across countries, both synchronically and diachronically.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
-  url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
+  url: 
+    https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Motion
@@ -24,11 +25,16 @@ longitude_map: 76.9
 start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Label/">activities
-  per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Time/">
-  activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Counter%20Event/">step
-  counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Detector%20Event/">step
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Accelerometer%20Event/">accelerometer</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Label/">activities
+  per label</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Time/">
+  activities per time </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Counter%20Event/">step
+  counter</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Detector%20Event/">step
   detector</a>
 size: 1331.20 MB
 dataset_format: parquet
@@ -36,7 +42,8 @@ other_format: csv
 number_participants: 20
 language: unknown
 collection_name: Diversity1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
 category:
 - Dataset Bundle
 5_stars: 3

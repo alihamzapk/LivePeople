@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-User Presence
+title: 2020-DiversityOne-Jilin-User Presence
 organization: Unitn
 notes: This dataset pertains to a sensor that detects when the user is present. An
   example is when the user unlocks the screen. This sensor can be used in comparison
@@ -26,7 +26,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 0,83 MB
+size: 0.83 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

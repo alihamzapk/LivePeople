@@ -1,21 +1,22 @@
 ---
 schema: default
-title: 2019-QRD-Trento-Location POI
+title: 2019-QROWD-Trento-Location POI
 organization: Unitn
-notes: This dataset returns the Point Of Interests surrounding the geocoordinates of where the phone is located. POI extracted every 5 minutes.
+notes: This dataset returns the Point Of Interests surrounding the geocoordinates
+  of where the phone is located. POI extracted every 5 minutes.
 resources:
-  - name:  
-    url: >-
-       
-    format:  
-  - name:  
-    url: >-
-       
-    format:  
-  - name:  
-    url: >-
-       
-    format:  
+- name:
+  url: >
+
+  format:
+- name:
+  url: >
+
+  format:
+- name:
+  url: >
+
+  format:
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Location POI
@@ -34,7 +35,7 @@ language: unknown
 collection_name: QROWD
 project_url: <a href="nan">nan</a>
 category:
-  - Dataset
+- Dataset
 5_stars: 3
 publication_date: 20/12/2023
 identifier: 003.AAAC.AAA.BN

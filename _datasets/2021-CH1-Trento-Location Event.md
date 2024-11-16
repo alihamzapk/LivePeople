@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-Trento-Location
+title: 2021-ChatApplicationOne-Trento-Location
 organization: Unitn
 notes: The dataset contains location information using GPS connections. The dataset
   was collected as part of the WeNet project, a Horizon 2020 funded project that aims

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Music
+title: 2020-DiversityOne-London-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)
   using the default music player from the operating system. It is part of Wenet Diversity
@@ -24,7 +24,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: App-usage
-size: 6,42 MB
+size: 6.42 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 32

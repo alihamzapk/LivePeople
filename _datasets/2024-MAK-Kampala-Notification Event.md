@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Notification
+title: 2024-Makerere-Kampala-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user.  It is part of the Makerere data collection, which contains
@@ -23,7 +23,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: App-Usage
-size: 11,64 MB
+size: 11.64 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 42

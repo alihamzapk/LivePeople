@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Music
+title: 2018-SmartUnitnTwo-Trento-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)
   using the default music player from the operating system. It is part of SmartUnitn2

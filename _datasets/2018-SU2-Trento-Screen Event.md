@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Screen
+title: 2018-SmartUnitnTwo-Trento-Screen
 organization: Unitn
 notes: The dataset returns whether the phone's screen is on or off. is part of SmartUnitn2
   data collection, which contains data from 27 sensors associated to around 100+ thousand

@@ -23,7 +23,7 @@ start_date: 2022.06.07
 end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: Position
-size: 371,26 MB
+size: 371.26 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 113

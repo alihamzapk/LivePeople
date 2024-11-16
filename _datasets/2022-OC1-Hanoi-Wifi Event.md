@@ -23,7 +23,7 @@ start_date: 2022.06.13
 end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 0,07 MB
+size: 0.07 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 53

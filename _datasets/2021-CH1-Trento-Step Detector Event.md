@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-Trento-Step Detector
+title: 2021-ChatApplicationOne-Trento-Step Detector
 organization: Unitn
 notes: Sensor that returns a label identifying the activity performed by the user,
   accurately detected using low power signals from multiple sensors in the device.

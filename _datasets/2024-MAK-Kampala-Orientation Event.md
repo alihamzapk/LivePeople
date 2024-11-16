@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Orientation
+title: 2024-Makerere-Kampala-Orientation
 organization: Unitn
 notes: This dataset returns the 3D vector of the cellphone orientation.  It is part
   of the Makerere data collection, which contains data about the everyday life activities
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Position
-size: 2618,33 MB
+size: 2618.33 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 44

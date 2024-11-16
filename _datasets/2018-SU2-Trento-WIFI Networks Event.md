@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-WIFI Networks
+title: 2018-SmartUnitnTwo-Trento-WIFI Networks
 organization: Unitn
 notes: The dataset returns information related to the WIFI network to which the phone
   is connected to, if connected will also report the WIFI network id. It is part of

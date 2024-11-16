@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Batterycharge
+title: 2020-DiversityOne-Amrita-Batterycharge
 organization: Unitn
 notes: This dataset returns whether the phone is on charge and the type of charger.
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday

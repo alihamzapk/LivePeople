@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Pressure
+title: 2020-DiversityOne-San Luis Potosí -Pressure
 organization: Unitn
 notes: The dataset returns ambient air pressure (hPa or mbar). It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Environment
-size: 5490,07 MB
+size: 5490.07 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 7

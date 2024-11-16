@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Motion
+title: 2024-Makerere-Kampala-Motion
 organization: Unitn
 notes: The survey is based on a cutting edge data collection application called iLog1,
   developed by the University of Trento (Italy). Once installed on your smartphone
@@ -27,14 +27,21 @@ longitude_map: 32.56
 start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Uncalibrated/">accelerometer
-  uncalibrated</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Activities/">activities</a>,<a
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Event/">accelerometer</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Accelerometer%20Uncalibrated/">accelerometer
+  uncalibrated</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Activities/">activities</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Step%20Counter%20Event/">step
-  counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Step%20Detector%20Event/">step
-  detector</a> ,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Event/">
-  gyroscope </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Uncalibrated/">
-  gyroscope uncalibrated</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Rotationvector/">
+  counter</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Step%20Detector%20Event/">step
+  detector</a> ,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Event/">
+  gyroscope </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Gyroscope%20Uncalibrated/">
+  gyroscope uncalibrated</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Rotationvector/">
   rotation </a>
 size: 12288 MB
 dataset_format: parquet
@@ -42,7 +49,8 @@ other_format: csv
 number_participants: 62
 language: unknown
 collection_name: MAK
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec12">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec12</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec12">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec12</a>
 category:
 - Dataset Bundle
 5_stars: 3

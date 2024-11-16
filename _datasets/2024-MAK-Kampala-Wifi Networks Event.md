@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Wifi Networks
+title: 2024-Makerere-Kampala-Wifi Networks
 organization: Unitn
 notes: The dataset returns information related to the WIFI network to which the phone
   is connected to, if connected will also report the WIFI network id.  It is part
@@ -23,7 +23,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 21,84 MB
+size: 21.84 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 53

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-Wenet Diversity 1-London
+title: 2020-Wenet DiversityOne-London
 organization: Unitn
 notes: The study aimed to assess diversity through the social practices and daily
   behaviors of university students from eight different countries. The research was
@@ -17,7 +17,7 @@ resources:
   url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Wenet Diversity 1
+dataset_name: Wenet DiversityOne
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12

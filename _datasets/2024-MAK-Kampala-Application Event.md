@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Application
+title: 2024-Makerere-Kampala-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone.  It is part of the Makerere
@@ -23,7 +23,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: App-Usage
-size: 0,77 MB
+size: 0.77 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 57

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Application
+title: 2021-ChatApplicationTwo-Trento-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. The dataset was collected as
@@ -25,7 +25,7 @@ start_date: 2021.12.20
 end_date: 2021.12.08
 dataset_type: Sensors
 sensor_type: App-usage
-size: 19,06 MB
+size: 19.06 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 6

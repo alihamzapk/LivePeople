@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-User Presence
+title: 2020-DiversityOne-London-User Presence
 organization: Unitn
 notes: This dataset pertains to a sensor that detects when the user is present. An
   example is when the user unlocks the screen. This sensor can be used in comparison
@@ -26,7 +26,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 8,56 MB
+size: 8.56 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 67

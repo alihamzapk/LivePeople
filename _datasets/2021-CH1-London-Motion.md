@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-London-Motion
+title: 2021-ChatApplicationOne-London-Motion
 organization: Unitn
 notes: The Wenet Chat Application 1 project was based on a chatbot that collected
   questions and answers from university students in Italy, Denmark, Paraguay, the
@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 1 project was based on a chatbot that collecte
   in a focus group to provide feedback.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Motion
@@ -29,10 +30,14 @@ longitude_map: 0.12
 start_date: 2021.03.12
 end_date: 2021.03.28
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Activities%20Per%20Label/">activities
-  per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Activities%20Per%20Time/">
-  activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Step%20Counter%20Event/">step
-  counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Step%20Detector%20Event/">step
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Activities%20Per%20Label/">activities
+  per label</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Activities%20Per%20Time/">
+  activities per time </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Step%20Counter%20Event/">step
+  counter</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Step%20Detector%20Event/">step
   detector</a>
 size: 1.30 MB
 dataset_format: parquet
@@ -40,7 +45,8 @@ other_format: csv
 number_participants: 10
 language: unknown
 collection_name: ChatApplication1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4853">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4853</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4853">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4853</a>
 category:
 - Dataset Bundle
 5_stars: 3

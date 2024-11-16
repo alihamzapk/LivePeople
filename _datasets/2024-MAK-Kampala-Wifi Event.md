@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Wifi
+title: 2024-Makerere-Kampala-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone.  It is part
   of the Makerere data collection, which contains data about the everyday life activities
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 0,30 MB
+size: 0.30 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 60

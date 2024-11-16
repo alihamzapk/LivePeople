@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Battery Charge
+title: 2024-Makerere-Kampala-Battery Charge
 organization: Unitn
 notes: This dataset returns whether the phone is on charge and the type of charger.  It
   is part of the Makerere data collection, which contains data about the everyday
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Device-Usage
-size: 0,14 MB
+size: 0.14 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 54

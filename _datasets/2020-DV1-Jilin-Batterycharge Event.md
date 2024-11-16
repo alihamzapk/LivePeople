@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Batterycharge
+title: 2020-DiversityOne-Jilin-Batterycharge
 organization: Unitn
 notes: This dataset returns whether the phone is on charge and the type of charger.
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 25,71 MB
+size: 25.71 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

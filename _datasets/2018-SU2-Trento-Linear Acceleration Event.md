@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Linear Acceleration
+title: 2018-SmartUnitnTwo-Trento-Linear Acceleration
 organization: Unitn
 notes: The dataset contains 3D vector acceleration force without gravity force. It
   is part of SmartUnitn2 data collection, which contains data from 27 sensors associated

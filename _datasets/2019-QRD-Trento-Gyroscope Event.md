@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2019-QRD-Trento-Gyroscope
+title: 2019-QROWD-Trento-Gyroscope
 organization: Unitn
 notes: The dataset returns the 3D vector of the gyroscope showing the rate of rotation
   (rad/s)

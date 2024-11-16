@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Inertial
+title: 2024-Makerere-Kampala-Inertial
 organization: Unitn
 notes: The survey is based on a cutting edge data collection application called iLog1,
   developed by the University of Trento (Italy). Once installed on your smartphone
@@ -27,7 +27,8 @@ longitude_map: 32.56
 start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Geomagnetic%20Rotation%20Vector/">Geomagnetic
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Geomagnetic%20Rotation%20Vector/">Geomagnetic
   rotation vector</a>
 size: 1536.00 MB
 dataset_format: parquet
@@ -35,7 +36,8 @@ other_format: csv
 number_participants: 62
 language: unknown
 collection_name: MAK
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec16</a>
 category:
 - Dataset Bundle
 5_stars: 3

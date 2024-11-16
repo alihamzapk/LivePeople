@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Doze
+title: 2020-DiversityOne-Amrita-Doze
 organization: Unitn
 notes: This dataset returns the device doze status on (true/false). It is part of
   Wenet Diversity 1 data collection, which contains data about the everyday life activities

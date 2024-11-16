@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Pressure
+title: 2024-Makerere-Kampala-Pressure
 organization: Unitn
 notes: The dataset returns ambient air pressure (hPa or mbar).  It is part of the
   Makerere data collection, which contains data about the everyday life activities
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Environment
-size: 435,95 MB
+size: 435.95 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 20

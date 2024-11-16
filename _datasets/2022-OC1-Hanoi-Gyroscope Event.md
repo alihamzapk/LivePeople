@@ -22,7 +22,7 @@ start_date: 2022.06.13
 end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: Motion
-size: 2081,03 MB
+size: 2081.03 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 52

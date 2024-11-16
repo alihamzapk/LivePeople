@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Doze
+title: 2020-DiversityOne-Asunción-Doze
 organization: Unitn
 notes: This dataset returns the device doze status on (true/false). It is part of
   Wenet Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 1,94 MB
+size: 1.94 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 23

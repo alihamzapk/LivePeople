@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Bluetooth Normal
+title: 2024-Makerere-Kampala-Bluetooth Normal
 organization: Unitn
 notes: This dataset returns whether the device  wirelessly exchanges data with other
   Bluetooth devices.  It is part of the Makerere data collection, which contains data
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 38,07 MB
+size: 38.07 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

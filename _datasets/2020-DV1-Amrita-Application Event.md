@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Application
+title: 2020-DiversityOne-Amrita-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. It is part of Wenet Diversity

@@ -22,7 +22,7 @@ start_date: 2022.06.07
 end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 13,07 MB
+size: 13.07 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 21

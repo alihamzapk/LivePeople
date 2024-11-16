@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-SU2OSM-Trento-Big Thick Data
+title: 2024-SmartUnitnTwoOpenStreetMap-Trento-Big Thick Data
 organization: Unitn
 notes: The SU2OSM big-thick data integrates the part of SmartUnitn2 (SU2) dataset
   with the OpenStreetMap (OSM) dataset from Geofabrik. The SU2 dataset contains the
@@ -14,7 +14,8 @@ notes: The SU2OSM big-thick data integrates the part of SmartUnitn2 (SU2) datase
   SU2OSM data has been assigned new and more reasonable datatypes.
 resources:
 - name: Codebook
-  url: https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-OSM-Trento-timediaries.html
+  url: 
+    https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-OSM-Trento-timediaries.html
   format: html
 - name: Big-Thick Data generation via reference and personal context unification
   url: https://arxiv.org/abs/2409.05883
@@ -34,7 +35,8 @@ other_format: unknown
 number_participants: 158
 language: English
 collection_name: SmartUnitn2OSM
-project_url: <a href="https://datascientia.disi.unitn.it/projects/su2osm/">https://datascientia.disi.unitn.it/projects/su2osm/</a>
+project_url: <a 
+  href="https://datascientia.disi.unitn.it/projects/su2osm/">https://datascientia.disi.unitn.it/projects/su2osm/</a>
 category:
 - Dataset
 5_stars: 3

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-London-Synchronic-Interactions
+title: 2021-ChatApplicationOne-London-Synchronic-Interactions
 organization: Unitn
 notes: The Wenet Chat Application 1 project was based on a chatbot that collected
   questions and answers from university students in Italy, Denmark, Paraguay, the
@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 1 project was based on a chatbot that collecte
   in a focus group to provide feedback.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Synchronic-Interactions
@@ -29,15 +30,18 @@ longitude_map: 0.12
 start_date: 2021.03.12
 end_date: 2021.03.28
 dataset_type: Synchronic-Interactions
-sensor_type: <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Questionnaire-Exit-Survey/">Exit
-  survey </a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Questionnaire%20Profiling/">Profiling</a>
+sensor_type: <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Questionnaire-Exit-Survey/">Exit
+  survey </a>, <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Questionnaire%20Profiling/">Profiling</a>
 size: 0.18 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 45
 language: unknown
 collection_name: ChatApplication1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4856">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4856</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4856">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4856</a>
 category:
 - Dataset Bundle
 5_stars: 3

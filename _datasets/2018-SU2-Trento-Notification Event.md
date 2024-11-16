@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Notification
+title: 2018-SmartUnitnTwo-Trento-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user. It is part of SmartUnitn2 data collection, which contains

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Location
+title: 2018-SmartUnitnTwo-Trento-Location
 organization: Unitn
 notes: The dataset contains location information using GPS connections. It is part
   of SmartUnitn2 data collection, which contains data from 27 sensors associated to

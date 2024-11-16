@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Music
+title: 2020-DiversityOne-Jilin-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)
   using the default music player from the operating system. It is part of Wenet Diversity
@@ -24,7 +24,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: App-usage
-size: 0,01 MB
+size: 0.01 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 5

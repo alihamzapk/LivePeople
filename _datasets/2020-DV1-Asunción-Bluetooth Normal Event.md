@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Bluetooth 
+title: 2020-DiversityOne-Asunción-Bluetooth
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth 
+dataset_name: Bluetooth
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57

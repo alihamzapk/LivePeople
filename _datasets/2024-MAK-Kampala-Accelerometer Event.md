@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Accelerometer
+title: 2024-Makerere-Kampala-Accelerometer
 organization: Unitn
 notes: The dataset contains 3D vector of the acceleration. It is part of the Makerere
   data collection, which contains data about the everyday life activities of students
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Motion
-size: 3305,16 MB
+size: 3305.16 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 62

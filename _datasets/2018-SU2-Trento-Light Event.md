@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Light
+title: 2018-SmartUnitnTwo-Trento-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux). It is part of SmartUnitn2
   data collection, which contains data from 27 sensors associated to around 100+ thousand

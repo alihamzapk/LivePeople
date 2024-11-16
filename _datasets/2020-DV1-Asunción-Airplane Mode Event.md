@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Asunción-Airplane Mode
+title: 2020-DiversityOne-Asunción-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone’s Airplane mode is ON/OFF. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 0,01 MB
+size: 0.01 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 8

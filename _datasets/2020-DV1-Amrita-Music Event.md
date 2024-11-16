@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Music
+title: 2020-DiversityOne-Amrita-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)
   using the default music player from the operating system. It is part of Wenet Diversity
@@ -24,7 +24,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: App-usage
-size: 0,05 MB
+size: 0.05 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 7

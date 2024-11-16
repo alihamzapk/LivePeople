@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH1-London-Step Counter
+title: 2021-ChatApplicationOne-London-Step Counter
 organization: Unitn
 notes: Sensor that returns a label identifying the activity performed by the user,
   accurately detected using low power signals from multiple sensors in the device.

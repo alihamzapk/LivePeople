@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Gyroscope
+title: 2018-SmartUnitnTwo-Trento-Gyroscope
 organization: Unitn
 notes: The dataset contains 3D vector of the gyroscope showing the rate of rotation
   (rad/s). It is part of SmartUnitn2 data collection, which contains data from 27

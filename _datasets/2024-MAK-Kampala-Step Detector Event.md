@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Step Detector
+title: 2024-Makerere-Kampala-Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number
   of steps since the devices booted. The step detector sensor collects an event each
@@ -26,7 +26,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Motion
-size: 7,06 MB
+size: 7.06 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 47

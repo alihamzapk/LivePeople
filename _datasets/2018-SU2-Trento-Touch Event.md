@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Touch
+title: 2018-SmartUnitnTwo-Trento-Touch
 organization: Unitn
 notes: The dataset returns the number of screen touch occurred. It is part of SmartUnitn2
   data collection, which contains data from 27 sensors associated to around 100+ thousand

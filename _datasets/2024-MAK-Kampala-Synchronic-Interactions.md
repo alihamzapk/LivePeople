@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Synchronic-Interactions
+title: 2024-Makerere-Kampala-Synchronic-Interactions
 organization: Unitn
 notes: The survey is based on a cutting edge data collection application called iLog1,
   developed by the University of Trento (Italy). Once installed on your smartphone
@@ -27,7 +27,8 @@ longitude_map: 32.56
 start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Synchronic-Interactions
-sensor_type: <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Questionnaire/">Questionnaire
+sensor_type: <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Questionnaire/">Questionnaire
   </a>
 size: 0.24 MB
 dataset_format: parquet
@@ -35,7 +36,8 @@ other_format: csv
 number_participants: 63
 language: unknown
 collection_name: MAK
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec15">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec15</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec15">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec15</a>
 category:
 - Dataset Bundle
 5_stars: 3

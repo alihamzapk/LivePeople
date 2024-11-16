@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Bluetooth 
+title: 2020-DiversityOne-Jilin-Bluetooth
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth 
+dataset_name: Bluetooth
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5

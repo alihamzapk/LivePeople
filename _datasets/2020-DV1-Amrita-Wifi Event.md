@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Wifi
+title: 2020-DiversityOne-Amrita-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life
@@ -23,7 +23,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 0,09 MB
+size: 0.09 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 17

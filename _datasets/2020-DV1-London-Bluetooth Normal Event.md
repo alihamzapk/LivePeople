@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Bluetooth 
+title: 2020-DiversityOne-London-Bluetooth
 organization: Unitn
 notes: This dataset returns whether the device to wirelessly exchange data with other
   Bluetooth devices. It is part of Wenet Diversity 1 data collection, which contains
@@ -15,7 +15,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Bluetooth 
+dataset_name: Bluetooth
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12

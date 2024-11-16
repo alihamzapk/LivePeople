@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Batterycharge
+title: 2020-DiversityOne-Copenhagen-Batterycharge
 organization: Unitn
 notes: This dataset returns whether the phone is on charge and the type of charger.
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 19,73 MB
+size: 19.73 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 21

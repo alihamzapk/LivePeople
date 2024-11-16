@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Airplane Mode
+title: 2020-DiversityOne-Amrita-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone’s Airplane mode is ON/OFF. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life

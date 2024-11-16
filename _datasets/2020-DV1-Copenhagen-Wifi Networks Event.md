@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Wifi Networks
+title: 2020-DiversityOne-Copenhagen-Wifi Networks
 organization: Unitn
 notes: The dataset returns information related to the WIFI network to which the phone
   is connected to, if connected will also report the WIFI network id. It is part of
@@ -24,7 +24,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 30,48 MB
+size: 30.48 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 21

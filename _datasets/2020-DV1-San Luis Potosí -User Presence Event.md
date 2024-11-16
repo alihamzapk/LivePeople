@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -User Presence
+title: 2020-DiversityOne-San Luis Potosí -User Presence
 organization: Unitn
 notes: This dataset pertains to a sensor that detects when the user is present. An
   example is when the user unlocks the screen. This sensor can be used in comparison
@@ -26,7 +26,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 0,69 MB
+size: 0.69 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 20

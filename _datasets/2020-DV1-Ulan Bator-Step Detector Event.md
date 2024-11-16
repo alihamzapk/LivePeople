@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Ulan Bator-Step Detector
+title: 2020-DiversityOne-Ulan Bator-Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number
   of steps since the devices booted. The step detector sensor collects an event each
@@ -27,7 +27,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Motion
-size: 7,44 MB
+size: 7.44 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 125

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Wifi
+title: 2020-DiversityOne-Copenhagen-Wifi
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part
   of Wenet Diversity 1 data collection, which contains data about the everyday life
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Connectivity
-size: 1,04 MB
+size: 1.04 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 21

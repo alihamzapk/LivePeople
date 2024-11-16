@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Gyroscope
+title: 2020-DiversityOne-Copenhagen-Gyroscope
 organization: Unitn
 notes: The dataset contains 3D vector of the gyroscope showing the rate of rotation
   (rad/s). It is part of Wenet Diversity 1 data collection, which contains data about
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Motion
-size: 9739,17 MB
+size: 9739.17 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 19

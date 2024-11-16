@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Light
+title: 2020-DiversityOne-Amrita-Light
 organization: Unitn
 notes: The dataset contains information about illuminance (lux). It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities

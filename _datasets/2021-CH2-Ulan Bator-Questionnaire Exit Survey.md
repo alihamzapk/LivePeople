@@ -1,17 +1,20 @@
 ---
 schema: default
-title: 2021-CH2-Ulan Bator-Questionnaire Exit Survey
+title: 2021-ChatApplicationTwo-Ulan Bator-Questionnaire Exit Survey
 organization: Unitn
-notes: The dataset contains profiling questions, e.g., demographics, routines, personality. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
+notes: The dataset contains profiling questions, e.g., demographics, routines, personality.
+  The dataset was collected as part of the WeNet project, a Horizon 2020 funded project
+  that aims at developing a diversity-aware, machine-mediated paradigm for social
+  interactions.
 resources:
-  - name: 2022_LivePeople_Chatbot2_Data_Descriptor
-    url: >-
-      https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
-    format: PDF
-  - name: Exit_survey.html
-    url: >-
-      https://drive.google.com/file/d/1eUwf7xUvSUH5SoSmzr3MdELcUQaDu2pn/view?usp=sharing
-    format: html
+- name: 2022_LivePeople_Chatbot2_Data_Descriptor
+  url: >-
+    https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
+  format: PDF
+- name: Exit_survey.html
+  url: >-
+    https://drive.google.com/file/d/1eUwf7xUvSUH5SoSmzr3MdELcUQaDu2pn/view?usp=sharing
+  format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Questionnaire Exit Survey
@@ -22,7 +25,7 @@ start_date: 2021.11.22
 end_date: 2021.12.06
 dataset_type: Synchronic-Interactions
 sensor_type: unknown
-size: 0,03 MB
+size: 0.03 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 31
@@ -30,7 +33,7 @@ language: unknown
 collection_name: ChatApplication2
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Dataset
+- Dataset
 5_stars: 3
 publication_date: 2023-04-18
 identifier: 005.AAAG.AAB.AA

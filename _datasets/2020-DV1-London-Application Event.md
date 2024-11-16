@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Application
+title: 2020-DiversityOne-London-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. It is part of Wenet Diversity
@@ -24,7 +24,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: App-usage
-size: 64,67 MB
+size: 64.67 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 67

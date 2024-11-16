@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Proximity
+title: 2020-DiversityOne-San Luis Potosí -Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between
   the user's head and the phone, depending on the phone it may be measured in centimeters
@@ -25,7 +25,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Position
-size: 133,74 MB
+size: 133.74 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 20

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Orientation
+title: 2018-SmartUnitnTwo-Trento-Orientation
 organization: Unitn
 notes: The dataset contains 3D vector of the cellphone orientation. It is part of
   SmartUnitn2 data collection, which contains data from 27 sensors associated to around

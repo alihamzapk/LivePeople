@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Accelerometer
+title: 2020-DiversityOne-London-Accelerometer
 organization: Unitn
 notes: The dataset contains 3D vector of the acceleration. It is part of Wenet Diversity
   1 data collection, which contains data about the everyday life activities of students
@@ -23,7 +23,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: Motion
-size: 59080,33 MB
+size: 59080.33 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 67

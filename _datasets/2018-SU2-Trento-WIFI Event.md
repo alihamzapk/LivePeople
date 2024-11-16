@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-WIFI
+title: 2018-SmartUnitnTwo-Trento-WIFI
 organization: Unitn
 notes: The dataset returns all WIFI networks detected by the smartphone. It is part
   of SmartUnitn2 data collection, which contains data from 27 sensors associated to

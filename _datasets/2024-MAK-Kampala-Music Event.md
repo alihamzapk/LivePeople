@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Music
+title: 2024-Makerere-Kampala-Music
 organization: Unitn
 notes: The dataset returns whether music is being played on the phone (yes or no)
   using the default music player from the operating system.  It is part of the Makerere
@@ -23,7 +23,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: App-Usage
-size: 0,16 MB
+size: 0.16 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 16

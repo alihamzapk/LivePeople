@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Step Counter
+title: 2020-DiversityOne-San Luis Potosí -Step Counter
 organization: Unitn
 notes: This dataset exploits the Android API that generates an event when a step is
   detected. The step counter sensor is used to get the total number of steps taken
@@ -25,7 +25,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Motion
-size: 3,89 MB
+size: 3.89 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 19

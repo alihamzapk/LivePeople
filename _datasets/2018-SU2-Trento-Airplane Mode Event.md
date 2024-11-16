@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Airplane Mode
+title: 2018-SmartUnitnTwo-Trento-Airplane Mode
 organization: Unitn
 notes: The dataset returns whether the phone’s Airplane mode is ON/OFF. It is part
   of SmartUnitn2 data collection, which contains data from 27 sensors associated to

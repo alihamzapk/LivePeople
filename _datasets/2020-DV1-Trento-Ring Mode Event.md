@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Trento-Ring Mode
+title: 2020-DiversityOne-Trento-Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 6,26 MB
+size: 6.26 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 208

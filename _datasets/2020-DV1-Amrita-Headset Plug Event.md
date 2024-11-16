@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Headset Plug
+title: 2020-DiversityOne-Amrita-Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of
   the headphones is plugged in/out. It is part of Wenet Diversity 1 data collection,

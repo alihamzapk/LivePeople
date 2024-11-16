@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Copenhagen-Screen
+title: 2020-DiversityOne-Copenhagen-Screen
 organization: Unitn
 notes: The dataset returns whether the phone's screen is on or off. is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 66,39 MB
+size: 66.39 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 21

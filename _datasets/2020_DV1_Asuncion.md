@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-Wenet Diversity 1-Asuncion
+title: 2020-Wenet DiversityOne-Asuncion
 organization: Unitn
 notes: The study aimed to assess diversity through the social practices and daily
   behaviors of university students from eight different countries. The research was
@@ -17,7 +17,7 @@ resources:
   url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Wenet Diversity 1
+dataset_name: Wenet DiversityOne
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57

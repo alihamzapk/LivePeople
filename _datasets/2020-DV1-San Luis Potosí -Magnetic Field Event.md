@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Magnetic Field
+title: 2020-DiversityOne-San Luis Potosí -Magnetic Field
 organization: Unitn
 notes: The dataset contains 3D vector of the magnetic field. It is part of Wenet Diversity
   1 data collection, which contains data about the everyday life activities of students
@@ -22,7 +22,7 @@ vstart_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: Position
-size: 11183,96 MB
+size: 11183.96 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 18

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Pressure
+title: 2020-DiversityOne-Amrita-Pressure
 organization: Unitn
 notes: The dataset returns ambient air pressure (hPa or mbar). It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Environment
-size: 1247,64 MB
+size: 1247.64 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 3

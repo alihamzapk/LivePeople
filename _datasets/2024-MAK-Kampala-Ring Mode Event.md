@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Ring Mode
+title: 2024-Makerere-Kampala-Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).  It
   is part of the Makerere data collection, which contains data about the everyday
@@ -11,7 +11,7 @@ resources:
 - name: Codebook
   url: >-
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-ringmode.html
-    
+
   format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
@@ -23,7 +23,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Device-Usage
-size: 0,03 MB
+size: 0.03 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

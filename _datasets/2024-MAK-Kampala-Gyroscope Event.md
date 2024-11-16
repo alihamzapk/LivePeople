@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Gyroscope
+title: 2024-Makerere-Kampala-Gyroscope
 organization: Unitn
 notes: The dataset contains 3D vector of the gyroscope showing the rate of rotation
   (rad/s).  It is part of the Makerere data collection, which contains data about
@@ -22,7 +22,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Motion
-size: 2195,90 MB
+size: 2195.90 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 37

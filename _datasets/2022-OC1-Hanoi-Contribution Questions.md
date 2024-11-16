@@ -2,12 +2,17 @@
 schema: default
 title: 2022-OC1-Hanoi-Contribution Questions
 organization: Unitn
-notes: This dataset contains a table for storing sent questions to the user to the different types of contributions such as tasks for random time questions and time diaries for fixed frequency questions. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the FPT University.
+notes: This dataset contains a table for storing sent questions to the user to the
+  different types of contributions such as tasks for random time questions and time
+  diaries for fixed frequency questions. The dataset was collected as part of the
+  WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware,
+  machine-mediated paradigm for social interactions. It collected information on the
+  eating/drinking activities of the students of the FPT University.
 resources:
-  - name: nan
-    url: >-
-      nan
-    format: nan
+- name: nan
+  url: >-
+    nan
+  format: nan
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Contribution Questions
@@ -18,7 +23,7 @@ start_date: 2022.06.13
 end_date: 2022.07.11
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
-size: 0,07 MB
+size: 0.07 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 112
@@ -26,7 +31,7 @@ language: unknown
 collection_name: OC-FPT
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
-  - Dataset
+- Dataset
 5_stars: 3
 publication_date: 2023-12-20 00:00:00
 identifier: 006.AAAJ.AAJ.AC

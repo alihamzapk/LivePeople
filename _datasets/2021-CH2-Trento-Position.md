@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Position
+title: 2021-ChatApplicationTwo-Trento-Position
 organization: Unitn
 notes: The Wenet Chat Application 2 project was based on a chatbot that interacted
   with university students in Italy, Denmark, Paraguay, the United Kingdom, and Mongolia.
@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 2 project was based on a chatbot that interact
   phase, they participated in a focus group to provide feedback.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
-  url: https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Position
@@ -29,8 +30,10 @@ longitude_map: 11.13
 start_date: 2021.12.20
 end_date: 2021.12.08
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Trento-Location%20Event%20Per%20Time%20POI/">location
-  event per time POI</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Trento-Location%20Event%20Per%20Time%20RD/">location
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Trento-Location%20Event%20Per%20Time%20POI/">location
+  event per time POI</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Trento-Location%20Event%20Per%20Time%20RD/">location
   event per time RD</a>
 size: 0.69 MB
 dataset_format: parquet
@@ -38,7 +41,8 @@ other_format: csv
 number_participants: 6
 language: unknown
 collection_name: ChatApplication2
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/326441a6-bc15-4393-b8e0-6ea7fcb4452e">https://ds.datascientia.eu/community/public/projects/326441a6-bc15-4393-b8e0-6ea7fcb4452e</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/326441a6-bc15-4393-b8e0-6ea7fcb4452e">https://ds.datascientia.eu/community/public/projects/326441a6-bc15-4393-b8e0-6ea7fcb4452e</a>
 category:
 - Dataset Bundle
 5_stars: 3

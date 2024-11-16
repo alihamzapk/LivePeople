@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Daily annotations & Location
+title: 2020-DiversityOne-Amrita-Daily annotations & Location
 organization: Unitn
 notes: The study aimed to assess diversity through the social practices and daily
   behaviors of university students from eight different countries. The research was
@@ -14,7 +14,8 @@ notes: The study aimed to assess diversity through the social practices and dail
   students across countries, both synchronically and diachronically.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
-  url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
+  url: 
+    https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Daily annotations & Location
@@ -23,16 +24,25 @@ latitude_map: 10.9
 longitude_map: 76.9
 start_date: 2021.07.12
 end_date: 2021.08.12
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">Diachronic-Interactions</a>,<a
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">Diachronic-Interactions</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20POI/">location
-  event per time POI</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20RD/">location
-  event per time RD</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Answers/">
-  Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Questions/">
-  Timediaries questions </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Confirmation/">
-  Timediaries confirmation </a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20A/">Questionnaire
-  A</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20B/">Questionnaire
-  B</a>, <a href ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20C/">Questionnaire
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20POI/">location
+  event per time POI</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20RD/">location
+  event per time RD</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Answers/">
+  Timediaries answers </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Questions/">
+  Timediaries questions </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Confirmation/">
+  Timediaries confirmation </a>, <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20A/">Questionnaire
+  A</a>, <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20B/">Questionnaire
+  B</a>, <a href 
+  ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20C/">Questionnaire
   C</a>
 size: 281.15 MB
 dataset_format: parquet
@@ -40,7 +50,8 @@ other_format: csv
 number_participants: 4183
 language: unknown
 collection_name: Diversity1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
 category:
 - Dataset Bundle
 5_stars: 3

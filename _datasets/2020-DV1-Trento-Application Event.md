@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Trento-Application
+title: 2020-DiversityOne-Trento-Application
 organization: Unitn
 notes: The dataset returns the name of the application (or application package) that
   is currently running in the foreground of the phone. It is part of Wenet Diversity
@@ -24,7 +24,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: App-usage
-size: 247,89 MB
+size: 247.89 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 234

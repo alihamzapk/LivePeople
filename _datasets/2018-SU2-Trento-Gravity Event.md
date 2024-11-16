@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2018-SU2-Trento-Gravity
+title: 2018-SmartUnitnTwo-Trento-Gravity
 organization: Unitn
 notes: The dataset contains 3D vector of the gravity force. It is part of SmartUnitn2
   data collection, which contains data from 27 sensors associated to around 100+ thousand

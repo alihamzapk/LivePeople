@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Ring Mode
+title: 2020-DiversityOne-Amrita-Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 0,32 MB
+size: 0.32 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 15

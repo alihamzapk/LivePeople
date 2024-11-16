@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2021-CH2-Trento-Step Counter
+title: 2021-ChatApplicationTwo-Trento-Step Counter
 organization: Unitn
 notes: This dataset pertains to a sensor that returns a label identifying the activity
   performed by the user, accurately detected using low power signals from multiple
@@ -28,7 +28,7 @@ start_date: 2021.12.20
 end_date: 2021.12.08
 dataset_type: Sensors
 sensor_type: Motion
-size: 2,16 MB
+size: 2.16 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 6

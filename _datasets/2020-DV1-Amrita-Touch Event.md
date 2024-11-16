@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Touch
+title: 2020-DiversityOne-Amrita-Touch
 organization: Unitn
 notes: The dataset returns the number of screen touch occurred. It is part of Wenet
   Diversity 1 data collection, which contains data about the everyday life activities
@@ -23,7 +23,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 11,71 MB
+size: 11.71 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 12

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-San Luis Potosí -Headset Plug
+title: 2020-DiversityOne-San Luis Potosí -Headset Plug
 organization: Unitn
 notes: The dataset contains Headset status (true/false), triggered when the jack of
   the headphones is plugged in/out. It is part of Wenet Diversity 1 data collection,
@@ -24,7 +24,7 @@ start_date: 2020.07.18
 end_date: 2021.08.14
 dataset_type: Sensors
 sensor_type: App-usage
-size: 0,02 MB
+size: 0.02 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 13

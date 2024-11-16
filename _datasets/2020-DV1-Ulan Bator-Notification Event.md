@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Ulan Bator-Notification
+title: 2020-DiversityOne-Ulan Bator-Notification
 organization: Unitn
 notes: The dataset measures when the phone receives a notification and when it is
   dismissed by the user. It is part of Wenet Diversity 1 data collection, which contains
@@ -23,7 +23,7 @@ start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: App-usage
-size: 46,13 MB
+size: 46.13 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 149

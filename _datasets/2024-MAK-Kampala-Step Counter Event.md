@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2024-MAK-Kampala-Step Counter
+title: 2024-Makerere-Kampala-Step Counter
 organization: Unitn
 notes: This dataset exploits the Android API that generates an event when a step is
   detected. The step counter sensor is used to get the total number of steps taken
@@ -24,7 +24,7 @@ start_date: 2024-03-18
 end_date: 2024-05-13
 dataset_type: Sensors
 sensor_type: Motion
-size: 7,61 MB
+size: 7.61 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 53

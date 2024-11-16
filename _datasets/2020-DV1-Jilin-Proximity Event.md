@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Jilin-Proximity
+title: 2020-DiversityOne-Jilin-Proximity
 organization: Unitn
 notes: The dataset contains the proximity events, which measure the distance between
   the user's head and the phone, depending on the phone it may be measured in centimeters
@@ -25,7 +25,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: Position
-size: 99,93 MB
+size: 99.93 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40

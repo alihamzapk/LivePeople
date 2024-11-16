@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-Amrita-Step Detector
+title: 2020-DiversityOne-Amrita-Step Detector
 organization: Unitn
 notes: This dataset exploits the Android API that counts (incrementally) the number
   of steps since the devices booted. The step detector sensor collects an event each
@@ -27,7 +27,7 @@ start_date: 2021.07.12
 end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: Motion
-size: 0,45 MB
+size: 0.45 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 18

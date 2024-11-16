@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 2020-DV1-London-Ring Mode
+title: 2020-DiversityOne-London-Ring Mode
 organization: Unitn
 notes: This dataset returns the current ring status of the phone (normal/silent/vibrate).
   It is part of Wenet Diversity 1 data collection, which contains data about the everyday
@@ -23,7 +23,7 @@ start_date: 2020.11.23
 end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: Device-usage
-size: 1,61 MB
+size: 1.61 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 53
