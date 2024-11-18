@@ -24,9 +24,12 @@ longitude_map: 22.94
 start_date: 2022.06.07
 end_date: 2022.07.06
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Proximity%20Event/">proximity</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Magnetic%20Field%20Event/">magnetic
-  field</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Location%20Event%20Per%20Time%20RD/">location
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Proximity%20Event/">proximity</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Magnetic%20Field%20Event/">magnetic
+  field</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Location%20Event%20Per%20Time%20RD/">location
   event per time RD</a>
 size: 3788.80 MB
 dataset_format: parquet
@@ -34,12 +37,13 @@ other_format: csv
 number_participants: 112
 language: unknown
 collection_name: OC_UTH
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb8">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb8</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb8">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb8</a>
 category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 20/12/2023 00:00:00
-identifier: 006.AAAI.AAK.**
+identifier: 006.AAAI.AAK.BR-BP-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

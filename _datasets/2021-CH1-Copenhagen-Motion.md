@@ -31,14 +31,8 @@ start_date: 2021.03.12
 end_date: 2021.03.28
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Activities%20Per%20Label/">activities
-  per label</a>,<a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Activities%20Per%20Time/">
-  activities per time </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Step%20Counter%20Event/">step
-  counter</a>,  <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Copenhagen-Step%20Detector%20Event/">step
-  detector</a>
+  activities  </a>
 size: 0.12 MB
 dataset_format: parquet
 other_format: csv
@@ -51,7 +45,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
-identifier: 005.AAAE.AAC.**
+identifier: 005.AAAE.AAC.BF
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

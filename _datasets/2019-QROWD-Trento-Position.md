@@ -25,9 +25,12 @@ longitude_map: 11.13
 start_date: 2020-09-07 00:00:00
 end_date: 2020-09-07 00:00:00
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Gyroscope%20Event/">gyroscope</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Location%20Event%20Per%20Time%20POI/">location
-  event per time POI</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Location%20Event%20Per%20Time%20RD/">location
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Gyroscope%20Event/">gyroscope</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Location%20Event%20Per%20Time%20POI/">location
+  event per time POI</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QRD-Trento-Location%20Event%20Per%20Time%20RD/">location
   event per time RD</a>
 size: 283648 MB
 dataset_format: parquet
@@ -35,12 +38,13 @@ other_format: csv
 number_participants: 157
 language: unknown
 collection_name: QROWD
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
 category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 003.AAAC.AAA.**
+identifier: 003.AAAC.AAA.BB-BN-BN
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

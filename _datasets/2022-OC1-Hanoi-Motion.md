@@ -25,12 +25,15 @@ longitude_map: 105.8
 start_date: 2022.06.13
 end_date: 2022.07.11
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Activities%20Per%20Label/">activities
-  per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Activities%20Per%20Time/">
-  activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Step%20Counter%20Event/">step
-  counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Step%20Detector%20Event/">step
-  detector</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Gyroscope%20Event/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Accelerometer%20Event/">accelerometer</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Activities%20Per%20Time/">
+  activities per time </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Step%20Counter%20Event/">step
+  counter</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Step%20Detector%20Event/">step
+  detector</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Gyroscope%20Event/">
   gyroscope </a>
 size: 7884.80 MB
 dataset_format: parquet
@@ -38,12 +41,13 @@ other_format: csv
 number_participants: 52
 language: unknown
 collection_name: OC_FPT
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>
 category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 20/12/2023 00:00:00
-identifier: 006.AAAJ.AAJ.**
+identifier: 006.AAAJ.AAJ.AY-BF-BH-BI-BB
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

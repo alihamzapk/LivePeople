@@ -32,9 +32,7 @@ end_date: 2021.03.28
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Bluetooth/">
-  bluetooth normal</a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Bluetooth%20LTE/">bluetooth
-  low energy</a>
+  bluetooth </a>
 size: 2.20 MB
 dataset_format: parquet
 other_format: csv
@@ -47,7 +45,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
-identifier: 005.AAAE.AAE.**
+identifier: 005.AAAE.AAE.AK
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

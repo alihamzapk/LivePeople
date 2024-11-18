@@ -31,8 +31,6 @@ start_date: 2021.03.12
 end_date: 2021.03.28
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Ulan%20Bator-Activities%20Per%20Label/">activities
-  per label</a>,<a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Ulan%20Bator-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Ulan%20Bator-Step%20Counter%20Event/">step
@@ -51,7 +49,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
-identifier: 005.AAAE.AAB.**
+identifier: 005.AAAE.AAB.BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

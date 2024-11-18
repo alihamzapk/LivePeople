@@ -29,15 +29,11 @@ dataset_type: Sensors, <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">Synchronic-Interactions</a>
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20POI/">location
-  event per time POI</a>, <a 
+ POI</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20RD/">location
-  event per time RD</a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Answers/">
-  Timediaries answers </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Questions/">
-  Timediaries questions </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Contribution%20Confirmation/">
-  Timediaries confirmation </a>, <a href 
+ RD</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Time%20Diaries/">
+  Timediaries </a>, <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20A/">Questionnaire
   A</a>, <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20B/">Questionnaire
@@ -56,7 +52,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAG.**
+identifier: 004.AAAD.AAG.BN-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

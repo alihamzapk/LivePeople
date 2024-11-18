@@ -31,8 +31,6 @@ start_date: 2021.06.04
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Activities%20Per%20Label/">activities
-  per label</a>,<a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Step%20Counter%20Event/">step
@@ -51,7 +49,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
-identifier: 005.AAAE.AAA.**
+identifier: 005.AAAE.AAA.BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

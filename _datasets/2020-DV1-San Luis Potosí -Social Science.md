@@ -32,12 +32,8 @@ sensor_type: <a
   event per time POI</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Location%20Event%20Per%20Time%20RD/">location
   event per time RD</a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Contribution%20Answers/">
-  Timediaries answers </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Contribution%20Questions/">
-  Timediaries questions </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Contribution%20Confirmation/">
-  Timediaries confirmation </a>, <a href 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Time%20Diaries/">
+  Timediaries answers </a>,  <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Questionnaire%20Diversity%20A/">Questionnaire
   A</a>, <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Questionnaire%20Diversity%20B/">Questionnaire
@@ -56,7 +52,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAH.**
+identifier: 004.AAAD.AAH.BN-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

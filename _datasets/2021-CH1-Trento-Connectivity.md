@@ -32,9 +32,7 @@ end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Bluetooth/">
-  bluetooth normal</a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Bluetooth%20LTE/">bluetooth
-  low energy</a>
+  bluetooth </a>
 size: 9.90 MB
 dataset_format: parquet
 other_format: csv
@@ -47,7 +45,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
-identifier: 005.AAAE.AAA.**
+identifier: 005.AAAE.AAA.AK
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

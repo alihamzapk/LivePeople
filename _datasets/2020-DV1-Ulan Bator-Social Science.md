@@ -33,13 +33,8 @@ sensor_type: <a
   event per time POI</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Location%20Event%20Per%20Time%20RD/">location
   event per time RD</a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Contribution%20Answers/">
-  Timediaries answers </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Contribution%20Questions/">
-  Timediaries questions </a>, <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Contribution%20Confirmation/">
-  Timediaries confirmation </a>, <a href 
-  ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Questionnaire%20Diversity%20A/">Questionnaire
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Time%20Diaries/">
+  Timediaries</a>,on.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Questionnaire%20Diversity%20A/">Questionnaire
   A</a>, <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Questionnaire%20Diversity%20B/">Questionnaire
   B</a>, <a href 
@@ -57,6 +52,6 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAB.**
+identifier: 004.AAAD.AAB.BN-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---

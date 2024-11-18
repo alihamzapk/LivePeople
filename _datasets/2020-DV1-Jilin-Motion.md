@@ -26,10 +26,7 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Accelerometer%20Event/">accelerometer</a>,
-  <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Activities%20Per%20Label/">activities
-  per label</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Accelerometer%20Event/">accelerometer</a>,<a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Step%20Counter%20Event/">step
@@ -48,7 +45,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAF.**
+identifier: 004.AAAD.AAF.AY-BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

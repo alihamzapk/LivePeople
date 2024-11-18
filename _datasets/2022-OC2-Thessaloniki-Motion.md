@@ -24,12 +24,16 @@ longitude_map: 22.94
 start_date: 2022.06.07
 end_date: 2022.07.06
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Label/">activities
-  per label</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
-  activities per time </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Counter%20Event/">step
-  counter</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Detector%20Event/">step
-  detector</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Gyroscope%20Event/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Accelerometer%20Event/">accelerometer</a>,
+<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
+  activities per time </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Counter%20Event/">step
+  counter</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Detector%20Event/">step
+  detector</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Gyroscope%20Event/">
   gyroscope </a>
 size: 16384 MB
 dataset_format: parquet
@@ -37,12 +41,13 @@ other_format: csv
 number_participants: 112
 language: unknown
 collection_name: OC_UTH
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7</a>
 category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 20/12/2023 00:00:00
-identifier: 006.AAAI.AAK.**
+identifier: 006.AAAI.AAK.AY-BF-BH-BI-BB
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

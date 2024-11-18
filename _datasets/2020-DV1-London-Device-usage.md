@@ -55,6 +55,6 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAE.**
+identifier: 004.AAAD.AAE.BS-BV-BW-BX-BY-BU-BT-BZ
 request_contact: datadistribution.knowdive@unitn.it
 ---

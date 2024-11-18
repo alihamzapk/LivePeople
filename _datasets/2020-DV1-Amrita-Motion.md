@@ -27,11 +27,9 @@ end_date: 2021.08.12
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Accelerometer%20Event/">accelerometer</a>,
-  <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Label/">activities
-  per label</a>,<a 
+ <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Activities%20Per%20Time/">
-  activities per time </a>, <a 
+  activities </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Step%20Detector%20Event/">step
@@ -48,7 +46,7 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAG.**
+identifier: 004.AAAD.AAG.AY-BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---
 

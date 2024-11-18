@@ -28,11 +28,9 @@ end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Accelerometer%20Event/">accelerometer</a>,
-  <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Activities%20Per%20Label/">activities
-  per label</a>,<a 
+ <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Activities%20Per%20Time/">
-  activities per time </a>, <a 
+  activities  </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Detector%20Event/">step
@@ -49,6 +47,6 @@ category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 30/11/2023 00:00:00
-identifier: 004.AAAD.AAC.**
+identifier: 004.AAAD.AAC.AY-BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---

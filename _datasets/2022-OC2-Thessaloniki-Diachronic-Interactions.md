@@ -24,8 +24,10 @@ longitude_map: 22.94
 start_date: 2022.06.07
 end_date: 2022.07.06
 dataset_type: Diachronic-Interactions
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Contribution%20Answers/">
-  Timediaries answers </a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Contribution%20Questions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Contribution%20Answers/">
+  Timediaries answers </a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Contribution%20Questions/">
   Timediaries questions </a>
 size: 2.10 MB
 dataset_format: parquet
@@ -33,12 +35,13 @@ other_format: csv
 number_participants: 164
 language: unknown
 collection_name: OC_UTH
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb9">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb9</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb9">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb9</a>
 category:
 - Dataset Bundle
 5_stars: 3
 publication_date: 20/12/2023 00:00:00
-identifier: 006.AAAI.AAK.**
+identifier: 006.AAAI.AAK.AB-AC
 request_contact: datadistribution.knowdive@unitn.it
 ---
 
