@@ -26,8 +26,7 @@ end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Accelerometer%20Event/">accelerometer</a>,
-<a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
+  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Counter%20Event/">step
   counter</a>,  <a 

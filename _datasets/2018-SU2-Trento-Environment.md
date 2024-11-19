@@ -32,7 +32,7 @@ resources:
   format: PDF
 license: >-
   ./../../resources/2023LivePeopleLicense.html
-dataset_name: Smart Unitn 2
+dataset_name: Environment
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13

@@ -27,8 +27,7 @@ end_date: 2020.12.18
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Accelerometer%20Event/">accelerometer</a>,
-<a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Activities%20Per%20Time/">
+  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Activities%20Per%20Time/">
   activities</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Step%20Counter%20Event/">step
   counter</a>,  <a 

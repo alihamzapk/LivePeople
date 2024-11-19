@@ -25,10 +25,9 @@ longitude_map: -57.57
 start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
-sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Accelerometer%20Event/">accelerometer</a>,
-<a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Activities%20Per%20Time/">
+sensor_type: 
+  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Accelerometer%20Event/">accelerometer</a>,
+  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Step%20Counter%20Event/">step
   counter</a>,  <a 
@@ -36,7 +35,7 @@ sensor_type: <a
   detector</a>
 size: 1843.20 MB
 dataset_format: parquet
-other_format: csv
+other_format: csv 
 number_participants: 25
 language: unknown
 collection_name: Diversity1
