@@ -28,7 +28,7 @@ end_date: 2020.12.11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Accelerometer%20Event/">accelerometer</a>,
- <a 
+  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Activities%20Per%20Time/">
   activities  </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Counter%20Event/">step
@@ -40,7 +40,7 @@ size: 1936.16 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 17
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/3720e313-356e-4b7c-830e-be5cc7dbb3b8">https://ds.datascientia.eu/community/public/projects/3720e313-356e-4b7c-830e-be5cc7dbb3b8</a>

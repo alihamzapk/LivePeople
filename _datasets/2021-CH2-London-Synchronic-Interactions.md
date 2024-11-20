@@ -37,7 +37,7 @@ size: 0.14 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 19
-language: unknown
+language: Not Applicable
 collection_name: ChatApplication2
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/c4c01f4d-bc9a-42b7-8f8e-88b037a9e161">https://ds.datascientia.eu/community/public/projects/c4c01f4d-bc9a-42b7-8f8e-88b037a9e161</a>

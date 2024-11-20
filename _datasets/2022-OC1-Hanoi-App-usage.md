@@ -37,7 +37,7 @@ size: 65 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 52
-language: unknown
+language: Not Applicable
 collection_name: OC_FPT
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>

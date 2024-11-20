@@ -34,7 +34,7 @@ size: 283648 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 157
-language: unknown
+language: Not Applicable
 collection_name: QROWD
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>

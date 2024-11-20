@@ -42,7 +42,7 @@ size: 32 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 145
-language: unknown
+language: Not Applicable
 collection_name: SmartUnitn2
 project_url: <a 
   href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>

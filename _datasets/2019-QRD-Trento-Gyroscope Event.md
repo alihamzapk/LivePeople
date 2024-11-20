@@ -31,7 +31,7 @@ size: 58797.42 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 157
-language: unknown
+language: Not Applicable
 collection_name: QROWD
 project_url: <a href="nan">nan</a>
 category:

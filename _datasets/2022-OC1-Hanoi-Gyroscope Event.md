@@ -26,7 +26,7 @@ size: 2081.03 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 52
-language: unknown
+language: Not Applicable
 collection_name: OC-FPT
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:

@@ -47,7 +47,7 @@ size: 47 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 112
-language: unknown
+language: Not Applicable
 collection_name: OC_UTH
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb5">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb5</a>

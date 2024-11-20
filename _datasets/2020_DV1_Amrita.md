@@ -14,7 +14,8 @@ notes: The study aimed to assess diversity through the social practices and dail
   students across countries, both synchronically and diachronically.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
-  url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
+  url: 
+    https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wenet DiversityOne
@@ -23,25 +24,36 @@ latitude_map: 10.9
 longitude_map: 76.9
 start_date: 2021.07.12
 end_date: 2021.08.12
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">
   Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-App-usage/">
-  App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Device-usage/">
-  Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Position/">
-  Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Connectivity/">
-  Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Motion/">
-  Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Environment/">
-  Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-App-usage/">
+  App-usage</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Device-usage/">
+  Device-usage</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Position/">
+  Position</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Connectivity/">
+  Connectivity</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Motion/">
+  Motion</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Environment/">
+  Environment</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">
   Synchronic-Interactions</a>
 size: 2150.40 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 20
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>
 category:
 - Project
 5_stars: 3

@@ -22,12 +22,12 @@ longitude_map: 106.9
 start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
-sensor_type: Motion 
+sensor_type: Motion
 size: 6100 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 130
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:

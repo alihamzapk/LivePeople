@@ -33,12 +33,13 @@ sensor_type: <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Step%20Detector%20Event/">step
-  detector</a>
+  detector</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Ulan%20Bator-Gyroscope%20Event/">gyroscope</a>
 size: 18432 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 164
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a">https://ds.datascientia.eu/community/public/projects/f6bfbca4-fbe7-488f-bcf1-a66ac1f5a93a</a>

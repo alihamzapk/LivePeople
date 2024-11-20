@@ -45,7 +45,7 @@ size: 4406.69 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 1980
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/ff8fb8d9-ecfd-4c39-bc09-c80eb4d90406">https://ds.datascientia.eu/community/public/projects/ff8fb8d9-ecfd-4c39-bc09-c80eb4d90406</a>

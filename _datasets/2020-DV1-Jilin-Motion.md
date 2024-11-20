@@ -26,18 +26,19 @@ start_date: 2021.05.17
 end_date: 2021.06.18
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Accelerometer%20Event/">accelerometer</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Accelerometer%20Event/">accelerometer</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Step%20Detector%20Event/">step
-  detector</a>
+  detector</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Gyroscope%20Event/">gyroscope</a>
 size: 1331.20 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 40
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f">https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f</a>

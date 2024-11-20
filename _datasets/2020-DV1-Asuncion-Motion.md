@@ -25,19 +25,21 @@ longitude_map: -57.57
 start_date: 2020.11.16
 end_date: 2020.12.11
 dataset_type: Sensors
-sensor_type: 
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Activities%20Per%20Time/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Accelerometer%20Event/">accelerometer</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Step%20Detector%20Event/">step
-  detector</a>
+  detector</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Gyroscope%20Event/">gyroscope</a>
 size: 1843.20 MB
 dataset_format: parquet
-other_format: csv 
+other_format: csv
 number_participants: 25
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/6b8e2fb9-30d9-4fdb-9116-0cc7cc00ba3e">https://ds.datascientia.eu/community/public/projects/6b8e2fb9-30d9-4fdb-9116-0cc7cc00ba3e</a>

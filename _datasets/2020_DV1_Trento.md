@@ -14,7 +14,8 @@ notes: The study aimed to assess diversity through the social practices and dail
   students across countries, both synchronically and diachronically.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
-  url: https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
+  url: 
+    https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wenet DiversityOne
@@ -23,25 +24,36 @@ latitude_map: 46.07
 longitude_map: 11.13
 start_date: 2020.09.28
 end_date: 2020.12.11
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Synchronic-Interactions/">
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Synchronic-Interactions/">
   Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-App-usage/">
-  App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Device-usage/">
-  Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Position/">
-  Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Connectivity/">
-  Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Motion/">
-  Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Environment/">
-  Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Synchronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-App-usage/">
+  App-usage</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Device-usage/">
+  Device-usage</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Position/">
+  Position</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Connectivity/">
+  Connectivity</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Motion/">
+  Motion</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Environment/">
+  Environment</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Synchronic-Interactions/">
   Synchronic-Interactions</a>
 size: 38912 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 221
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303">https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303">https://ds.datascientia.eu/community/public/projects/e464583f-32eb-44c1-a455-91503b02b303</a>
 category:
 - Project
 5_stars: 3

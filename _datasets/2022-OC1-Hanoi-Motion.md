@@ -26,7 +26,7 @@ start_date: 2022.06.13
 end_date: 2022.07.11
 dataset_type: Sensors
 sensor_type: <a 
-  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Accelerometer%20Event/">accelerometer</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Accelerometer%20Event/">accelerometer</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Step%20Counter%20Event/">step
@@ -39,7 +39,7 @@ size: 7884.80 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 52
-language: unknown
+language: Not Applicable
 collection_name: OC_FPT
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>

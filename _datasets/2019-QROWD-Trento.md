@@ -14,9 +14,9 @@ notes: The QROWD project was an initiative by the Municipality of Trento to coll
   In addition to the smart phone sensor data, demographic data, pictures, and questionnaire
   data was collected from the respondents.
 resources:
-- name: null
+- name:
   url: ''
-  format: null
+  format:
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: QROWD
 location: Trento (Italy)
@@ -25,16 +25,19 @@ longitude_map: 11.13
 start_date: 09/07/2020
 end_date: 14/07/2020
 dataset_type: Sensors
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Position/">
-  Position</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Motion/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Position/">
+  Position</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2019-QROWD-Trento-Motion/">
   Motion</a>
 size: 283648 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 157
-language: unknown
+language: Not Applicable
 collection_name: QROWD
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
 category:
 - Project
 5_stars: 3

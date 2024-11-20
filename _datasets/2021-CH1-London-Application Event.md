@@ -28,7 +28,7 @@ size: 3.18 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 62
-language: unknown
+language: Not Applicable
 collection_name: Chatbot1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:

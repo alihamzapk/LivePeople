@@ -29,9 +29,9 @@ dataset_type: Sensors, <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Synchronic-Interactions/">Synchronic-Interactions</a>
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20POI/">location
- POI</a>, <a 
+  POI</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Location%20Event%20Per%20Time%20RD/">location
- RD</a>, <a 
+  RD</a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Time%20Diaries/">
   Timediaries </a>, <a href 
   ="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Questionnaire%20Diversity%20A/">Questionnaire
@@ -44,7 +44,7 @@ size: 281.15 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 4183
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c">https://ds.datascientia.eu/community/public/projects/2c45f74f-6538-4bb5-a67e-1e9c15d0307c</a>

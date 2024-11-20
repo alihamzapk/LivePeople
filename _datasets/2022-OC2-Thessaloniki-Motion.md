@@ -26,7 +26,8 @@ end_date: 2022.07.06
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Accelerometer%20Event/">accelerometer</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Activities%20Per%20Time/">
   activities per time </a>, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC2-Thessaloniki-Step%20Counter%20Event/">step
   counter</a>,  <a 
@@ -38,7 +39,7 @@ size: 16384 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 112
-language: unknown
+language: Not Applicable
 collection_name: OC_UTH
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7">https://ds.datascientia.eu/community/public/projects/1e465a20-1650-42f7-88d4-d7b1b8ed6bb7</a>

@@ -28,7 +28,7 @@ size: 22.73 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 250
-language: unknown
+language: Not Applicable
 collection_name: Diversity1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
