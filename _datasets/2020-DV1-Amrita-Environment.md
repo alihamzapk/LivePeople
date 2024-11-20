@@ -30,7 +30,7 @@ sensor_type: <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Pressure%20Event/">pressure</a>,
   <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Light%20Event/">light</a>
-size: 12 MB
+size: 142 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 20

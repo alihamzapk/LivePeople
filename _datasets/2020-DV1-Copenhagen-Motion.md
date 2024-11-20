@@ -34,7 +34,8 @@ sensor_type: <a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Counter%20Event/">step
   counter</a>,  <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Step%20Detector%20Event/">step
-  detector</a>
+  detector</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Gyroscope%20Event/">gyroscope</a>
 size: 1936.16 MB
 dataset_format: parquet
 other_format: csv
