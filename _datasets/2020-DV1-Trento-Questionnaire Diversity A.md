@@ -13,6 +13,10 @@ resources:
   url: >-
     https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
+- name: Codebook
+  url: >-
+    https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2020_DV1_Trento_questionnaire_a.html
+  format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: Questionnaire Diversity A

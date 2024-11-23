@@ -16,6 +16,10 @@ resources:
   url: >-
     https://drive.google.com/file/d/1TMrjkAEWRZ5xhETJKOCnERgh_Z06PO2E/view?usp=drive_link
   format: PDF
+- name: Codebook
+  url: >-
+    https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2020_DV1_London_accelerometer.html
+  format: html
 license: >-
   ./../../resources/2023LivePeopleLicense.html
 dataset_name: User Presence
