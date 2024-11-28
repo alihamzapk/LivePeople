@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Wifi Networks 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: Returns all WIFI networks detected by the smartphone.
 resources: 
     - name: codebook

@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Location 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: Location information using GPS connections. (table location)
 resources:
     - name: codebook

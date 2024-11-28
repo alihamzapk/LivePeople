@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Battery Charge
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: Returns whether the phone is on charge and the type of charger
 resources:
     - name: codebook

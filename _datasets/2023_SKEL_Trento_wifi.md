@@ -1,7 +1,7 @@
 ---
 schema: liveme
 title: 2023-Skel-Trento-Wifi 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: Returns information related to the WIFI network to which the phone is connected to, if connected will also report the WIFI network id.
 resources:
     - name: codebook
@@ -32,7 +32,5 @@ request_contact: datadistribution.knowdive@unitn.it
 maintainer: Andrea Bontempelli  # Maintainer based on authors
 maintainer_email: datadistribution [DOT] knowdive [AT] unitn [DOT] it  # Fixed email
 category:
-  - Personal data
-type:
-  - Datasets
+  - Dataset
 ---

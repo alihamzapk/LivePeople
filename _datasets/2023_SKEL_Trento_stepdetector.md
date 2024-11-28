@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Step Detector 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: Android API that counts (incrementally) the number of steps since the devices booted. The step detector sensor collects an event each time a step is taken by the user. The value reported by the sensor is always one, the fractional part being always zero, and the event timestamp is the time when the user’s foot hit the ground. 
 resources:
     - name: codebook

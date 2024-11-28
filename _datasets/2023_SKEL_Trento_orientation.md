@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Orientation 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn  # Copyright Holders in the config file
 notes: 3D vector of the cellphone orientation
 resources:
     - name: codebook

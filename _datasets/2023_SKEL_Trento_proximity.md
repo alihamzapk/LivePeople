@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Proximity 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn # Copyright Holders in the config file
 notes: Measures the distance between the user's head and the phone, depending on the phone it may be measured in centimeters (i.e., the absolute distance) or as labels (e.g., 'near', 'far')
 resources:
     - name: codebook

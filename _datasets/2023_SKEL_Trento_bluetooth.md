@@ -1,7 +1,7 @@
 ---
 schema: default 
 title: 2023-Skel-Trento-Bluetooth 
-organization: University of Trento - Knowledge Diversity  # Copyright Holders in the config file
+organization: Unitn # Copyright Holders in the config file
 notes: Returns whether the device wirelessly exchanges data with other Bluetooth  devices
 resources:
     - name: codebook
