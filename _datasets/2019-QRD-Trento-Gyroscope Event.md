@@ -36,6 +36,7 @@ collection_name: QROWD
 project_url: <a href="nan">nan</a>
 category:
 - Dataset
+domain: Digital University
 5_stars: 3
 publication_date: 20/12/2023
 identifier: 003.AAAC.AAA.BB

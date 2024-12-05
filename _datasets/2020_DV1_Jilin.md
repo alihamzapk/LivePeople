@@ -56,6 +56,7 @@ project_url: <a
   href="https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f">https://ds.datascientia.eu/community/public/projects/923b2c1c-166c-4f53-a274-c9d6eaa5ad4f</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 2023-11-30 00:00:00
 identifier: 004.AAAD.AAF.**

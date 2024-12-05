@@ -43,6 +43,7 @@ project_url: <a
   href="https://ds.datascientia.eu/community/public/projects/65f3fe8a-81e0-4177-8bec-7e52ad251c2d">https://ds.datascientia.eu/community/public/projects/65f3fe8a-81e0-4177-8bec-7e52ad251c2d</a>
 category:
 - Dataset Bundle
+domain: Digital University
 5_stars: 3
 publication_date: 18/04/2023 00:00:00
 identifier: 005.AAAG.AAC.CA

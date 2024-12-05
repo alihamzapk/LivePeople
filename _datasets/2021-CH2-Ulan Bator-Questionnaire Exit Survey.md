@@ -34,6 +34,7 @@ collection_name: ChatApplication2
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
 - Dataset
+domain: Digital University
 5_stars: 3
 publication_date: 2023-04-18
 identifier: 005.AAAG.AAB.AA

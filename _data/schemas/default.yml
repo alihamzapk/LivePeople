@@ -56,10 +56,15 @@ dataset_fields:
     label: Project URL
     datajson: project_url
   - field_name: category
-    label: Domain
+    label: Category
     form_template: form/category.html
     display_template: display/category.html
-    datajson: category
+    datajson: category 
+  - field_name: domain
+    label: Domain
+    form_template: form/domain.html
+    display_template: display/domain.html
+    datajson: domain
   - field_name: 5_stars
     label: 5-Stars
     datajson: 5_stars

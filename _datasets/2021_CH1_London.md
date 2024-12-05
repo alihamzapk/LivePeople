@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 1 project was based on a chatbot that collecte
   in a focus group to provide feedback.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 1
@@ -28,24 +29,34 @@ latitude_map: 51.5
 longitude_map: 0.12
 start_date: 2021-03-12
 end_date: 2021-03-28
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/">
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/">
   Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-App-usage/">
-  App-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Position/">
-  Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Connectivity/">
-  Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Motion/">
-  Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-App-usage/">
+  App-usage</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Position/">
+  Position</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Connectivity/">
+  Connectivity</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Motion/">
+  Motion</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-London-Synchronic-Interactions/">
 size: 8.10 MB
 dataset_format: parquet
 other_format: csv
 number_participants: 10
 language: English
 collection_name: Chatbot1
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4851">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4851</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4851">https://ds.datascientia.eu/community/public/projects/7cdeeca4-a7be-4024-93c8-07e4cbea4851</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 2023-04-18
 identifier: 005.AAAE.AAE.**
