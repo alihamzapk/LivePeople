@@ -40,6 +40,7 @@ project_url: <a
   href="https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7">https://ds.datascientia.eu/community/public/projects/9e382c6d-6885-45df-97cb-d24fcbacc0a7</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 20/12/2023
 identifier: 003.AAAC.AAA.**

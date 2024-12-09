@@ -47,6 +47,7 @@ project_url: <a
   href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8</a>
 category:
 - Dataset Bundle
+domain: Digital University
 5_stars: 3
 publication_date: 2024-Oct-03
 identifier: 007.AAAN.AAN.AG-AH-AI-AJ

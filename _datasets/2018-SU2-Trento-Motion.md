@@ -31,7 +31,7 @@ resources:
     https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
-dataset_name: Motion 
+dataset_name: Motion
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
@@ -58,6 +58,7 @@ project_url: <a
   href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
 - Dataset Bundle
+domain: Digital University
 5_stars: 3
 publication_date: 2023-04-07
 identifier: 002.AAAB.AAA.BA-BG-BD-AY-BB

@@ -24,15 +24,23 @@ latitude_map: 21.03
 longitude_map: 105.8
 start_date: 2022.06.13
 end_date: 2022.07.11
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/">
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/">
   Diachronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-App-usage/">
-  App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Device-usage/">
-  Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Position/">
-  Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Connectivity/">
-  Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Motion/">
-  Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Environment/">
-  Environment</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-App-usage/">
+  App-usage</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Device-usage/">
+  Device-usage</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Position/">
+  Position</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Connectivity/">
+  Connectivity</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Motion/">
+  Motion</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Environment/">
+  Environment</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Diachronic-Interactions/">
   Diachronic-Interactions</a>
 size: 11264 MB
 dataset_format: parquet
@@ -40,9 +48,11 @@ other_format: csv
 number_participants: 112
 language: English
 collection_name: OC_FPT
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca">https://ds.datascientia.eu/community/public/projects/3b975830-9ecc-4127-855b-f88b8b5fe2ca</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 2023-12-20 00:00:00
 identifier: 006.AAAJ.AAJ.**
