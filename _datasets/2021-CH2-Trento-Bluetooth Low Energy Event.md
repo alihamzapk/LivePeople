@@ -21,8 +21,8 @@ dataset_name: Bluetooth Low Energy
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2021.12.20
-end_date: 2021.12.08
+start_date: 2021-12-20
+end_date: 2021-12-08
 dataset_type: Sensors
 sensor_type: Connectivity
 size: 11.61 MB
@@ -36,7 +36,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 18/04/2023
+publication_date: 2023-04-18
 identifier: 005.AAAG.AAA.AL
 request_contact: datadistribution.knowdive@unitn.it
 ---

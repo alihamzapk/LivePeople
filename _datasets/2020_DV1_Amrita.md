@@ -22,8 +22,8 @@ dataset_name: Wenet DiversityOne
 location: Amrita (India)
 latitude_map: 10.9
 longitude_map: 76.9
-start_date: 2021.07.12
-end_date: 2021.08.12
+start_date: 2021-07-12
+end_date: 2021-08-12
 dataset_type: Sensors, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Amrita-Diachronic-Interactions/">
   Diachronic-Interactions</a>, <a 
@@ -58,7 +58,7 @@ category:
 - Project
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAG.**
 request_contact: datadistribution.knowdive@unitn.it
 ---

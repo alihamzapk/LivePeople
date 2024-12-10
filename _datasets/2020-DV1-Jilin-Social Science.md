@@ -22,8 +22,8 @@ dataset_name: Daily annotations & Location
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: 2021.05.17
-end_date: 2021.06.18
+start_date: 2021-05-17
+end_date: 2021-06-18
 dataset_type: Sensors, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Diachronic-Interactions/">Diachronic-Interactions</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Jilin-Synchronic-Interactions/">Synchronic-Interactions</a>
@@ -52,7 +52,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAF.BN-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---

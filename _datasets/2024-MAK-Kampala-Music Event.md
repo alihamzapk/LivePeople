@@ -35,7 +35,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2024-Oct-03
+publication_date: 2024-10-03
 identifier: 007.AAAN.AAN.AI
 request_contact: datadistribution.knowdive@unitn.it
 ---

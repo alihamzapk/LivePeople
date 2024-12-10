@@ -27,8 +27,8 @@ dataset_name: Motion
 location: Ulan-Bator (Mongolia)
 latitude_map: 47.88
 longitude_map: 106.9
-start_date: 2021.03.12
-end_date: 2021.03.28
+start_date: 2021-03-12
+end_date: 2021-03-28
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Ulan%20Bator-Activities%20Per%20Time/">
@@ -49,7 +49,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 18/04/2023 00:00:00
+publication_date: 2023-04-18
 identifier: 005.AAAE.AAB.BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---

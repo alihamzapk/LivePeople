@@ -22,8 +22,8 @@ dataset_name: Wenet DiversityOne
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2020.10.19
-end_date: 2020.12.18
+start_date: 2020-10-19
+end_date: 2020-12-18
 dataset_type: Sensors, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-London-Diachronic-Interactions/">
   Diachronic-Interactions</a>, <a 
@@ -58,7 +58,7 @@ category:
 - Project
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAE.**
 request_contact: datadistribution.knowdive@unitn.it
 ---

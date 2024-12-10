@@ -21,8 +21,8 @@ dataset_name: Chat
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2021.11.22
-end_date: 2021.12.06
+start_date: 2021-11-22
+end_date: 2021-12-06
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 0.09 MB

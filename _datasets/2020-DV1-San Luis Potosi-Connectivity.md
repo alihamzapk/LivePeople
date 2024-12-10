@@ -23,8 +23,8 @@ dataset_name: Connectivity
 location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: -100.9
-start_date: 2020.07.18
-end_date: 2021.08.14
+start_date: 2020-07-18
+end_date: 2021-08-14
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potos%C3%AD%20-Cellular%20Network/">
@@ -45,7 +45,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAH.AM-AO-AN-AK
 request_contact: datadistribution.knowdive@unitn.it
 ---

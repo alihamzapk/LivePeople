@@ -25,8 +25,8 @@ dataset_name: Time Diaries
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2024.05.24
-end_date: 2024.08.24
+start_date: 2024-05-24
+end_date: 2024-08-24
 dataset_type: Diachronic-Interactions
 sensor_type: unknown
 size: 19.90 MB
@@ -41,7 +41,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 9/16/2024
+publication_date: 2024-09-16
 identifier: 007.AAAP.AAA.AC
 request_contact: datadistribution.knowdive@unitn.it
 ---

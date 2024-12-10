@@ -23,8 +23,8 @@ dataset_name: Battery Monitoring Log
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2020.11.23
-end_date: 2020.12.18
+start_date: 2020-11-23
+end_date: 2020-12-18
 dataset_type: Sensors
 sensor_type: Device-usage
 size: 4.33 MB
@@ -38,7 +38,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAE.BT
 request_contact: datadistribution.knowdive@unitn.it
 ---

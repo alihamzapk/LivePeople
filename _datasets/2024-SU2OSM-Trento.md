@@ -25,8 +25,8 @@ dataset_name: Smart Unitn 2 OSM
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2024.05.24
-end_date: 2024.08.24
+start_date: 2024-05-24
+end_date: 2024-08-24
 dataset_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-SU2OSM-Trento-Diachronic-Interactions/">Diachronic-Interactions
   </a>
@@ -45,7 +45,7 @@ category:
 - Project
 domain: Digital University
 5_stars: 3
-publication_date: 9/16/2024
+publication_date: 2024-09-16
 identifier: 007.AAAP.AAA.**
 request_contact: datadistribution.knowdive@unitn.it
 ---

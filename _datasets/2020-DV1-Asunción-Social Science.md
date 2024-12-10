@@ -22,8 +22,8 @@ dataset_name: Daily annotations & Location
 location: Asunción (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Sensors, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Diachronic-Interactions/">Diachronic-Interactions</a>,<a
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asuncion-Synchronic-Interactions/">Synchronic-Interactions</a>
@@ -52,7 +52,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAD.BN-BO
 request_contact: datadistribution.knowdive@unitn.it
 ---

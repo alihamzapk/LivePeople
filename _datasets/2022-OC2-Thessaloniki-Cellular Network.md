@@ -19,8 +19,8 @@ dataset_name: Cellular Network
 location: Thessaloniki (Greece)
 latitude_map: 40.64
 longitude_map: 22.94
-start_date: 2022.06.07
-end_date: 2022.07.06
+start_date: 2022-06-07
+end_date: 2022-07-06
 dataset_type: Sensors
 sensor_type: Connectivity
 size: 5.73 MB
@@ -34,7 +34,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-12-20 00:00:00
+publication_date: 2023-12-20
 identifier: 006.AAAI.AAK.AM
 request_contact: datadistribution.knowdive@unitn.it
 ---

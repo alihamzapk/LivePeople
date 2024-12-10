@@ -22,8 +22,8 @@ dataset_name: Motion
 location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Asunci%C3%B3n-Accelerometer%20Event/">accelerometer</a>,
@@ -47,7 +47,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAD.AY-BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---

@@ -27,8 +27,8 @@ dataset_name: Diachronic-Interactions
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2021.06.04
-end_date: 2021.06.18
+start_date: 2021-06-04
+end_date: 2021-06-18
 dataset_type: Diachronic-Interactions
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Trento-Chat/">
@@ -45,7 +45,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 18/04/2023 00:00:00
+publication_date: 2023-04-18
 identifier: 005.AAAE.AAA.CA
 request_contact: datadistribution.knowdive@unitn.it
 ---

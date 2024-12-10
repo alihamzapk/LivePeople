@@ -27,8 +27,8 @@ dataset_name: Position
 location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
-start_date: 2021.03.16
-end_date: 2021.03.31
+start_date: 2021-03-16
+end_date: 2021-03-31
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH1-Asunci%C3%B3n-Location%20Event/">location</a>
@@ -44,7 +44,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 18/04/2023 00:00:00
+publication_date: 2023-04-18
 identifier: 005.AAAE.AAD.BM
 request_contact: datadistribution.knowdive@unitn.it
 ---

@@ -22,8 +22,8 @@ dataset_name: Wenet DiversityOne
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
 longitude_map: -100.9
-start_date: 2019.08.30
-end_date: 2021.08.14
+start_date: 2019-08-30
+end_date: 2021-08-14
 dataset_type: Sensors, <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-San%20Luis%20Potosi-Diachronic-Interactions/">
   Diachronic-Interactions</a>, <a 
@@ -58,7 +58,7 @@ category:
 - Project
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAH.**
 request_contact: datadistribution.knowdive@unitn.it
 ---

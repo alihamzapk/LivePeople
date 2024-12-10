@@ -23,8 +23,8 @@ dataset_name: Motion
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Copenhagen-Accelerometer%20Event/">accelerometer</a>,
@@ -48,7 +48,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAC.AY-BF-BH-BI
 request_contact: datadistribution.knowdive@unitn.it
 ---

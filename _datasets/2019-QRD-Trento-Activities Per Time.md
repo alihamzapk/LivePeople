@@ -25,8 +25,8 @@ dataset_name: Activities
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 09/07/2020
-end_date: 09/07/2020
+start_date: 2020-09-07
+end_date: 2020-09-07
 dataset_type: Sensors
 sensor_type: Motion
 size: 82.93 MB
@@ -40,7 +40,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 20/12/2023
+publication_date: 2023-12-20
 identifier: 003.AAAC.AAA.BF
 request_contact: datadistribution.knowdive@unitn.it
 ---

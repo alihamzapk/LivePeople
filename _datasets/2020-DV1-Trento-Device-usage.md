@@ -23,8 +23,8 @@ dataset_name: Device-usage
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2020-DV1-Trento-Airplane%20Mode%20Event/">airplane
@@ -55,7 +55,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 30/11/2023 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAA.BS-BV-BW-BX-BY-BU-BT-BZ
 request_contact: datadistribution.knowdive@unitn.it
 ---

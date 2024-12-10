@@ -20,8 +20,8 @@ dataset_name: Application
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2021.06.04
-end_date: 2021.06.18
+start_date: 2021-06-04
+end_date: 2021-06-18
 dataset_type: Sensor
 sensor_type: App usage
 size: 19.81 MB

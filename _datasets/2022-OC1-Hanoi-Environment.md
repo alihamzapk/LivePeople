@@ -22,8 +22,8 @@ dataset_name: Environment
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.13
-end_date: 2022.07.11
+start_date: 2022-06-13
+end_date: 2022-07-11
 dataset_type: Sensors
 sensor_type: <a 
   href="https://datascientiafoundation.github.io/LivePeople/datasets/2022-OC1-Hanoi-Pressure%20Event/">pressure</a>,
@@ -41,7 +41,7 @@ category:
 - Dataset Bundle
 domain: Digital University
 5_stars: 3
-publication_date: 20/12/2023 00:00:00
+publication_date: 2023-12-20
 identifier: 006.AAAJ.AAJ.AS-AR
 request_contact: datadistribution.knowdive@unitn.it
 ---

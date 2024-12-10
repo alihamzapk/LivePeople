@@ -23,8 +23,8 @@ dataset_name: Touch
 location: Trento (Italy)
 latitude_map: 46.07
 longitude_map: 11.13
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Sensors
 sensor_type: Device-usage
 size: 321.04 MB
@@ -38,7 +38,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAA.BY
 request_contact: datadistribution.knowdive@unitn.it
 ---

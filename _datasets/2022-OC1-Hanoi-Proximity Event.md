@@ -19,8 +19,8 @@ dataset_name: Proximity
 location: Hanoi (Vietnam)
 latitude_map: 21.03
 longitude_map: 105.8
-start_date: 2022.06.13
-end_date: 2022.07.11
+start_date: 2022-06-13
+end_date: 2022-07-11
 dataset_type: Sensors
 sensor_type: Position
 size: 14.57 MB
@@ -34,7 +34,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-12-20 00:00:00
+publication_date: 2023-12-20
 identifier: 006.AAAJ.AAJ.BR
 request_contact: datadistribution.knowdive@unitn.it
 ---

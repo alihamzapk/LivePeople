@@ -23,8 +23,8 @@ dataset_name: Questionnaire Diversity B
 location: Copenhagen (Denmark)
 latitude_map: 55.67
 longitude_map: 12.56
-start_date: 2020.11.16
-end_date: 2020.12.11
+start_date: 2020-11-16
+end_date: 2020-12-11
 dataset_type: Synchronic-Interactions
 sensor_type: nan
 size: 0.02 MB
@@ -38,7 +38,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAC.AA
 request_contact: datadistribution.knowdive@unitn.it
 ---

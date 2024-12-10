@@ -23,7 +23,7 @@ dataset_name: Magnetic Field
 location: San Luis Potosí (Mexico)
 latitude_map: 22.15
 vstart_date: 2020.07.18
-end_date: 2021.08.14
+end_date: 2021-08-14
 dataset_type: Sensors
 sensor_type: Position
 size: 11183.96 MB
@@ -37,7 +37,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAH.BP
 request_contact: datadistribution.knowdive@unitn.it
 ---

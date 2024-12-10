@@ -24,8 +24,8 @@ dataset_name: Headset Plug
 location: London (United Kingdom)
 latitude_map: 51.5
 longitude_map: 0.12
-start_date: 2020.11.23
-end_date: 2020.12.18
+start_date: 2020-11-23
+end_date: 2020-12-18
 dataset_type: Sensors
 sensor_type: App-usage
 size: 0.45 MB
@@ -39,7 +39,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAE.AH
 request_contact: datadistribution.knowdive@unitn.it
 ---

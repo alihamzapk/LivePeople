@@ -26,8 +26,8 @@ dataset_name: User Presence
 location: Jilin (China)
 latitude_map: 43.83
 longitude_map: 126.5
-start_date: 2021.05.17
-end_date: 2021.06.18
+start_date: 2021-05-17
+end_date: 2021-06-18
 dataset_type: Sensors
 sensor_type: Device-usage
 size: 0.83 MB
@@ -41,7 +41,7 @@ category:
 - Dataset
 domain: Digital University
 5_stars: 3
-publication_date: 2023-11-30 00:00:00
+publication_date: 2023-11-30
 identifier: 004.AAAD.AAF.BZ
 request_contact: datadistribution.knowdive@unitn.it
 ---
