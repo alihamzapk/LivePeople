@@ -42,6 +42,16 @@ export function createDatasetFilters (filters) {
     if (filters.location) {
       conditions.push(dataset.location && slugify(dataset.location).indexOf(filters.location) !== -1)
     }
+    if (filters.domain) {
+      conditions.push(dataset.domain && slugify(dataset.domain).indexOf(filters.domain) !== -1)
+    }
+    if (filters.collection_name) {
+      conditions.push(dataset.collection_name && slugify(dataset.collection_name).indexOf(filters.collection_name) !== -1)
+    }
+    if (filters.year) {
+      // If you extract year from start_date and store it in dataset.year, you can do:
+      conditions.push(dataset.year && slugify(dataset.year).indexOf(filters.year) !== -1)
+    }
     return conditions.every(function (value) { return !!value })
   }
 }
