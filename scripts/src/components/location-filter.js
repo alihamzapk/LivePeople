@@ -24,10 +24,10 @@ export default class LocationFilter {
           duplicates.push(defaults({ location: loc }, value))
         })
         return duplicates
-      })
+      }) 
       .groupBy('location')
       .map((datasetsInLoc, location) => {
-        const filters = createDatasetFilters(pick(params, ['organization']))
+        const filters = createDatasetFilters(pick(params, ['location']))
         const filteredDatasets = filter(datasetsInLoc, filters)
         const locationSlug = slugify(location)
         const selected = params.location && params.location === locationSlug
