@@ -41,7 +41,7 @@ export function createDatasetFilters (filters) {
     }
     if (filters.location) {
       conditions.push(dataset.location && slugify(dataset.location).indexOf(filters.location) !== -1)
-    }
+    } 
     if (filters.domain) {
       conditions.push(dataset.domain && slugify(dataset.domain).indexOf(filters.domain) !== -1)
     }
@@ -49,9 +49,9 @@ export function createDatasetFilters (filters) {
       conditions.push(dataset.collection_name && slugify(dataset.collection_name).indexOf(filters.collection_name) !== -1)
     }
     if (filters.year) {
-      // If you extract year from start_date and store it in dataset.year, you can do:
-      conditions.push(dataset.year && slugify(dataset.year).indexOf(filters.year) !== -1)
-    }
+      const datasetYear = extractYear(dataset.start_date); // Ensure year is extracted properly
+      conditions.push(datasetYear && slugify(datasetYear).indexOf(filters.year) !== -1);
+    } 
     return conditions.every(function (value) { return !!value })
   }
 }
@@ -88,4 +88,11 @@ export function updateYamlString (yamlString, updateObject) {
     }
   }
   return yamlString
+}
+
+export function extractYear(dateString) {
+  if (!dateString) return null;
+
+  const match = dateString.match(/^(\d{4})[-./]/); // Match the year part (YYYY)
+  return match ? match[1] : null;
 }
