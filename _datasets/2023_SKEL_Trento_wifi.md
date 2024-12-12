@@ -24,7 +24,7 @@ dataset_format: parquet  # Fixed
 data_origin: direct observation
 number_participants: 59
 language: unknown
-collection_name: SHB course
+collection_name: SKEL
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/63cd43b5-9e20-4f36-a6b6-275946352522">Datascientia
   community project</a>
