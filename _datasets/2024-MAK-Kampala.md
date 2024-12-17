@@ -9,7 +9,7 @@ resources:
     https://arxiv.org/abs/2409.05883
   format: PDF
 license: >-
-./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Makerere
 location: Kampala (Uganda)
 latitude_map: 0.335
