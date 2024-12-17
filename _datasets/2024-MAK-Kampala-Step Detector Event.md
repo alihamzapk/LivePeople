@@ -2,22 +2,14 @@
 schema: default
 title: 2024-Makerere-Kampala-Step Detector
 organization: Unitn
-notes: This dataset exploits the Android API that counts (incrementally) the number
-  of steps since the devices booted. The step detector sensor collects an event each
-  time a step is taken by the user. The value reported by the sensor is always one,
-  the fractional part being always zero, and the event timestamp is the time when
-  the user's foot hit the ground.  It is part of the Makerere data collection, which
-  contains data about the everyday life activities of students coming from Makerere
-  University located in Uganda. The data were collected via questionnaires, data coming
-  from 30 smartphone sensors associated to thousand self-reported annotations over
-  a period of 8 weeks.
+notes: This dataset exploits the Android API that counts (incrementally) the number of steps since the devices booted. The step detector sensor collects an event each time a step is taken by the user. The value reported by the sensor is always one, the fractional part being always zero, and the event timestamp is the time when the user's foot hit the ground.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
 resources:
 - name: Codebook
   url: >-
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-stepdetector.html
   format: html
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+./../../resources/2023LivePeopleLicense.html
 dataset_name: Step Detector
 location: Kampala (Uganda)
 latitude_map: 0.335
@@ -31,9 +23,8 @@ dataset_format: parquet
 other_format: csv
 number_participants: 47
 language: English
-collection_name: Mak
-project_url: <a 
-  href="https://datascientia.disi.unitn.it/projects/mak/">https://datascientia.disi.unitn.it/projects/mak/</a>
+collection_name: MAK
+project_url: <a href="https://datascientia.disi.unitn.it/projects/mak/">https://datascientia.disi.unitn.it/projects/mak/</a>
 category:
 - Dataset
 domain: Digital University
