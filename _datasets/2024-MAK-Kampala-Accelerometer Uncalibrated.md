@@ -2,14 +2,21 @@
 schema: default
 title: 2024-Makerere-Kampala-Accelerometer Uncalibrated
 organization: Unitn
-notes: This dataset gathers information from the accelerometer sensor, returning uncalibrated values. Uncalibrated sensors provide more raw results and may include some bias but also contain fewer "jumps" from corrections applied through calibration. Some apps may prefer these uncalibrated results as smoother and more reliable.  It is part of the Makerere data collection, which contains data about the everyday life activities of students coming from Makerere University located in Uganda. The data were collected via questionnaires, data coming from 30 smartphone sensors associated to thousand self-reported annotations over a period of 8 weeks.
+notes: This dataset gathers information from the accelerometer sensor, returning uncalibrated
+  values. Uncalibrated sensors provide more raw results and may include some bias
+  but also contain fewer "jumps" from corrections applied through calibration. Some
+  apps may prefer these uncalibrated results as smoother and more reliable.  It is
+  part of the Makerere data collection, which contains data about the everyday life
+  activities of students coming from Makerere University located in Uganda. The data
+  were collected via questionnaires, data coming from 30 smartphone sensors associated
+  to thousand self-reported annotations over a period of 8 weeks.
 resources:
 - name: Codebook
   url: >-
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2024-MAK-Kampala-accelerometeruncalibrated.html
   format: html
 license: >-
-./../../resources/2023LivePeopleLicense.html
+  ./../../resources/2023LivePeopleLicense.html
 dataset_name: Accelerometer Uncalibrated
 location: Kampala (Uganda)
 latitude_map: 0.335
@@ -23,8 +30,9 @@ dataset_format: parquet
 other_format: csv
 number_participants: 29
 language: English
-collection_name: MAK
-project_url: <a href="https://datascientia.disi.unitn.it/projects/mak/">https://datascientia.disi.unitn.it/projects/mak/</a>
+collection_name: Mak
+project_url: <a 
+  href="https://datascientia.disi.unitn.it/projects/mak/">https://datascientia.disi.unitn.it/projects/mak/</a>
 category:
 - Dataset
 domain: Digital University
