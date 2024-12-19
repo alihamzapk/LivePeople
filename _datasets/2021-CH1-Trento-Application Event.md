@@ -29,7 +29,7 @@ dataset_format: parquet
 other_format: csv
 number_participants: 62
 language: Not Applicable
-collection_name: Chatbot1
+collection_name: ChatApplication1
 project_url: <a href="https://www.internetofus.eu/">https://www.internetofus.eu/</a>
 category:
 - Dataset

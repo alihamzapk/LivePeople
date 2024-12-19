@@ -52,7 +52,7 @@ dataset_format: parquet
 other_format: csv
 number_participants: 21
 language: English
-collection_name: Chatbot1
+collection_name: ChatApplication1
 project_url: <a 
   href="https://ds.datascientia.eu/community/public/projects/dcfa089a-1394-4536-abce-0dc44d6aeebd">https://ds.datascientia.eu/community/public/projects/dcfa089a-1394-4536-abce-0dc44d6aeebd</a>
 category:
