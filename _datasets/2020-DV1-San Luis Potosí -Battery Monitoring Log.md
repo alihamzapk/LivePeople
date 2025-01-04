@@ -2,12 +2,7 @@
 schema: default
 title: 2020-DiversityOne-San Luis Potosí -Battery Monitoring Log
 organization: Unitn
-notes: This dataset returns the phone's battery level. It is part of Wenet Diversity
-  1 data collection, which contains data about the everyday life activities of students
-  coming from 8 different universities located in China, Denmark, India, Italy, Mexico,
-  Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming
-  from 27 smartphone sensors associated to thousand self-reported annotations over
-  a period of 4 weeks.
+notes: This dataset returns the phone's battery level. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
   url: >-
@@ -18,9 +13,9 @@ resources:
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2020_DV1_San-Luis-Potosi_batterymonitoringlog.html
   format: html
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Battery Monitoring Log
-location: San Luis Potosí (Mexico)
+location: San Luis Potosi (Mexico)
 latitude_map: 22.15
 longitude_map: -100.9
 start_date: 2020-07-18
@@ -42,3 +37,5 @@ publication_date: 2023-11-30
 identifier: 004.AAAD.AAH.BT
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

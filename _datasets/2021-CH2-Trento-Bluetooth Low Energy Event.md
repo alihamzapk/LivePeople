@@ -2,10 +2,7 @@
 schema: default
 title: 2021-ChatApplicationTwo-Trento-Bluetooth Low Energy
 organization: Unitn
-notes: The dataset returns whether the device to wirelessly exchange data with other
-  Bluetooth Low Energy devices. The dataset was collected as part of the WeNet project,
-  a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated
-  paradigm for social interactions.
+notes: The dataset returns whether the device to wirelessly exchange data with other Bluetooth Low Energy devices. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
   url: >-
@@ -16,7 +13,7 @@ resources:
     https://drive.google.com/file/d/1y9vTM9f7i9r-9sCHwPpV3MUrdV2VGtvX/view?usp=sharing
   format: html
 license: >-
-  ./././resources/2023LivePeopleLicense.html
+ ./././resources/2023LivePeopleLicense.html
 dataset_name: Bluetooth Low Energy
 location: Trento (Italy)
 latitude_map: 46.07
@@ -40,3 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAG.AAA.AL
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

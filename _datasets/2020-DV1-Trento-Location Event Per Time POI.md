@@ -2,13 +2,7 @@
 schema: default
 title: 2020-DiversityOne-Trento-Location POI
 organization: Unitn
-notes: This dataset returns the Point Of Interests surrounding the geocoordinates
-  of where the phone is located. POI extracted every 5 minutes. It is part of Wenet
-  Diversity 1 data collection, which contains data about the everyday life activities
-  of students coming from 8 different universities located in China, Denmark, India,
-  Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires,
-  data coming from 27 smartphone sensors associated to thousand self-reported annotations
-  over a period of 4 weeks.
+notes: This dataset returns the Point Of Interests surrounding the geocoordinates of where the phone is located. POI extracted every 5 minutes. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
   url: >-
@@ -19,7 +13,7 @@ resources:
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2020_DV1_Trento_location_poi.html
   format: html
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Location POI
 location: Trento (Italy)
 latitude_map: 46.07
@@ -43,3 +37,5 @@ publication_date: 2023-11-30
 identifier: 004.AAAD.AAA.BN
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

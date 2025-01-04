@@ -2,10 +2,7 @@
 schema: default
 title: 2018-SmartUnitnTwo-Trento-Rotation Vector
 organization: Unitn
-notes: The dataset contains 3D vector of the rotation. It is part of SmartUnitn2 data
-  collection, which contains data from 27 sensors associated to around 100+ thousand
-  self-reported annotations about the everyday life of 158 university students over
-  a period of 4 weeks, and also additional data about profile.
+notes: The dataset contains 3D vector of the rotation. It is part of SmartUnitn2 data collection, which contains data from 27 sensors associated to around 100+ thousand self-reported annotations about the everyday life of 158 university students over a period of 4 weeks, and also additional data about profile.
 resources:
 - name: 2018-SmartUnitn2-technical_report
   url: >-
@@ -28,7 +25,7 @@ resources:
     https://drive.google.com/file/d/1yY8RNaWO_eh4-UnXHkL2jpZld2739K3K/view?usp=share_link
   format: PDF
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Rotation Vector
 location: Trento (Italy)
 latitude_map: 46.07
@@ -43,8 +40,7 @@ other_format: csv
 number_participants: 103
 language: Not Applicable
 collection_name: SmartUnitn2
-project_url: <a 
-  href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
+project_url: <a href="http://www.smart-society-project.eu/">http://www.smart-society-project.eu/</a>
 category:
 - Dataset
 domain: Digital University
@@ -53,3 +49,5 @@ publication_date: 2023-04-07
 identifier: 002.AAAB.AAA.BG
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

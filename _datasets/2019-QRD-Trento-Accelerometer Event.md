@@ -4,20 +4,20 @@ title: 2019-QROWD-Trento-Accelerometer
 organization: Unitn
 notes: This dataset returns the 3D vector of the acceleration.
 resources:
-- name:
-  url: >
-
-  format:
-- name:
-  url: >
-
-  format:
-- name:
-  url: >
-
-  format:
+- name: None
+  url: >-
+    
+  format: None
+- name: None
+  url: >-
+    
+  format: None
+- name: None
+  url: >-
+    
+  format: None
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Accelerometer
 location: Trento (Italy)
 latitude_map: 46.07
@@ -41,3 +41,5 @@ publication_date: 2023-12-20
 identifier: 003.AAAC.AAA.AY
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

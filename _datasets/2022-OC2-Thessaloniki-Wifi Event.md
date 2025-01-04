@@ -2,19 +2,14 @@
 schema: default
 title: 2022-OC2-Thessaloniki-Wifi
 organization: Unitn
-notes: This dataset returns information related to the WIFI network to which the phone
-  is connected to, if connected will also report the WIFI network id. The dataset
-  was collected as part of the WeNet project, a Horizon 2020 funded project that aims
-  at developing a diversity-aware, machine-mediated paradigm for social interactions.
-  It collected information on the eating/drinking activities of the students of the
-  UTH University.
+notes: This dataset returns information related to the WIFI network to which the phone is connected to, if connected will also report the WIFI network id. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Wifi
 location: Thessaloniki (Greece)
 latitude_map: 40.64
@@ -38,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAI.AAK.AN
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

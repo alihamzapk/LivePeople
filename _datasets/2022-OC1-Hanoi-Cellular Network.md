@@ -2,19 +2,14 @@
 schema: default
 title: 2022-OC1-Hanoi-Cellular Network
 organization: Unitn
-notes: The dataset contains data from a sensor that periodically collects information
-  about the cellular networks (name, id, type) the smartphone is connected to. The
-  dataset was collected as part of the WeNet project, a Horizon 2020 funded project
-  that aims at developing a diversity-aware, machine-mediated paradigm for social
-  interactions. It collected information on the eating/drinking activities of the
-  students of the FPT University.
+notes: The dataset contains data from a sensor that periodically collects information about the cellular networks (name, id, type) the smartphone is connected to. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the FPT University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Cellular Network
 location: Hanoi (Vietnam)
 latitude_map: 21.03
@@ -38,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAJ.AAJ.AM
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

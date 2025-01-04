@@ -2,15 +2,7 @@
 schema: default
 title: 2020-DiversityOne-Asunción-User Presence
 organization: Unitn
-notes: This dataset pertains to a sensor that detects when the user is present. An
-  example is when the user unlocks the screen. This sensor can be used in comparison
-  to Screen status to check if the screen turn on event occurred due to the user or,
-  for example, due to a received notification. The event user present OFF is simply
-  when the screen turns off. It is part of Wenet Diversity 1 data collection, which
-  contains data about the everyday life activities of students coming from 8 different
-  universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay
-  and UK. The data were collected via questionnaires, data coming from 27 smartphone
-  sensors associated to thousand self-reported annotations over a period of 4 weeks.
+notes: This dataset pertains to a sensor that detects when the user is present. An example is when the user unlocks the screen. This sensor can be used in comparison to Screen status to check if the screen turn on event occurred due to the user or, for example, due to a received notification. The event user present OFF is simply when the screen turns off. It is part of Wenet Diversity 1 data collection, which contains data about the everyday life activities of students coming from 8 different universities located in China, Denmark, India, Italy, Mexico, Mongolia, Paraguay and UK. The data were collected via questionnaires, data coming from 27 smartphone sensors associated to thousand self-reported annotations over a period of 4 weeks.
 resources:
 - name: 2022_WeNet_Diversity1_Technical-Report(2020-2021)
   url: >-
@@ -21,9 +13,9 @@ resources:
     https://datascientiafoundation.github.io/LivePeople-Documentation/codebooks/2020_DV1_Asuncion_userpresence.html
   format: html
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: User Presence
-location: Asunción (Paraguay)
+location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
 start_date: 2020-11-16
@@ -45,3 +37,5 @@ publication_date: 2023-11-30
 identifier: 004.AAAD.AAD.BZ
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

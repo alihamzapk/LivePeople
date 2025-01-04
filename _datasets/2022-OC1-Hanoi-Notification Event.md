@@ -2,18 +2,14 @@
 schema: default
 title: 2022-OC1-Hanoi-Notification
 organization: Unitn
-notes: The dataset measures when the phone receives a notification and when it is
-  dismissed by the user. The dataset was collected as part of the WeNet project, a
-  Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated
-  paradigm for social interactions. It collected information on the eating/drinking
-  activities of the students of the FPT University.
+notes: The dataset measures when the phone receives a notification and when it is dismissed by the user. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the FPT University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Notification
 location: Hanoi (Vietnam)
 latitude_map: 21.03
@@ -37,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAJ.AAJ.AJ
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

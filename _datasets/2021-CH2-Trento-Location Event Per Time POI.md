@@ -2,10 +2,7 @@
 schema: default
 title: 2021-ChatApplicationTwo-Trento-Location POI
 organization: Unitn
-notes: This dataset contains the Point Of Interests surrounding the geocoordinates
-  of where the phone is located. POI extracted every 5 minutes. The dataset was collected
-  as part of the WeNet project, a Horizon 2020 funded project that aims at developing
-  a diversity-aware, machine-mediated paradigm for social interactions.
+notes: This dataset contains the Point Of Interests surrounding the geocoordinates of where the phone is located. POI extracted every 5 minutes. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
   url: >-
@@ -16,7 +13,7 @@ resources:
     https://drive.google.com/file/d/1kAlm95IL3RO_M6r9e0X3oCYSKg0CeuuY/view?usp=sharing
   format: html
 license: >-
-  ./././resources/2023LivePeopleLicense.html
+ ./././resources/2023LivePeopleLicense.html
 dataset_name: Location POI
 location: Trento (Italy)
 latitude_map: 46.07
@@ -40,3 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAG.AAA.BM
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

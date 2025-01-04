@@ -2,21 +2,14 @@
 schema: default
 title: 2022-OC2-Thessaloniki-Activities
 organization: Unitn
-notes: The dataset returns a label identifying the activity performed by the user,
-  accurately detected using low power signals from multiple sensors in the device.
-  This is achieved using Google’s Activity Recognition API. Possible activities are;
-  still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was
-  collected as part of the WeNet project, a Horizon 2020 funded project that aims
-  at developing a diversity-aware, machine-mediated paradigm for social interactions.
-  It collected information on the eating/drinking activities of the students of the
-  UTH University.
+notes: The dataset returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Activities
 location: Thessaloniki (Greece)
 latitude_map: 40.64
@@ -40,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAI.AAK.BF
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

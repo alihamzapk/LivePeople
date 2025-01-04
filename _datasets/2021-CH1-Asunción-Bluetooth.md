@@ -2,10 +2,7 @@
 schema: default
 title: 2021-ChatApplicationOne-Asunción-Bluetooth
 organization: Unitn
-notes: The dataset returns wheter the device to wirelessly exchange data with other
-  Bluetooth devices. The dataset was collected as part of the WeNet project, a Horizon
-  2020 funded project that aims at developing a diversity-aware, machine-mediated
-  paradigm for social interactions.
+notes: The dataset returns wheter the device to wirelessly exchange data with other Bluetooth devices. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2021-Chatbot1-technical_report
   url: >-
@@ -16,9 +13,9 @@ resources:
     https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_bluetoothnormalevent.html
   format: html
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Bluetooth
-location: Asunción (Paraguay)
+location: Asuncion (Paraguay)
 latitude_map: -25.26
 longitude_map: -57.57
 start_date: 2021-03-16
@@ -40,3 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAE.AAD.AK
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

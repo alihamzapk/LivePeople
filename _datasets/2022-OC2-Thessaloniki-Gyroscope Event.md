@@ -2,18 +2,14 @@
 schema: default
 title: 2022-OC2-Thessaloniki-Gyroscope
 organization: Unitn
-notes: The datasets contains the 3D vector of the gyroscope showing the rate of rotation
-  (rad/s). The dataset was collected as part of the WeNet project, a Horizon 2020
-  funded project that aims at developing a diversity-aware, machine-mediated paradigm
-  for social interactions. It collected information on the eating/drinking activities
-  of the students of the UTH University.
+notes: The datasets contains the 3D vector of the gyroscope showing the rate of rotation (rad/s). The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the UTH University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Gyroscope
 location: Thessaloniki (Greece)
 latitude_map: 40.64
@@ -37,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAI.AAK.BB
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

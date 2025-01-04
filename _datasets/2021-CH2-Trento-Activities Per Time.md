@@ -2,12 +2,7 @@
 schema: default
 title: 2021-ChatApplicationTwo-Trento-Activities
 organization: Unitn
-notes: The dataset returns a label identifying the activity performed by the user,
-  accurately detected using low power signals from multiple sensors in the device.
-  This is achieved using Google’s Activity Recognition API. Possible activities are;
-  still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was
-  collected as part of the WeNet project, a Horizon 2020 funded project that aims
-  at developing a diversity-aware, machine-mediated paradigm for social interactions.
+notes: The dataset returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
   url: >-
@@ -18,7 +13,7 @@ resources:
     https://drive.google.com/file/d/1fsz9CGAepZAXFDAZ8haZQgYHFuO9YHa4/view?usp=sharing
   format: html
 license: >-
-  ./././resources/2023LivePeopleLicense.html
+ ./././resources/2023LivePeopleLicense.html
 dataset_name: Activities
 location: Trento (Italy)
 latitude_map: 46.07
@@ -42,3 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAG.AAA.BF
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

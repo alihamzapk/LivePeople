@@ -2,9 +2,7 @@
 schema: default
 title: 2021-ChatApplicationTwo-Trento-Location RD
 organization: Unitn
-notes: The dataset contains location information using GPS connections. The dataset
-  was collected as part of the WeNet project, a Horizon 2020 funded project that aims
-  at developing a diversity-aware, machine-mediated paradigm for social interactions.
+notes: The dataset contains location information using GPS connections. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
   url: >-
@@ -15,7 +13,7 @@ resources:
     https://drive.google.com/file/d/11Qc99Av4NA0yW5hw1v-cAJHhwjww0brA/view?usp=sharing
   format: html
 license: >-
-  ./././resources/2023LivePeopleLicense.html
+ ./././resources/2023LivePeopleLicense.html
 dataset_name: Location RD
 location: Trento (Italy)
 latitude_map: 46.07
@@ -39,3 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAG.AAA.BM
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+

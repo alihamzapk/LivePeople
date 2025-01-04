@@ -2,24 +2,20 @@
 schema: default
 title: 2021-ChatApplicationOne-Ulan Bator-Step Detector
 organization: Unitn
-notes: Sensor that returns a label identifying the activity performed by the user,
-  accurately detected using low power signals from multiple sensors in the device.
-  This is achieved using Google’s Activity Recognition API. Possible activities are;
-  still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was
-  collected as part of the WeNet project, a Horizon 2020 funded project that aims
-  at developing a diversity-aware, machine-mediated paradigm for social interactions.
+notes: Sensor that returns a label identifying the activity performed by the user, accurately detected using low power signals from multiple sensors in the device. This is achieved using Google’s Activity Recognition API. Possible activities are; still, in_vehicle, on_bycicle, on_foot, running, tilting, walking. The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions.
 resources:
 - name: 2021-Chatbot1-technical_report
-  url: 
+  url: >-
     https://drive.google.com/file/d/1m3_2X4b3gv-9tQS45FBCG7IJiVyeHgW3/view?usp=sharing
   format: PDF
 - name: 2021-Chatbot1-Step Detector Event-codebook
-  url: 
+  url: >-
     https://datascientiafoundation.github.io/LivePeople-Documentation/2021-Chatbot1/2021_CH1_stepdetectorevent.html
   format: html
-license: ./../../resources/2023LivePeopleLicense.html
+license: >-
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Step Detector
-location: Ulan Bator (Mongolia)
+location: Ulan-Bator (Mongolia)
 latitude_map: 47.88
 longitude_map: 106.9
 start_date: 2021-03-12
@@ -41,4 +37,5 @@ publication_date: 2023-04-18
 identifier: 005.AAAE.AAB.BI
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
 

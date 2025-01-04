@@ -2,19 +2,14 @@
 schema: default
 title: 2022-OC1-Hanoi-Proximity
 organization: Unitn
-notes: This dataset measures the distance between the user's head and the phone, depending
-  on the phone it may be measured in centimeters (i.e., the absolute distance) or
-  as labels (e.g., 'near', 'far'). The dataset was collected as part of the WeNet
-  project, a Horizon 2020 funded project that aims at developing a diversity-aware,
-  machine-mediated paradigm for social interactions. It collected information on the
-  eating/drinking activities of the students of the FPT University.
+notes: This dataset measures the distance between the user's head and the phone, depending on the phone it may be measured in centimeters (i.e., the absolute distance) or as labels (e.g., 'near', 'far'). The dataset was collected as part of the WeNet project, a Horizon 2020 funded project that aims at developing a diversity-aware, machine-mediated paradigm for social interactions. It collected information on the eating/drinking activities of the students of the FPT University.
 resources:
 - name: nan
   url: >-
     nan
   format: nan
 license: >-
-  ./../../resources/2023LivePeopleLicense.html
+ ./../../resources/2023LivePeopleLicense.html
 dataset_name: Proximity
 location: Hanoi (Vietnam)
 latitude_map: 21.03
@@ -38,3 +33,5 @@ publication_date: 2023-12-20
 identifier: 006.AAAJ.AAJ.BR
 request_contact: datadistribution.knowdive@unitn.it
 ---
+
+
