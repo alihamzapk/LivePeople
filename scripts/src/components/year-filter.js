@@ -62,13 +62,13 @@ export default class YearFilter {
     let match = dateStr.match(/^(\d{4})[-./]\d{1,2}[-./]\d{1,2}$/)
     if (match) return match[1]
 
-    // Another pattern: YYYY-MM-DD HH-mm-ss
-    match = dateStr.match(/^(\d{4})-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/);
-    if (match) return match[1];
-
-    // Another pattern: M/D/YYYY
-    match = dateStr.match(/(\d{4})$/)
-    if (match && match[1].length === 4) return match[1]
+//    // Another pattern: YYYY-MM-DD HH-mm-ss
+//    match = dateStr.match(/^(\d{4})-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/);
+//    if (match) return match[1];
+//
+//    // Another pattern: M/D/YYYY
+//    match = dateStr.match(/(\d{4})$/)
+//    if (match && match[1].length === 4) return match[1]
 
     // As a last resort, try parsing with Date and extracting the year:
     const parsedDate = new Date(dateStr)
@@ -77,6 +77,7 @@ export default class YearFilter {
     }
 
     // If all parsing attempts fail, return null
-    return null
+//    return null
+    return '2000'
   }
 }
