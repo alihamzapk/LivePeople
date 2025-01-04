@@ -5,15 +5,10 @@ import { setContent, slugify, createDatasetFilters, collapseListGroup } from '..
 
 export default class YearFilter {
   constructor(opts) {
-    console.log('YearFilter initialized with options:', opts);
-
     const years = this._yearsWithCount(opts.datasets, opts.params)
-    console.log('Years calculated:', years);
-
     const yearsMarkup = years.map(TmplListGroupItem)
     setContent(opts.el, yearsMarkup)
     collapseListGroup(opts.el)
-
   }
 
   _yearsWithCount(datasets, params) {
