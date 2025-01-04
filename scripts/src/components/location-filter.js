@@ -6,6 +6,7 @@ import { setContent, slugify, createDatasetFilters, collapseListGroup } from '..
 
 export default class LocationFilter {
   constructor(opts) {
+    console.log('location filter init');
     const locations = this._locationsWithCount(opts.datasets, opts.params)
     const locationsMarkup = locations.map(TmplListGroupItem)
     setContent(opts.el, locationsMarkup)
