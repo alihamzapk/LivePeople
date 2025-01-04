@@ -71,10 +71,10 @@ export default class YearFilter {
 //    if (match && match[1].length === 4) return match[1]
 
     // As a last resort, try parsing with Date and extracting the year:
-    const parsedDate = new Date(dateStr)
-    if (!isNaN(parsedDate.valueOf())) {
-      return '' + parsedDate.getFullYear()
-    }
+//    const parsedDate = new Date(dateStr)
+//    if (!isNaN(parsedDate.valueOf())) {
+//      return '' + parsedDate.getFullYear()
+//    }
 
     // If all parsing attempts fail, return null
 //    return null
