@@ -94,6 +94,5 @@ export function extractYear(dateString) {
   if (!dateString) return null;
 
   const match = dateString.match(/^(\d{4})[-./]/); // Match the year part (YYYY)
-//  return match ? match[1] : null;
-  return match ? match[1] : '2000';
+  return match ? match[1] : null;
 }

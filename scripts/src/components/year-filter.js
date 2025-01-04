@@ -5,10 +5,15 @@ import { setContent, slugify, createDatasetFilters, collapseListGroup } from '..
 
 export default class YearFilter {
   constructor(opts) {
+    console.log('YearFilter initialized with options:', opts);
+
     const years = this._yearsWithCount(opts.datasets, opts.params)
+    console.log('Years calculated:', years);
+
     const yearsMarkup = years.map(TmplListGroupItem)
     setContent(opts.el, yearsMarkup)
     collapseListGroup(opts.el)
+
   }
 
   _yearsWithCount(datasets, params) {
@@ -59,25 +64,20 @@ export default class YearFilter {
     // Try a few quick regex attempts to find a year:
     // Common patterns: 
     // - YYYY-MM-DD or YYYY.M.D or YYYY/M/D
-//    let match = dateStr.match(/^(\d{4})[-./]\d{1,2}[-./]\d{1,2}$/)
-//    if (match) return match[1]
+    let match = dateStr.match(/^(\d{4})[-./]\d{1,2}[-./]\d{1,2}$/)
+    if (match) return match[1]
 
-//    // Another pattern: YYYY-MM-DD HH-mm-ss
-//    match = dateStr.match(/^(\d{4})-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/);
-//    if (match) return match[1];
-//
-//    // Another pattern: M/D/YYYY
-//    match = dateStr.match(/(\d{4})$/)
-//    if (match && match[1].length === 4) return match[1]
+    // Another pattern: M/D/YYYY
+    match = dateStr.match(/(\d{4})$/)
+    if (match && match[1].length === 4) return match[1]
 
     // As a last resort, try parsing with Date and extracting the year:
-//    const parsedDate = new Date(dateStr)
-//    if (!isNaN(parsedDate.valueOf())) {
-//      return '' + parsedDate.getFullYear()
-//    }
+    const parsedDate = new Date(dateStr)
+    if (!isNaN(parsedDate.valueOf())) {
+      return '' + parsedDate.getFullYear()
+    }
 
     // If all parsing attempts fail, return null
-//    return null
-    return '2000'
+    return null
   }
 }
