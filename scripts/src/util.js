@@ -49,9 +49,9 @@ export function createDatasetFilters (filters) {
       conditions.push(dataset.collection_name && slugify(dataset.collection_name).indexOf(filters.collection_name) !== -1)
     }
     if (filters.year) {
-      const datasetYear = extractYear(dataset.start_date); // Ensure year is extracted properly
-      conditions.push(datasetYear && slugify(datasetYear).indexOf(filters.year) !== -1);
-    } 
+      const datasetYear = new Date(dataset.start_date).getFullYear().toString(); // Extract year from start_date
+      conditions.push(datasetYear === filters.year); // Compare it to the filters.year
+    }
     return conditions.every(function (value) { return !!value })
   }
 }
@@ -88,11 +88,4 @@ export function updateYamlString (yamlString, updateObject) {
     }
   }
   return yamlString
-}
-
-export function extractYear(dateString) {
-  if (!dateString) return null;
-
-  const match = dateString.match(/^(\d{4})[-./]/); // Match the year part (YYYY)
-  return match ? match[1] : null;
 }
