@@ -43,7 +43,7 @@ export default class LocationFilter {
           selected: selected
         }
       })
-      .orderBy('title', 'desc')
+      .orderBy('title', 'asc')
       .value()
   }
 }

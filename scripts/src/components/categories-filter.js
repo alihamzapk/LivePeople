@@ -40,7 +40,7 @@ export default class {
           selected: selected
         }
       })
-      .orderBy('title', 'desc')
+      .orderBy('title', 'asc')
       .value()
   }
 }
