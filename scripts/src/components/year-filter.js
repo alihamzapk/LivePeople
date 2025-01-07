@@ -19,7 +19,6 @@ export default class {
 
         const filters = createDatasetFilters(pick(params, ['category']))
         const filteredDatasets = filter(datasetsByYear, filters)
-
         const yearSlug = slugify(year.toString()) // Make sure the year is a string
         const selected = params.year && params.year === yearSlug
         const itemParams = selected

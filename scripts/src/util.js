@@ -50,7 +50,7 @@ export function createDatasetFilters (filters) {
     }
     if (filters.year) {
       const datasetYear = new Date(dataset.start_date).getFullYear().toString(); // Extract year from start_date
-      conditions.push(datasetYear === filters.year); // Compare it to the filters.year
+      conditions.push(datasetYear === filters.year); // Compare it to the filters.year 
     }
     return conditions.every(function (value) { return !!value })
   }
