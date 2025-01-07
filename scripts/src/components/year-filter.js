@@ -18,13 +18,17 @@ export default class {
 //        const yearFromStartDate = new Date(dataset.start_date).getFullYear(); // Extract year from start_date
           const titleYearMatch = dataset.title.match(/^\d{4}/); // Extract year from title
           const year = titleYearMatch ? titleYearMatch[0] : '2000'; // Default to 'Unknown' if no match
+
+          console.log(`Title: ${dataset.title}, Extracted Year: ${year}`);
           return year;
 
       })
       .map((datasetsByYear, year) => {
+        console.log(`Datasets for year: ${year}`, datasetsByYear);
 
         const filters = createDatasetFilters(pick(params, ['category']))
         const filteredDatasets = filter(datasetsByYear, filters)
+        console.log('Filtered datasets for year:', year, filteredDatasets)
 
         const yearSlug = slugify(year.toString()) // Ensure the year is a string
         const selected = params.year && params.year === yearSlug
