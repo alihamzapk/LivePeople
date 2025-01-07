@@ -10,19 +10,15 @@ export default class {
     const yearsMarkup = years.map(TmplListGroupItem)
     setContent(opts.el, yearsMarkup)
     collapseListGroup(opts.el)
-    console.log('Year Filter Initialized')
-    console.log('Years:', years)
   }
 
   _yearsWithCount(datasets, params) {
     return chain(datasets)
       .groupBy((dataset) => new Date(dataset.start_date).getFullYear()) // Group datasets by the year of start_date
       .map((datasetsByYear, year) => {
-        console.log('Datasets for year:', year, datasetsByYear)
 
         const filters = createDatasetFilters(pick(params, ['category']))
         const filteredDatasets = filter(datasetsByYear, filters)
-        console.log('Filtered datasets for year:', year, filteredDatasets)
 
         const yearSlug = slugify(year.toString()) // Make sure the year is a string
         const selected = params.year && params.year === yearSlug
