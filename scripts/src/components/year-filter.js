@@ -15,7 +15,6 @@ export default class {
   _yearsWithCount(datasets, params) {
     return chain(datasets)
       .groupBy((dataset) => {
-//        const yearFromStartDate = new Date(dataset.start_date).getFullYear(); // Extract year from start_date
           const titleYearMatch = dataset.title.match(/^\d{4}/); // Extract year from title
           const year = titleYearMatch ? titleYearMatch[0] : '2000'; // Default to 'Unknown' if no match
           return year;
