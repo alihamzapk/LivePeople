@@ -41,7 +41,7 @@ export function createDatasetFilters (filters) {
     }
     if (filters.location) {
       conditions.push(dataset.location && slugify(dataset.location).indexOf(filters.location) !== -1)
-    } 
+    }
     if (filters.domain) {
       conditions.push(dataset.domain && slugify(dataset.domain).indexOf(filters.domain) !== -1)
     }
@@ -49,8 +49,9 @@ export function createDatasetFilters (filters) {
       conditions.push(dataset.collection_name && slugify(dataset.collection_name).indexOf(filters.collection_name) !== -1)
     }
     if (filters.year) {
-      const datasetYear = new Date(dataset.start_date).getFullYear().toString(); // Extract year from start_date
-      conditions.push(datasetYear === filters.year); // Compare it to the filters.year 
+      const yearFromTitleMatch = dataset.title.match(/^\d{4}/); // Match the year at the start of the title
+      const yearFromTitle = yearFromTitleMatch ? yearFromTitleMatch[0] : null; // Extract the year or set to null
+      conditions.push(yearFromTitle && yearFromTitle === filters.year); // Include datasets that start with the specified year
     }
     return conditions.every(function (value) { return !!value })
   }
