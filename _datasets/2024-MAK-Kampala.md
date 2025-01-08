@@ -26,18 +26,29 @@ latitude_map: 0.335
 longitude_map: 32.56
 start_date: 2024-03-18
 end_date: 2024-05-13
-dataset_type: Sensors, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Synchronic-Interactions/">
+dataset_type: Sensors, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Synchronic-Interactions/">
   Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-App-usage/">
-  App-usage</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Device-usage/">
-  Device-usage</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Position/">
-  Position</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Connectivity/">
-  Connectivity</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Motion/">
-  Motion</a>,  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Environment/">
-  Environment</a>,<a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Inertial/">Inertial</a>,
-  <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Synchronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-App-usage/">
+  App-usage</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Device-usage/">
+  Device-usage</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Position/">
+  Position</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Connectivity/">
+  Connectivity</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Motion/">
+  Motion</a>,  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Environment/">
+  Environment</a>,<a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Inertial/">Inertial</a>,
+  <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2024-MAK-Kampala-Synchronic-Interactions/">
   Synchronic-Interactions</a>
 size: 22528 MB
 dataset_format: csv
@@ -45,9 +56,11 @@ other_format: unknown
 number_participants: 73
 language: English
 collection_name: Mak
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8">https://ds.datascientia.eu/community/public/projects/896bbb55-5ee2-4653-9b43-69cc88633ec8</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 2024-Oct-03
 identifier: 007.AAAN.AAN.**

@@ -19,7 +19,8 @@ notes: The Wenet Chat Application 2 project was based on a chatbot that interact
   phase, they participated in a focus group to provide feedback.
 resources:
 - name: 2022_LivePeople_Chatbot2_Data_Descriptor
-  url: https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
+  url: 
+    https://drive.google.com/file/d/1ilA2_f5HPHt5-4EvscsKo_lL-BgeFoF9/view?usp=sharing
   format: PDF
 license: ./../../resources/2023LivePeopleLicense.html
 dataset_name: Chat Application 2
@@ -28,11 +29,15 @@ latitude_map: 25.26
 longitude_map: 57.57
 start_date: 2022-01-17
 end_date: 2022-02-07
-dataset_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Synchronic-Interactions/">
+dataset_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Synchronic-Interactions/">
   Synchronic-Interactions</a>
-sensor_type: <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Diachronic-Interactions/">
-  Diachronic-Interactions</a>, <a href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Synchronic-Interactions/">
+sensor_type: <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Diachronic-Interactions/">
+  Diachronic-Interactions</a>, <a 
+  href="https://datascientiafoundation.github.io/LivePeople/datasets/2021-CH2-Asuncion-Synchronic-Interactions/">
   Synchronic-Interactions</a>
 size: 0.25 MB
 dataset_format: parquet
@@ -40,9 +45,11 @@ other_format: csv
 number_participants: 23
 language: English
 collection_name: ChatApplication2
-project_url: <a href="https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f">https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f</a>
+project_url: <a 
+  href="https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f">https://ds.datascientia.eu/community/public/projects/46939d63-b717-474c-9aa6-51773556248f</a>
 category:
 - Project
+domain: Digital University
 5_stars: 3
 publication_date: 2023-04-18
 identifier: 005.AAAG.AAD.**

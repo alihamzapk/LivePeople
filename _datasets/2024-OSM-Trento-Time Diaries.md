@@ -39,6 +39,7 @@ project_url: <a
   href="https://datascientia.disi.unitn.it/projects/su2osm/">https://datascientia.disi.unitn.it/projects/su2osm/</a>
 category:
 - Dataset
+domain: Digital University
 5_stars: 3
 publication_date: 9/16/2024
 identifier: 007.AAAP.AAA.AC
